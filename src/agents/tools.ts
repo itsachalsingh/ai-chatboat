@@ -40,18 +40,3 @@ export const checkApplicationStatusTool = tool({
     return statusResponseSchema.parse(data);
   }
 });
-
-export const downloadCertificateTool = tool({
-  description: "Check if a certificate can be downloaded for the authenticated user.",
-  parameters: z.object({
-    applicationNumber: z.string().min(1),
-    userId: z.string().min(1)
-  }),
-  execute: async ({ applicationNumber, userId }) => {
-    return {
-      applicationNumber,
-      userId,
-      canDownload: true
-    };
-  }
-});

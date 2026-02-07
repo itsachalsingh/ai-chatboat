@@ -21,14 +21,6 @@ export async function getChatSessionById(id: string) {
   return rows[0] ?? null;
 }
 
-export async function getChatSessionByTypeAndUser(type: ChatSessionType, userId: string) {
-  const [rows] = await pool.query<ChatSessionRow[]>(
-    "SELECT * FROM chat_sessions WHERE type = ? AND userId = ?",
-    [type, userId]
-  );
-  return rows[0] ?? null;
-}
-
 export async function createChatSession(input: {
   id: string;
   type: ChatSessionType;
