@@ -1,5 +1,6 @@
 import { z } from "zod";
 import { randomUUID } from "crypto";
+import { Readable } from "stream";
 import type { FastifyInstance } from "fastify";
 import { createChatMessage, getChatMessagesBySessionId } from "../db/chatMessages.js";
 import { createChatSession, getChatSessionById } from "../db/chatSessions.js";
@@ -29,6 +30,8 @@ function parseParts(contentParts: unknown) {
 }
 
 function toUIMessage(row: { role: string; contentParts: unknown }) {
+  return {
+    role: row.role.toLowerCase(),
   const normalizedRole = row.role.toLowerCase();
   const role: UIMessage["role"] =
     normalizedRole === "user" || normalizedRole === "assistant" || normalizedRole === "system"
@@ -103,6 +106,24 @@ export async function registerPublicChatRoutes(app: FastifyInstance) {
 
     const result = await publicChatbotAgent(body.data.messages as UIMessage[]);
 
+    result.onFinish(async ({ text }) => {
+      await createChatMessage({
+        id: randomUUID(),
+        sessionId: session.id,
+        role: "ASSISTANT",
+        contentParts: [{ type: "text", text }],
+        contentText: text,
+        userId: null
+      });
+    });
+
+    const response = result.toDataStreamResponse();
+    reply.raw.writeHead(response.status, Object.fromEntries(response.headers));
+    if (response.body) {
+      Readable.fromWeb(response.body).pipe(reply.raw);
+    } else {
+      reply.raw.end();
+    }
     // Persist the final assistant message once the stream completes.
     Promise.resolve(result.text)
       .then(async (text) => {
