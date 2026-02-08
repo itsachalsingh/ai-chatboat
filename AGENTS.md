@@ -45,7 +45,7 @@ MySQL:
 - `DATABASE_NAME`
 
 E-District integration:
-- `E_DISTRICT_API_BASE_URL`
+- `UTTARAJAL_API_BASE_URL`
 
 Qdrant:
 - `QDRANT_URL` (e.g. `http://localhost:6333`)

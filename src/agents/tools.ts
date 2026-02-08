@@ -29,7 +29,7 @@ export const checkApplicationStatusTool = tool({
   inputSchema: applicationStatusSchema,
   execute: async ({ applicationNumber }) => {
     const response = await fetch(
-      `${env.E_DISTRICT_API_BASE_URL}/forms/status/${applicationNumber}`
+      `${env.UTTARAJAL_API_BASE_URL}/forms/status/${applicationNumber}`
     );
 
     if (!response.ok) {
