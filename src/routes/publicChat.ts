@@ -32,6 +32,13 @@ function parseParts(contentParts: unknown) {
 function toUIMessage(row: { role: string; contentParts: unknown }) {
   return {
     role: row.role.toLowerCase(),
+  const normalizedRole = row.role.toLowerCase();
+  const role: UIMessage["role"] =
+    normalizedRole === "user" || normalizedRole === "assistant" || normalizedRole === "system"
+      ? normalizedRole
+      : "user";
+  return {
+    role,
     parts: parseParts(row.contentParts)
   } satisfies UIMessage;
 }
@@ -117,6 +124,23 @@ export async function registerPublicChatRoutes(app: FastifyInstance) {
     } else {
       reply.raw.end();
     }
+    // Persist the final assistant message once the stream completes.
+    Promise.resolve(result.text)
+      .then(async (text) => {
+        await createChatMessage({
+          id: randomUUID(),
+          sessionId: session.id,
+          role: "ASSISTANT",
+          contentParts: [{ type: "text", text }],
+          contentText: text,
+          userId: null
+        });
+      })
+      .catch(() => {
+        // Ignore persistence failures here; the stream response is already in-flight.
+      });
+
+    result.pipeTextStreamToResponse(reply.raw);
     return reply;
   });
 }

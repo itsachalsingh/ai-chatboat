@@ -313,5 +313,7 @@
     "question_hi": "क्या आप अन्य विषयों पर भी जवाब देते हैं?",
     "answer_hi": "मैं उत्तरजल जल-बिलिंग सेवाओं और शिकायतों में मदद कर सकता/सकती हूँ। अन्य विषयों के लिए संबंधित विभाग से संपर्क करें या http://uttarajal.uk.gov.in देखें।",
     "keywords": ["scope", "other topics", "irrelevant"]
+    "question": "What services are available?",
+    "answer": "Please provide the real FAQ content."
   }
 ]

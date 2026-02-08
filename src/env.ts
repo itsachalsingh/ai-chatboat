@@ -10,7 +10,7 @@ const envSchema = z.object({
   DATABASE_USER: z.string(),
   DATABASE_PASSWORD: z.string(),
   DATABASE_NAME: z.string(),
-  E_DISTRICT_API_BASE_URL: z.string(),
+  UTTARAJAL_API_BASE_URL: z.string(),
   QDRANT_URL: z.string(),
   QDRANT_API_KEY: z.string(),
   QDRANT_COLLECTION_NAME: z.string(),

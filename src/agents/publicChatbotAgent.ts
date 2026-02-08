@@ -1,4 +1,5 @@
 import { streamText } from "ai";
+import { stepCountIs, streamText } from "ai";
 import { getChatModel } from "../rag/ragService.js";
 import { faqSystemPrompt, irrelevantMessagePrompt } from "./prompts.js";
 import { routerAgent } from "./routerAgent.js";
@@ -21,5 +22,6 @@ export async function publicChatbotAgent(messages: UIMessage[]) {
       checkApplicationStatusTool
     },
     maxSteps: 5
+    stopWhen: stepCountIs(5)
   });
 }

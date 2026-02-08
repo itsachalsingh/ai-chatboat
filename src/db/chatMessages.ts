@@ -1,4 +1,5 @@
 import { pool } from "./pool.js";
+import type { RowDataPacket } from "mysql2";
 
 export type ChatMessageRole = "USER" | "ASSISTANT" | "SYSTEM";
 
@@ -12,6 +13,7 @@ export type ChatMessageRow = {
   createdAt: Date;
   updatedAt: Date;
 };
+} & RowDataPacket;
 
 export async function getChatMessagesBySessionId(sessionId: string) {
   const [rows] = await pool.query<ChatMessageRow[]>(

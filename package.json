@@ -16,6 +16,17 @@
     "ai": "^3.3.12",
     "dotenv": "^16.4.5",
     "fastify": "^4.28.1",
+    "start": "node dist/index.js",
+    "db:migrate": "tsx scripts/db-migrate.ts"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^3.0.22",
+    "@ai-sdk/openai": "^3.0.26",
+    "@fastify/cookie": "^9.3.1",
+    "@fastify/cors": "^9.0.1",
+    "ai": "^6.0.77",
+    "dotenv": "^16.4.5",
+    "fastify": "^5.7.4",
     "mysql2": "^3.10.2",
     "zod": "^3.23.8"
   },
