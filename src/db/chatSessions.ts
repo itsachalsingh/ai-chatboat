@@ -1,4 +1,5 @@
 import { pool } from "./pool.js";
+import type { RowDataPacket } from "mysql2";
 
 export type ChatSessionType = "PUBLIC" | "PRIVATE";
 export type LanguagePreference = "ENGLISH" | "HINDI" | "MIXED";
@@ -11,7 +12,7 @@ export type ChatSessionRow = {
   userMetadata: Record<string, unknown> | null;
   createdAt: Date;
   updatedAt: Date;
-};
+} & RowDataPacket;
 
 export async function getChatSessionById(id: string) {
   const [rows] = await pool.query<ChatSessionRow[]>(

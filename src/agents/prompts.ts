@@ -1,4 +1,4 @@
-import faqDataset from "../data/faq_dataset.json";
+import faqDataset from "../data/faq_dataset.json" with { type: "json" };
 
 export const irrelevantMessagePrompt = `You are an uttarajal assistant. The user's request is not relevant to government uttarajal.
 Respond briefly and politely, and suggest asking about uttarajal, certificates, applications, or status checks.`;

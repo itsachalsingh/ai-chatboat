@@ -5,7 +5,7 @@ import { retrieveChunks, queryWithContext } from "../rag/ragService.js";
 
 export const serviceInformationSearchTool = tool({
   description: "Search service information using RAG over the service knowledge base.",
-  parameters: z.object({
+  inputSchema: z.object({
     query: z.string()
   }),
   execute: async ({ query }) => {
@@ -26,7 +26,7 @@ const statusResponseSchema = z.object({
 
 export const checkApplicationStatusTool = tool({
   description: "Check application status for a given application number.",
-  parameters: applicationStatusSchema,
+  inputSchema: applicationStatusSchema,
   execute: async ({ applicationNumber }) => {
     const response = await fetch(
       `${env.E_DISTRICT_API_BASE_URL}/forms/status/${applicationNumber}`
