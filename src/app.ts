@@ -2,6 +2,7 @@ import Fastify from "fastify";
 import cors from "@fastify/cors";
 import cookie from "@fastify/cookie";
 import { env } from "./env.js";
+import { registerPublicChatRoutes } from "./routes/publicChat.js";
 
 export function buildApp() {
   const app = Fastify({
@@ -17,6 +18,7 @@ export function buildApp() {
 
   app.register(async (api) => {
     api.get("/health", async () => ({ ok: true }));
+    await registerPublicChatRoutes(api);
   }, { prefix: "/chatbot/api" });
 
   return app;
