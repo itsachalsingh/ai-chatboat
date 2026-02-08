@@ -21,7 +21,6 @@ const envSchema = z.object({
   EMBEDDING_MODEL: z.string(),
   GOOGLE_GENERATIVE_AI_API_KEY: z.string().optional(),
   OPENAI_API_KEY: z.string().optional()
-  CORS_ORIGIN: z.string().default("*")
 });
 
 export const env = envSchema.parse(process.env);
