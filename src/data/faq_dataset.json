@@ -1,0 +1,317 @@
+[
+  {
+    "id": "general_welcome",
+    "category": "General/Contact",
+    "question_en": "Hello",
+    "answer_en": "Welcome to the Unified Water Billing System (Uttarajal, Uttarakhand). I can help with new connections, mutation, meter replacement, reconnection/disconnection, application tracking, customer ID lookup, phone update, and grievances. Please tell me what you need.",
+    "question_hi": "नमस्ते",
+    "answer_hi": "Unified Water Billing System (उत्तरजल, उत्तराखंड) में आपका स्वागत है। मैं नए कनेक्शन, म्यूटेशन, मीटर बदलने, पुनः कनेक्शन/डिस्कनेक्शन, आवेदन ट्रैकिंग, कस्टमर आईडी, मोबाइल अपडेट और शिकायतों में मदद कर सकता/सकती हूँ। कृपया बताएं कि आपको क्या चाहिए।",
+    "keywords": ["hello", "hi", "namaste", "welcome", "support"]
+  },
+  {
+    "id": "general_portal_link",
+    "category": "General/Contact",
+    "question_en": "What is the official portal for Uttarajal services?",
+    "answer_en": "The official portal is http://uttarajal.uk.gov.in. Please use this site for all applications and official updates.",
+    "question_hi": "उत्तरजल सेवाओं का आधिकारिक पोर्टल क्या है?",
+    "answer_hi": "आधिकारिक पोर्टल http://uttarajal.uk.gov.in है। सभी आवेदन और अपडेट के लिए इसी साइट का उपयोग करें।",
+    "keywords": ["portal", "official", "website", "uttarajal"]
+  },
+  {
+    "id": "general_services_list",
+    "category": "General/Contact",
+    "question_en": "What services can I use here?",
+    "answer_en": "Services include New Connection (Water/Sewer), Mutation, Meter Replacement, Reconnection/Disconnection, Track Application, Know Your Customer ID, Phone Number Update, and Grievance Registration/Tracking.",
+    "question_hi": "मैं यहां कौन-कौन सी सेवाएं ले सकता/सकती हूँ?",
+    "answer_hi": "सेवाओं में नया कनेक्शन (जल/सीवर), म्यूटेशन, मीटर बदलना, पुनः कनेक्शन/डिस्कनेक्शन, आवेदन ट्रैकिंग, कस्टमर आईडी, मोबाइल अपडेट और शिकायत दर्ज/ट्रैक करना शामिल है।",
+    "keywords": ["services", "features", "help"]
+  },
+  {
+    "id": "account_login_help",
+    "category": "Account/Login",
+    "question_en": "How do I log in or create an account?",
+    "answer_en": "Account creation and login steps are listed on the official portal. Please visit http://uttarajal.uk.gov.in and follow the sign-in or registration instructions shown there.",
+    "question_hi": "लॉगिन या अकाउंट कैसे बनाएं?",
+    "answer_hi": "अकाउंट बनाने और लॉगिन करने की प्रक्रिया पोर्टल पर दी गई है। कृपया http://uttarajal.uk.gov.in पर जाकर साइन-इन/रजिस्ट्रेशन निर्देश देखें।",
+    "keywords": ["login", "register", "account", "sign in"]
+  },
+  {
+    "id": "new_connection_overview",
+    "category": "New Connection",
+    "question_en": "How do I apply for a new water/sewer connection?",
+    "answer_en": "Service: New Connection (Water and Sewer).\nWhat it is: Apply for a new water and/or sewer connection.\nWho can apply: As per eligibility listed on the portal.\nSteps: Visit http://uttarajal.uk.gov.in/apply-connection-info, review requirements, fill the online application, and submit.\nRequired documents/fees/time: Not available in the provided sources. Please check the portal page for the official list.\nWhat I need from you: If you apply online, please share your application number to track status.\nOfficial link: http://uttarajal.uk.gov.in/apply-connection-info",
+    "question_hi": "नए जल/सीवर कनेक्शन के लिए कैसे आवेदन करें?",
+    "answer_hi": "सेवा: नया कनेक्शन (जल और सीवर)।\nयह क्या है: नए जल और/या सीवर कनेक्शन के लिए आवेदन।\nकौन आवेदन कर सकता है: पात्रता पोर्टल पर दी गई है।\nकदम: http://uttarajal.uk.gov.in/apply-connection-info पर जाएं, आवश्यकताएं देखें, ऑनलाइन आवेदन भरें और सबमिट करें।\nदस्तावेज़/शुल्क/समय: उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक सूची के लिए पोर्टल देखें।\nमुझे आपसे क्या चाहिए: यदि आपने आवेदन किया है, तो स्थिति देखने के लिए आवेदन संख्या साझा करें।\nआधिकारिक लिंक: http://uttarajal.uk.gov.in/apply-connection-info",
+    "keywords": ["new connection", "water", "sewer", "apply", "connection"]
+  },
+  {
+    "id": "new_connection_documents",
+    "category": "New Connection",
+    "question_en": "What documents are required for a new connection?",
+    "answer_en": "The official document list is provided on the portal. Please check http://uttarajal.uk.gov.in/apply-connection-info for the latest requirements.",
+    "question_hi": "नए कनेक्शन के लिए कौन-कौन से दस्तावेज़ चाहिए?",
+    "answer_hi": "दस्तावेज़ों की आधिकारिक सूची पोर्टल पर दी गई है। कृपया http://uttarajal.uk.gov.in/apply-connection-info देखें।",
+    "keywords": ["documents", "requirements", "new connection"]
+  },
+  {
+    "id": "new_connection_fees",
+    "category": "New Connection",
+    "question_en": "What are the fees for a new connection?",
+    "answer_en": "Fee details are not available in the provided sources. Please refer to http://uttarajal.uk.gov.in/apply-connection-info for official fees.",
+    "question_hi": "नए कनेक्शन के शुल्क क्या हैं?",
+    "answer_hi": "शुल्क की जानकारी उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक शुल्क के लिए http://uttarajal.uk.gov.in/apply-connection-info देखें।",
+    "keywords": ["fees", "charges", "new connection"]
+  },
+  {
+    "id": "mutation_overview",
+    "category": "Mutation",
+    "question_en": "How do I apply for mutation?",
+    "answer_en": "Service: Mutation.\nWhat it is: Update name/ownership details for a water connection.\nWho can apply: As per eligibility listed on the portal.\nSteps: Visit http://uttarajal.uk.gov.in/mutation-info, review requirements, submit the online mutation request.\nRequired documents/fees/time: Not available in the provided sources. Please check the portal page for the official list.\nWhat I need from you: If you apply online, share your application number to track status.\nOfficial link: http://uttarajal.uk.gov.in/mutation-info",
+    "question_hi": "म्यूटेशन के लिए कैसे आवेदन करें?",
+    "answer_hi": "सेवा: म्यूटेशन।\nयह क्या है: जल कनेक्शन के नाम/स्वामित्व विवरण अपडेट करना।\nकौन आवेदन कर सकता है: पात्रता पोर्टल पर दी गई है।\nकदम: http://uttarajal.uk.gov.in/mutation-info पर जाएं, आवश्यकताएं देखें और ऑनलाइन अनुरोध सबमिट करें।\nदस्तावेज़/शुल्क/समय: उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक सूची के लिए पोर्टल देखें।\nमुझे आपसे क्या चाहिए: आवेदन की स्थिति देखने के लिए आवेदन संख्या साझा करें।\nआधिकारिक लिंक: http://uttarajal.uk.gov.in/mutation-info",
+    "keywords": ["mutation", "name change", "ownership", "apply"]
+  },
+  {
+    "id": "mutation_documents",
+    "category": "Mutation",
+    "question_en": "What documents are needed for mutation?",
+    "answer_en": "The official document list is provided on the portal. Please check http://uttarajal.uk.gov.in/mutation-info for the latest requirements.",
+    "question_hi": "म्यूटेशन के लिए कौन-कौन से दस्तावेज़ चाहिए?",
+    "answer_hi": "दस्तावेज़ों की आधिकारिक सूची पोर्टल पर दी गई है। कृपया http://uttarajal.uk.gov.in/mutation-info देखें।",
+    "keywords": ["mutation", "documents", "requirements"]
+  },
+  {
+    "id": "meter_replacement_overview",
+    "category": "Meter",
+    "question_en": "How do I apply for meter replacement?",
+    "answer_en": "Service: Meter Replacement.\nWhat it is: Replace an existing water meter.\nWho can apply: As per eligibility listed on the portal.\nSteps: Visit http://uttarajal.uk.gov.in/meter-replacement-info, review requirements, submit the online request.\nRequired documents/fees/time: Not available in the provided sources. Please check the portal page for the official list.\nWhat I need from you: Share your application number to track status.\nOfficial link: http://uttarajal.uk.gov.in/meter-replacement-info",
+    "question_hi": "मीटर बदलने के लिए कैसे आवेदन करें?",
+    "answer_hi": "सेवा: मीटर बदलना।\nयह क्या है: मौजूदा जल मीटर को बदलने का अनुरोध।\nकौन आवेदन कर सकता है: पात्रता पोर्टल पर दी गई है।\nकदम: http://uttarajal.uk.gov.in/meter-replacement-info पर जाएं, आवश्यकताएं देखें और ऑनलाइन अनुरोध सबमिट करें।\nदस्तावेज़/शुल्क/समय: उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक सूची के लिए पोर्टल देखें।\nमुझे आपसे क्या चाहिए: आवेदन संख्या साझा करें ताकि स्थिति देखी जा सके।\nआधिकारिक लिंक: http://uttarajal.uk.gov.in/meter-replacement-info",
+    "keywords": ["meter", "replacement", "apply"]
+  },
+  {
+    "id": "meter_replacement_fees",
+    "category": "Meter",
+    "question_en": "What are the fees for meter replacement?",
+    "answer_en": "Fee details are not available in the provided sources. Please check http://uttarajal.uk.gov.in/meter-replacement-info for official fees.",
+    "question_hi": "मीटर बदलने के शुल्क क्या हैं?",
+    "answer_hi": "शुल्क की जानकारी उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक शुल्क के लिए http://uttarajal.uk.gov.in/meter-replacement-info देखें।",
+    "keywords": ["meter", "fees", "charges"]
+  },
+  {
+    "id": "reconnection_overview",
+    "category": "Reconnect/Disconnect",
+    "question_en": "How do I apply for reconnection or disconnection?",
+    "answer_en": "Service: Reconnection and Disconnection.\nWhat it is: Request to reconnect or disconnect a water connection.\nWho can apply: As per eligibility listed on the portal.\nSteps: Visit http://uttarajal.uk.gov.in/reconnection-disconnection-info, review requirements, submit the online request.\nRequired documents/fees/time: Not available in the provided sources. Please check the portal page for the official list.\nWhat I need from you: Share your application number to track status.\nOfficial link: http://uttarajal.uk.gov.in/reconnection-disconnection-info",
+    "question_hi": "पुनः कनेक्शन या डिस्कनेक्शन के लिए कैसे आवेदन करें?",
+    "answer_hi": "सेवा: पुनः कनेक्शन और डिस्कनेक्शन।\nयह क्या है: जल कनेक्शन को पुनः जोड़ने या काटने का अनुरोध।\nकौन आवेदन कर सकता है: पात्रता पोर्टल पर दी गई है।\nकदम: http://uttarajal.uk.gov.in/reconnection-disconnection-info पर जाएं, आवश्यकताएं देखें और ऑनलाइन अनुरोध सबमिट करें।\nदस्तावेज़/शुल्क/समय: उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक सूची के लिए पोर्टल देखें।\nमुझे आपसे क्या चाहिए: आवेदन संख्या साझा करें ताकि स्थिति देखी जा सके।\nआधिकारिक लिंक: http://uttarajal.uk.gov.in/reconnection-disconnection-info",
+    "keywords": ["reconnection", "disconnection", "apply"]
+  },
+  {
+    "id": "reconnection_documents",
+    "category": "Reconnect/Disconnect",
+    "question_en": "What documents are required for reconnection/disconnection?",
+    "answer_en": "The official document list is provided on the portal. Please check http://uttarajal.uk.gov.in/reconnection-disconnection-info.",
+    "question_hi": "पुनः कनेक्शन/डिस्कनेक्शन के लिए दस्तावेज़ क्या हैं?",
+    "answer_hi": "दस्तावेज़ों की आधिकारिक सूची पोर्टल पर है। कृपया http://uttarajal.uk.gov.in/reconnection-disconnection-info देखें।",
+    "keywords": ["documents", "reconnection", "disconnection"]
+  },
+  {
+    "id": "billing_payment_help",
+    "category": "Billing/Payments",
+    "question_en": "Where can I see my bill or make payment?",
+    "answer_en": "Billing and payment options are provided on the official portal. Please visit http://uttarajal.uk.gov.in and follow the billing/payment section shown there.",
+    "question_hi": "बिल देखने या भुगतान करने के लिए कहाँ जाएं?",
+    "answer_hi": "बिलिंग और भुगतान विकल्प आधिकारिक पोर्टल पर उपलब्ध हैं। कृपया http://uttarajal.uk.gov.in पर बिलिंग/पेमेंट सेक्शन देखें।",
+    "keywords": ["bill", "payment", "dues"]
+  },
+  {
+    "id": "track_application_overview",
+    "category": "Track Application",
+    "question_en": "How can I track my application?",
+    "answer_en": "You can track applications via the official portal. Please use http://uttarajal.uk.gov.in/track-application and follow the on-screen instructions. Required inputs (like application number) are shown on that page.",
+    "question_hi": "मैं अपना आवेदन कैसे ट्रैक कर सकता/सकती हूँ?",
+    "answer_hi": "आप आवेदन को आधिकारिक पोर्टल से ट्रैक कर सकते हैं। कृपया http://uttarajal.uk.gov.in/track-application पर जाएं और स्क्रीन पर दिए निर्देशों का पालन करें। आवश्यक इनपुट (जैसे आवेदन संख्या) उसी पेज पर दिए होंगे।",
+    "keywords": ["track", "application", "status"]
+  },
+  {
+    "id": "track_application_inputs",
+    "category": "Track Application",
+    "question_en": "What information do I need to track an application?",
+    "answer_en": "The tracking page lists the exact inputs needed. Please open http://uttarajal.uk.gov.in/track-application and use the required fields shown there (for example, application number if applicable).",
+    "question_hi": "आवेदन ट्रैक करने के लिए कौन-सी जानकारी चाहिए?",
+    "answer_hi": "ट्रैकिंग पेज पर आवश्यक इनपुट दिए होते हैं। कृपया http://uttarajal.uk.gov.in/track-application पर जाएं और वहीं बताए गए फील्ड भरें (उदाहरण: आवेदन संख्या, यदि लागू हो)।",
+    "keywords": ["track", "application", "inputs"]
+  },
+  {
+    "id": "kyc_customer_id_overview",
+    "category": "Consumer ID/KYC",
+    "question_en": "How do I know my Customer ID (WBS ID)?",
+    "answer_en": "Please use the official Customer ID lookup page: http://uttarajal.uk.gov.in/wbs-id. Follow the instructions on the page to find your WBS/Customer ID.",
+    "question_hi": "मैं अपना कस्टमर आईडी (WBS ID) कैसे जानूं?",
+    "answer_hi": "कृपया आधिकारिक कस्टमर आईडी खोज पेज उपयोग करें: http://uttarajal.uk.gov.in/wbs-id। वहां दिए निर्देशों का पालन करके अपना WBS/कस्टमर आईडी प्राप्त करें।",
+    "keywords": ["customer id", "wbs id", "kyc", "lookup"]
+  },
+  {
+    "id": "kyc_customer_id_inputs",
+    "category": "Consumer ID/KYC",
+    "question_en": "What information is needed to find my Customer ID?",
+    "answer_en": "The exact inputs are shown on http://uttarajal.uk.gov.in/wbs-id. Please refer to that page for the required details.",
+    "question_hi": "कस्टमर आईडी खोजने के लिए कौन-सी जानकारी चाहिए?",
+    "answer_hi": "आवश्यक जानकारी http://uttarajal.uk.gov.in/wbs-id पर दी गई है। कृपया वही देखें।",
+    "keywords": ["customer id", "inputs", "wbs id"]
+  },
+  {
+    "id": "phone_update_overview",
+    "category": "Phone Update",
+    "question_en": "How do I update my registered phone number?",
+    "answer_en": "Please use the official phone update page: http://uttarajal.uk.gov.in/connection-mobile-number-update. Follow the on-screen instructions to update your registered mobile number.",
+    "question_hi": "मैं अपना पंजीकृत मोबाइल नंबर कैसे अपडेट करूं?",
+    "answer_hi": "कृपया आधिकारिक मोबाइल अपडेट पेज उपयोग करें: http://uttarajal.uk.gov.in/connection-mobile-number-update। वहां दिए निर्देशों का पालन करें।",
+    "keywords": ["phone", "mobile", "update", "number change"]
+  },
+  {
+    "id": "phone_update_requirements",
+    "category": "Phone Update",
+    "question_en": "What documents are required for phone number update?",
+    "answer_en": "The portal page lists the required details and documents, if any. Please check http://uttarajal.uk.gov.in/connection-mobile-number-update.",
+    "question_hi": "मोबाइल नंबर अपडेट के लिए कौन-से दस्तावेज़ चाहिए?",
+    "answer_hi": "यदि दस्तावेज़ आवश्यक हों तो उनकी सूची पोर्टल पेज पर दी होती है। कृपया http://uttarajal.uk.gov.in/connection-mobile-number-update देखें।",
+    "keywords": ["phone", "documents", "update"]
+  },
+  {
+    "id": "grievance_register_overview",
+    "category": "Grievance",
+    "question_en": "How do I register a grievance?",
+    "answer_en": "You can register grievances on the official portal: http://uttarajal.uk.gov.in/grievance. Please follow the instructions on that page and provide the requested details.",
+    "question_hi": "शिकायत कैसे दर्ज करें?",
+    "answer_hi": "आप शिकायतें आधिकारिक पोर्टल पर दर्ज कर सकते हैं: http://uttarajal.uk.gov.in/grievance। कृपया वहां दिए निर्देशों के अनुसार आवश्यक विवरण भरें।",
+    "keywords": ["grievance", "complaint", "register"]
+  },
+  {
+    "id": "grievance_track_overview",
+    "category": "Grievance",
+    "question_en": "How do I track a grievance?",
+    "answer_en": "Grievance tracking is available through the official grievance portal. Please use http://uttarajal.uk.gov.in/grievance and follow the tracking instructions shown there.",
+    "question_hi": "शिकायत कैसे ट्रैक करें?",
+    "answer_hi": "शिकायत ट्रैकिंग आधिकारिक पोर्टल पर उपलब्ध है। कृपया http://uttarajal.uk.gov.in/grievance पर जाकर दिए गए ट्रैकिंग निर्देशों का पालन करें।",
+    "keywords": ["grievance", "track", "status"]
+  },
+  {
+    "id": "grievance_escalation",
+    "category": "Grievance",
+    "question_en": "How can I escalate a grievance?",
+    "answer_en": "Escalation details are not available in the provided sources. Please check http://uttarajal.uk.gov.in/grievance for official escalation options or contact information.",
+    "question_hi": "शिकायत को आगे कैसे बढ़ाएं (एस्केलेशन)?",
+    "answer_hi": "एस्केलेशन की जानकारी उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक जानकारी के लिए http://uttarajal.uk.gov.in/grievance देखें।",
+    "keywords": ["grievance", "escalation", "contact"]
+  },
+  {
+    "id": "application_number_help",
+    "category": "Track Application",
+    "question_en": "I lost my application number. What should I do?",
+    "answer_en": "If the application number is required and you do not have it, please visit http://uttarajal.uk.gov.in and use the portal support options or relevant service page for guidance.",
+    "question_hi": "मेरा आवेदन नंबर खो गया है। क्या करूं?",
+    "answer_hi": "यदि आवेदन संख्या आवश्यक है और आपके पास नहीं है, तो कृपया http://uttarajal.uk.gov.in पर जाएं और पोर्टल सहायता/संबंधित सेवा पेज से मार्गदर्शन लें।",
+    "keywords": ["application number", "lost", "help"]
+  },
+  {
+    "id": "service_eligibility",
+    "category": "General/Contact",
+    "question_en": "Who is eligible to apply for services?",
+    "answer_en": "Eligibility rules are specified on each service page of the official portal. Please check the relevant service page at http://uttarajal.uk.gov.in.",
+    "question_hi": "सेवाओं के लिए पात्रता क्या है?",
+    "answer_hi": "पात्रता नियम प्रत्येक सेवा पेज पर दिए गए हैं। कृपया संबंधित सेवा पेज के लिए http://uttarajal.uk.gov.in देखें।",
+    "keywords": ["eligibility", "who can apply"]
+  },
+  {
+    "id": "processing_time",
+    "category": "General/Contact",
+    "question_en": "What is the processing time for services?",
+    "answer_en": "Processing timelines are not available in the provided sources. Please refer to the relevant service page on http://uttarajal.uk.gov.in for official timelines.",
+    "question_hi": "सेवाओं का प्रसंस्करण समय कितना है?",
+    "answer_hi": "प्रसंस्करण समय की जानकारी उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक समय-सीमा के लिए http://uttarajal.uk.gov.in पर संबंधित सेवा पेज देखें।",
+    "keywords": ["processing time", "timeline", "service time"]
+  },
+  {
+    "id": "service_documents_general",
+    "category": "General/Contact",
+    "question_en": "Where can I find the required documents list?",
+    "answer_en": "Required documents are listed on each service page of the official portal. Please visit http://uttarajal.uk.gov.in and open the relevant service page.",
+    "question_hi": "आवश्यक दस्तावेज़ों की सूची कहाँ मिलेगी?",
+    "answer_hi": "आवश्यक दस्तावेज़ प्रत्येक सेवा पेज पर दिए होते हैं। कृपया http://uttarajal.uk.gov.in पर संबंधित सेवा पेज देखें।",
+    "keywords": ["documents", "requirements", "list"]
+  },
+  {
+    "id": "service_fees_general",
+    "category": "General/Contact",
+    "question_en": "Where can I find official fees?",
+    "answer_en": "Official fees, if any, are listed on the relevant service page. Please check http://uttarajal.uk.gov.in for the latest fees.",
+    "question_hi": "आधिकारिक शुल्क कहाँ मिलेंगे?",
+    "answer_hi": "यदि कोई शुल्क है तो वह संबंधित सेवा पेज पर दिया जाता है। कृपया नवीनतम शुल्क के लिए http://uttarajal.uk.gov.in देखें।",
+    "keywords": ["fees", "charges", "official"]
+  },
+  {
+    "id": "service_status_help",
+    "category": "Track Application",
+    "question_en": "Can you check my application status?",
+    "answer_en": "Yes, I can guide you. Please provide your application number and use the official tracking page: http://uttarajal.uk.gov.in/track-application.",
+    "question_hi": "क्या आप मेरे आवेदन की स्थिति बता सकते हैं?",
+    "answer_hi": "हाँ, मैं मार्गदर्शन कर सकता/सकती हूँ। कृपया अपना आवेदन नंबर साझा करें और आधिकारिक ट्रैकिंग पेज उपयोग करें: http://uttarajal.uk.gov.in/track-application।",
+    "keywords": ["status", "track", "application"]
+  },
+  {
+    "id": "service_contact_support",
+    "category": "General/Contact",
+    "question_en": "How do I contact support?",
+    "answer_en": "Support contact details were not available in the provided sources. Please check http://uttarajal.uk.gov.in for official contact information.",
+    "question_hi": "सपोर्ट से कैसे संपर्क करें?",
+    "answer_hi": "सपोर्ट संपर्क विवरण उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक जानकारी के लिए http://uttarajal.uk.gov.in देखें।",
+    "keywords": ["contact", "support", "help"]
+  },
+  {
+    "id": "service_login_issue",
+    "category": "Account/Login",
+    "question_en": "I cannot log in. What should I do?",
+    "answer_en": "Please use the password/OTP recovery options on the portal. If the issue continues, check the official support options on http://uttarajal.uk.gov.in.",
+    "question_hi": "मैं लॉगिन नहीं कर पा रहा/रही हूँ। क्या करूं?",
+    "answer_hi": "कृपया पोर्टल पर पासवर्ड/OTP रिकवरी विकल्प उपयोग करें। समस्या बनी रहे तो http://uttarajal.uk.gov.in पर सपोर्ट विकल्प देखें।",
+    "keywords": ["login", "password", "otp", "issue"]
+  },
+  {
+    "id": "service_update_profile",
+    "category": "Account/Login",
+    "question_en": "How do I update my profile details?",
+    "answer_en": "Profile update options are available in your portal account. Please log in at http://uttarajal.uk.gov.in and follow the profile update instructions there.",
+    "question_hi": "मैं प्रोफाइल विवरण कैसे अपडेट करूं?",
+    "answer_hi": "प्रोफाइल अपडेट विकल्प आपके पोर्टल अकाउंट में उपलब्ध हैं। कृपया http://uttarajal.uk.gov.in पर लॉगिन करके निर्देश देखें।",
+    "keywords": ["profile", "update", "account"]
+  },
+  {
+    "id": "service_payment_receipt",
+    "category": "Billing/Payments",
+    "question_en": "How do I get a payment receipt?",
+    "answer_en": "Payment receipt download/print options are provided on the portal. Please log in to http://uttarajal.uk.gov.in and check the billing/payment section.",
+    "question_hi": "भुगतान रसीद कैसे प्राप्त करें?",
+    "answer_hi": "भुगतान रसीद डाउनलोड/प्रिंट विकल्प पोर्टल पर उपलब्ध हैं। कृपया http://uttarajal.uk.gov.in पर लॉगिन करके बिलिंग/पेमेंट सेक्शन देखें।",
+    "keywords": ["receipt", "payment", "bill"]
+  },
+  {
+    "id": "service_application_edit",
+    "category": "Track Application",
+    "question_en": "Can I edit my submitted application?",
+    "answer_en": "Edit options, if allowed, are described on the relevant service page. Please check the service page at http://uttarajal.uk.gov.in for official guidance.",
+    "question_hi": "क्या मैं जमा किया हुआ आवेदन संपादित कर सकता/सकती हूँ?",
+    "answer_hi": "यदि संपादन की अनुमति है, तो जानकारी संबंधित सेवा पेज पर दी होती है। कृपया http://uttarajal.uk.gov.in पर आधिकारिक मार्गदर्शन देखें।",
+    "keywords": ["edit application", "update", "change"]
+  },
+  {
+    "id": "service_relevant_only",
+    "category": "General/Contact",
+    "question_en": "Do you answer other topics?",
+    "answer_en": "I can help with Uttarajal water billing services and grievances. For other topics, please contact the appropriate department or visit http://uttarajal.uk.gov.in for official information.",
+    "question_hi": "क्या आप अन्य विषयों पर भी जवाब देते हैं?",
+    "answer_hi": "मैं उत्तरजल जल-बिलिंग सेवाओं और शिकायतों में मदद कर सकता/सकती हूँ। अन्य विषयों के लिए संबंधित विभाग से संपर्क करें या http://uttarajal.uk.gov.in देखें।",
+    "keywords": ["scope", "other topics", "irrelevant"]
+  }
+]

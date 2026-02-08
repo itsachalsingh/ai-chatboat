@@ -1,0 +1,25 @@
+CREATE TABLE IF NOT EXISTS chat_sessions (
+  id CHAR(36) PRIMARY KEY,
+  type ENUM('PUBLIC', 'PRIVATE') NOT NULL,
+  languagePreference ENUM('ENGLISH', 'HINDI', 'MIXED') NULL,
+  userId VARCHAR(255) NULL,
+  userMetadata JSON NULL,
+  createdAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  updatedAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  INDEX idx_chat_sessions_type_userId (type, userId)
+);
+
+CREATE TABLE IF NOT EXISTS chat_messages (
+  id CHAR(36) PRIMARY KEY,
+  sessionId CHAR(36) NOT NULL,
+  role ENUM('USER', 'ASSISTANT', 'SYSTEM') NOT NULL,
+  contentParts JSON NOT NULL,
+  contentText TEXT NOT NULL,
+  userId VARCHAR(255) NULL,
+  createdAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  updatedAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  INDEX idx_chat_messages_sessionId_createdAt (sessionId, createdAt),
+  CONSTRAINT fk_chat_messages_session
+    FOREIGN KEY (sessionId) REFERENCES chat_sessions(id)
+    ON DELETE CASCADE
+);
