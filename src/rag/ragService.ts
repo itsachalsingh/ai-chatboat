@@ -18,14 +18,6 @@ export function getChatModel() {
 
 function getEmbeddingModel() {
   if (env.EMBEDDING_PROVIDER === "openai") {
-    return openai.embedding(env.EMBEDDING_MODEL, {
-      dimensions: env.EMBEDDING_DIMENSIONS
-    });
-  }
-
-  return google.embedding(env.EMBEDDING_MODEL, {
-    dimensions: env.EMBEDDING_DIMENSIONS
-  });
     return openai.embedding(env.EMBEDDING_MODEL);
   }
 
@@ -36,11 +28,11 @@ async function embedText(text: string) {
   const model = getEmbeddingModel();
   const { embedding } = await embed({
     model,
-    value: text
     value: text,
-    providerOptions: env.EMBEDDING_PROVIDER === "openai"
-      ? { openai: { dimensions: env.EMBEDDING_DIMENSIONS } }
-      : { google: { outputDimensionality: env.EMBEDDING_DIMENSIONS } }
+    providerOptions:
+      env.EMBEDDING_PROVIDER === "openai"
+        ? { openai: { dimensions: env.EMBEDDING_DIMENSIONS } }
+        : { google: { outputDimensionality: env.EMBEDDING_DIMENSIONS } }
   });
   return embedding;
 }

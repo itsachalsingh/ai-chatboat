@@ -12,7 +12,6 @@ export type ChatSessionRow = {
   userMetadata: Record<string, unknown> | null;
   createdAt: Date;
   updatedAt: Date;
-};
 } & RowDataPacket;
 
 export async function getChatSessionById(id: string) {

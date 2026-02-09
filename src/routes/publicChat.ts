@@ -30,13 +30,12 @@ function parseParts(contentParts: unknown) {
 }
 
 function toUIMessage(row: { role: string; contentParts: unknown }) {
-  return {
-    role: row.role.toLowerCase(),
   const normalizedRole = row.role.toLowerCase();
   const role: UIMessage["role"] =
     normalizedRole === "user" || normalizedRole === "assistant" || normalizedRole === "system"
       ? normalizedRole
       : "user";
+
   return {
     role,
     parts: parseParts(row.contentParts)
@@ -104,29 +103,8 @@ export async function registerPublicChatRoutes(app: FastifyInstance) {
       userId: null
     });
 
-    const result = await publicChatbotAgent(body.data.messages as UIMessage[]);
-
-    result.onFinish(async ({ text }) => {
-      await createChatMessage({
-        id: randomUUID(),
-        sessionId: session.id,
-        role: "ASSISTANT",
-        contentParts: [{ type: "text", text }],
-        contentText: text,
-        userId: null
-      });
-    });
-
-    const response = result.toDataStreamResponse();
-    reply.raw.writeHead(response.status, Object.fromEntries(response.headers));
-    if (response.body) {
-      Readable.fromWeb(response.body).pipe(reply.raw);
-    } else {
-      reply.raw.end();
-    }
-    // Persist the final assistant message once the stream completes.
-    Promise.resolve(result.text)
-      .then(async (text) => {
+    const result = await publicChatbotAgent(body.data.messages as UIMessage[], {
+      onFinish: async ({ text }) => {
         await createChatMessage({
           id: randomUUID(),
           sessionId: session.id,
@@ -135,12 +113,16 @@ export async function registerPublicChatRoutes(app: FastifyInstance) {
           contentText: text,
           userId: null
         });
-      })
-      .catch(() => {
-        // Ignore persistence failures here; the stream response is already in-flight.
-      });
+      }
+    });
 
-    result.pipeTextStreamToResponse(reply.raw);
+    const response = result.toUIMessageStreamResponse();
+    reply.raw.writeHead(response.status, Object.fromEntries(response.headers));
+    if (response.body) {
+      Readable.fromWeb(response.body as any).pipe(reply.raw);
+    } else {
+      reply.raw.end();
+    }
     return reply;
   });
 }

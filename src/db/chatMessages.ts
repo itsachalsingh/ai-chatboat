@@ -12,7 +12,6 @@ export type ChatMessageRow = {
   userId: string | null;
   createdAt: Date;
   updatedAt: Date;
-};
 } & RowDataPacket;
 
 export async function getChatMessagesBySessionId(sessionId: string) {
