@@ -313,5 +313,834 @@
     "question_hi": "क्या आप अन्य विषयों पर भी जवाब देते हैं?",
     "answer_hi": "मैं उत्तरजल जल-बिलिंग सेवाओं और शिकायतों में मदद कर सकता/सकती हूँ। अन्य विषयों के लिए संबंधित विभाग से संपर्क करें या https://uttarajal.uk.gov.in देखें।",
     "keywords": ["scope", "other topics", "irrelevant"]
+  },
+  {
+"id": "billing_view_current_bill",
+"category": "Billing/Payments",
+"question_en": "How can I view my current water bill on the Uttarajal portal?",
+"answer_en": "Log in to https://uttarajal.uk.gov.in and open the billing section for your Consumer ID. If you cannot find the bill, verify that the correct Consumer ID is linked to your account and use the portal’s bill view option again.",
+"question_hi": "उत्तराजल पोर्टल पर अपना मौजूदा पानी का बिल कैसे देखें?",
+"answer_hi": "https://uttarajal.uk.gov.in पर लॉगिन करके अपने उपभोक्ता आईडी के लिए बिलिंग सेक्शन खोलें। अगर बिल नहीं दिख रहा है, तो सुनिश्चित करें कि सही उपभोक्ता आईडी आपके खाते से जुड़ी है और पोर्टल के बिल देखने वाले विकल्प को फिर से उपयोग करें।",
+"keywords": ["view bill", "current bill", "billing", "portal", "consumer id"]
+},
+{
+"id": "billing_download_payment_receipt",
+"category": "Billing/Payments",
+"question_en": "Where can I download or print my payment receipt?",
+"answer_en": "After a successful payment, use the receipt or transaction history option on https://uttarajal.uk.gov.in to download/print the receipt. If the receipt is not available immediately, recheck the transaction status from the portal.",
+"question_hi": "भुगतान की रसीद कहाँ से डाउनलोड या प्रिंट कर सकते हैं?",
+"answer_hi": "सफल भुगतान के बाद https://uttarajal.uk.gov.in पर रसीद या ट्रांजेक्शन हिस्ट्री विकल्प से रसीद डाउनलोड/प्रिंट करें। अगर रसीद तुरंत उपलब्ध नहीं है, तो पोर्टल पर ट्रांजेक्शन स्टेटस फिर से जाँचें।",
+"keywords": ["receipt", "payment", "transaction", "download", "print"]
+},
+{
+"id": "billing_payment_failed_money_debited",
+"category": "Billing/Payments",
+"question_en": "My payment failed but money was debited. What should I do?",
+"answer_en": "First, check the payment status on https://uttarajal.uk.gov.in using the transaction/reference details. If the bill remains unpaid or the status is unclear, raise a grievance on the portal with the transaction ID and bill details for verification.",
+"question_hi": "भुगतान असफल हो गया लेकिन पैसे कट गए। क्या करें?",
+"answer_hi": "सबसे पहले https://uttarajal.uk.gov.in पर ट्रांजेक्शन/रेफरेंस विवरण से भुगतान स्टेटस जाँचें। अगर बिल फिर भी अनपेड है या स्टेटस स्पष्ट नहीं है, तो ट्रांजेक्शन आईडी और बिल विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
+"keywords": ["payment failed", "debited", "status", "transaction id", "grievance"]
+},
+{
+"id": "billing_wrong_bill_amount",
+"category": "Billing/Payments",
+"question_en": "My bill amount seems incorrect. How can I dispute it?",
+"answer_en": "Review the bill details shown on https://uttarajal.uk.gov.in (period, meter reading/consumption if applicable, and charges shown). If it still looks incorrect, raise a grievance on the portal and attach any relevant details such as meter photo/reading notes if you have them.",
+"question_hi": "मेरा बिल गलत लग रहा है। मैं आपत्ति कैसे दर्ज करूँ?",
+"answer_hi": "https://uttarajal.uk.gov.in पर बिल का विवरण देखें (अवधि, लागू होने पर मीटर रीडिंग/खपत, और दिखाए गए चार्ज)। अगर फिर भी गलत लग रहा है, तो पोर्टल पर शिकायत दर्ज करें और उपलब्ध हो तो मीटर फोटो/रीडिंग नोट्स जैसी जानकारी संलग्न करें।",
+"keywords": ["wrong bill", "dispute", "billing", "meter reading", "grievance"]
+},
+{
+"id": "billing_arrears_previous_dues",
+"category": "Billing/Payments",
+"question_en": "Why does my bill show previous dues or arrears?",
+"answer_en": "The portal bill may include unpaid previous amounts. Check the bill breakup on https://uttarajal.uk.gov.in for arrears/previous balance. If you believe you already paid, compare with your receipts and raise a grievance on the portal with receipt details.",
+"question_hi": "मेरे बिल में पिछला बकाया/एरियर्स क्यों दिख रहा है?",
+"answer_hi": "पोर्टल पर बिल में पहले के अनपेड बकाये शामिल हो सकते हैं। https://uttarajal.uk.gov.in पर बिल ब्रेकअप में एरियर्स/पिछला बैलेंस देखें। अगर आपको लगता है कि भुगतान हो चुका है, तो रसीद से मिलान करें और रसीद विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
+"keywords": ["arrears", "previous dues", "bill breakup", "receipt", "grievance"]
+},
+{
+"id": "billing_payment_modes_available",
+"category": "Billing/Payments",
+"question_en": "What payment options are available on the Uttarajal portal?",
+"answer_en": "The available online payment options are shown during checkout on https://uttarajal.uk.gov.in. Use only the payment methods displayed on the portal. If you cannot complete payment due to connectivity or power cuts, try again later and verify the final status in transaction history.",
+"question_hi": "उत्तराजल पोर्टल पर कौन-कौन से भुगतान विकल्प उपलब्ध हैं?",
+"answer_hi": "https://uttarajal.uk.gov.in पर भुगतान करते समय उपलब्ध ऑनलाइन विकल्प चेकआउट पर दिखते हैं। केवल पोर्टल पर दिखाए गए तरीकों का उपयोग करें। अगर नेटवर्क/बिजली कटने से भुगतान पूरा नहीं हो पा रहा, तो बाद में पुनः प्रयास करें और ट्रांजेक्शन हिस्ट्री में अंतिम स्टेटस जाँचें।",
+"keywords": ["payment options", "online payment", "checkout", "power cut", "transaction history"]
+},
+{
+"id": "billing_duplicate_payment",
+"category": "Billing/Payments",
+"question_en": "I accidentally paid twice for the same bill. What should I do?",
+"answer_en": "Check transaction history and receipts on https://uttarajal.uk.gov.in to confirm both payments. If a duplicate payment is confirmed, raise a grievance on the portal with both transaction IDs and bill details for verification and guidance.",
+"question_hi": "मैंने गलती से एक ही बिल का दो बार भुगतान कर दिया। क्या करें?",
+"answer_hi": "https://uttarajal.uk.gov.in पर ट्रांजेक्शन हिस्ट्री और रसीदों से दोनों भुगतान की पुष्टि करें। अगर डुप्लीकेट भुगतान पुष्टि हो जाए, तो दोनों ट्रांजेक्शन आईडी और बिल विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
+"keywords": ["duplicate payment", "paid twice", "transaction id", "receipt", "grievance"]
+},
+{
+"id": "billing_transaction_success_bill_unpaid",
+"category": "Billing/Payments",
+"question_en": "My transaction shows success but the bill is still unpaid. Why?",
+"answer_en": "Sometimes status updates can take time. Recheck on https://uttarajal.uk.gov.in in transaction history and the bill page. If the bill remains unpaid after rechecking, raise a grievance on the portal with the transaction/reference number.",
+"question_hi": "ट्रांजेक्शन सफल दिख रहा है लेकिन बिल अभी भी अनपेड है। क्यों?",
+"answer_hi": "कभी-कभी स्टेटस अपडेट होने में समय लग सकता है। https://uttarajal.uk.gov.in पर ट्रांजेक्शन हिस्ट्री और बिल पेज पर फिर से जाँचें। अगर फिर भी अनपेड रहे, तो ट्रांजेक्शन/रेफरेंस नंबर के साथ पोर्टल पर शिकायत दर्ज करें।",
+"keywords": ["success", "bill unpaid", "status update", "transaction", "grievance"]
+},
+{
+"id": "billing_bill_history_download",
+"category": "Billing/Payments",
+"question_en": "How can I view my previous bills and payment history?",
+"answer_en": "Log in to https://uttarajal.uk.gov.in and open bill history/payment history for your Consumer ID. Use the portal’s download/print options if available for individual bills or receipts.",
+"question_hi": "पिछले बिल और भुगतान हिस्ट्री कैसे देखें?",
+"answer_hi": "https://uttarajal.uk.gov.in पर लॉगिन करके अपनी उपभोक्ता आईडी के लिए बिल हिस्ट्री/पेमेंट हिस्ट्री खोलें। अगर उपलब्ध हो, तो अलग-अलग बिल/रसीद के लिए पोर्टल के डाउनलोड/प्रिंट विकल्प का उपयोग करें।",
+"keywords": ["bill history", "payment history", "consumer id", "download", "portal"]
+},
+{
+"id": "billing_bill_due_date_where_check",
+"category": "Billing/Payments",
+"question_en": "Where can I check the due date for my bill?",
+"answer_en": "The due date (if shown) is displayed in the bill details on https://uttarajal.uk.gov.in. For the most accurate information, rely on the due date printed on the bill in the portal.",
+"question_hi": "बिल की देय तिथि (ड्यू डेट) कहाँ देखें?",
+"answer_hi": "देय तिथि (अगर दिखाई जाती है) https://uttarajal.uk.gov.in पर बिल विवरण में होती है। सबसे सही जानकारी के लिए पोर्टल में दिख रहे बिल पर ही दी गई देय तिथि देखें।",
+"keywords": ["due date", "bill details", "billing", "portal", "check due"]
+},
+{
+"id": "billing_bill_pdf_not_opening",
+"category": "Billing/Payments",
+"question_en": "The bill/receipt PDF is not opening or downloading. What can I try?",
+"answer_en": "Try opening the bill/receipt again from https://uttarajal.uk.gov.in using a different browser or after clearing cache. If you are on a slow connection (common in hill areas), retry when the network is stable. If the issue persists, raise a grievance on the portal.",
+"question_hi": "बिल/रसीद का PDF डाउनलोड या ओपन नहीं हो रहा। क्या करें?",
+"answer_hi": "https://uttarajal.uk.gov.in से बिल/रसीद को फिर से खोलें, जरूरत हो तो दूसरा ब्राउज़र आज़माएँ या कैश साफ करें। पहाड़ी क्षेत्रों में धीमे नेटवर्क पर, नेटवर्क स्थिर होने पर पुनः प्रयास करें। समस्या बनी रहे तो पोर्टल पर शिकायत दर्ज करें।",
+"keywords": ["pdf", "download", "receipt", "bill", "browser"]
+},
+{
+"id": "billing_bill_contains_sewer_charges",
+"category": "Billing/Payments",
+"question_en": "My bill includes sewer-related charges. Where can I verify details?",
+"answer_en": "Check the bill breakup on https://uttarajal.uk.gov.in for the charge heads shown. If you need clarification for your specific connection, raise a grievance on the portal with your Consumer ID and bill period.",
+"question_hi": "मेरे बिल में सीवर से जुड़े चार्ज दिख रहे हैं। विवरण कहाँ सत्यापित करें?",
+"answer_hi": "https://uttarajal.uk.gov.in पर बिल ब्रेकअप में दिख रहे चार्ज हेड देखें। अगर आपके कनेक्शन के लिए स्पष्टीकरण चाहिए, तो अपनी उपभोक्ता आईडी और बिल अवधि के साथ पोर्टल पर शिकायत दर्ज करें।",
+"keywords": ["sewer charges", "bill breakup", "charge heads", "consumer id", "grievance"]
+},
+{
+"id": "billing_consumer_id_not_found_payment",
+"category": "Billing/Payments",
+"question_en": "I cannot find my Consumer ID while trying to pay. What should I do?",
+"answer_en": "Ensure you are entering the correct Consumer ID and selecting the correct service/area options on https://uttarajal.uk.gov.in. If the Consumer ID is still not found, use the portal’s grievance option for account/billing support.",
+"question_hi": "भुगतान करते समय मेरी उपभोक्ता आईडी नहीं मिल रही। क्या करें?",
+"answer_hi": "सुनिश्चित करें कि आप सही उपभोक्ता आईडी दर्ज कर रहे हैं और https://uttarajal.uk.gov.in पर सही सेवा/क्षेत्र विकल्प चुन रहे हैं। फिर भी उपभोक्ता आईडी न मिले, तो खाते/बिलिंग सहायता के लिए पोर्टल पर शिकायत विकल्प का उपयोग करें।",
+"keywords": ["consumer id", "not found", "pay bill", "portal", "grievance"]
+},
+{
+    "id": "billing_high_bill_reason",
+    "category": "Billing/Payments",
+    "question_en": "Why is my water bill higher than usual?",
+    "answer_en": "A higher bill may be due to increased water usage, leakage within premises, or meter reading variations. Please check for leaks and verify details on the official portal or raise a grievance if needed.",
+    "question_hi": "मेरा पानी का बिल सामान्य से अधिक क्यों है?",
+    "answer_hi": "अधिक बिल का कारण पानी की अधिक खपत, परिसर में लीकेज या मीटर रीडिंग में अंतर हो सकता है। कृपया लीकेज जांचें और पोर्टल पर विवरण सत्यापित करें या आवश्यकता होने पर शिकायत दर्ज करें।",
+    "keywords": ["high bill", "billing issue", "water usage"]
+  },
+  {
+    "id": "billing_bill_not_generated",
+    "category": "Billing/Payments",
+    "question_en": "My water bill is not generated. What should I do?",
+    "answer_en": "If the bill is not generated, it may be due to meter reading or account status issues. Please log in to the official portal to check billing details or use the grievance option.",
+    "question_hi": "मेरा पानी का बिल जनरेट नहीं हुआ है, क्या करूं?",
+    "answer_hi": "यदि बिल जनरेट नहीं हुआ है तो इसका कारण मीटर रीडिंग या खाते की स्थिति हो सकती है। कृपया आधिकारिक पोर्टल पर लॉगिन कर बिल विवरण देखें या शिकायत विकल्प का उपयोग करें।",
+    "keywords": ["bill not generated", "billing status", "water bill"]
+  },
+  {
+    "id": "billing_online_payment_failed",
+    "category": "Billing/Payments",
+    "question_en": "What should I do if my online payment fails?",
+    "answer_en": "If online payment fails, please wait for confirmation and check transaction status on the portal. Avoid making multiple payments and use the grievance section if the issue persists.",
+    "question_hi": "यदि ऑनलाइन भुगतान असफल हो जाए तो क्या करें?",
+    "answer_hi": "यदि ऑनलाइन भुगतान असफल हो जाए, तो पुष्टि की प्रतीक्षा करें और पोर्टल पर लेनदेन की स्थिति जांचें। कई बार भुगतान न करें और समस्या बनी रहने पर शिकायत दर्ज करें।",
+    "keywords": ["payment failed", "online payment", "billing"]
+  },
+  {
+    "id": "billing_receipt_download",
+    "category": "Billing/Payments",
+    "question_en": "How can I download my water bill payment receipt?",
+    "answer_en": "You can download the payment receipt by logging in to your account on the official portal and accessing the billing or payment history section.",
+    "question_hi": "मैं पानी के बिल की भुगतान रसीद कैसे डाउनलोड करूं?",
+    "answer_hi": "आप आधिकारिक पोर्टल पर अपने खाते में लॉगिन करके बिलिंग या भुगतान इतिहास अनुभाग से रसीद डाउनलोड कर सकते हैं।",
+    "keywords": ["payment receipt", "download bill", "billing"]
+  },
+  {
+    "id": "billing_arrears_meaning",
+    "category": "Billing/Payments",
+    "question_en": "What does arrears mean in my water bill?",
+    "answer_en": "Arrears indicate unpaid dues from previous billing cycles. Please check detailed bill breakup on the portal for clarification.",
+    "question_hi": "मेरे पानी के बिल में एरियर का क्या मतलब है?",
+    "answer_hi": "एरियर का अर्थ पिछले बिलिंग चक्र के बकाया भुगतान से है। अधिक जानकारी के लिए पोर्टल पर बिल विवरण देखें।",
+    "keywords": ["arrears", "pending dues", "water bill"]
+  },
+  {
+    "id": "billing_average_bill",
+    "category": "Billing/Payments",
+    "question_en": "Why am I receiving an average water bill?",
+    "answer_en": "An average bill may be issued if actual meter reading is unavailable. Please check your account details on the portal for updates.",
+    "question_hi": "मुझे औसत पानी का बिल क्यों मिल रहा है?",
+    "answer_hi": "यदि वास्तविक मीटर रीडिंग उपलब्ध न हो तो औसत बिल जारी किया जा सकता है। कृपया पोर्टल पर अपने खाते का विवरण जांचें।",
+    "keywords": ["average bill", "meter reading", "billing"]
+  },
+  {
+    "id": "billing_bill_due_date",
+    "category": "Billing/Payments",
+    "question_en": "Where can I check the due date of my water bill?",
+    "answer_en": "The due date is mentioned on your bill and in your account dashboard on the official portal.",
+    "question_hi": "मैं पानी के बिल की अंतिम तिथि कहाँ देख सकता हूं?",
+    "answer_hi": "अंतिम तिथि आपके बिल और आधिकारिक पोर्टल के डैशबोर्ड पर दिखाई जाती है।",
+    "keywords": ["bill due date", "payment deadline", "billing"]
+  },
+  {
+    "id": "billing_bill_dispute",
+    "category": "Billing/Payments",
+    "question_en": "How can I raise a dispute regarding my water bill?",
+    "answer_en": "You can raise a billing dispute by registering a grievance through the official portal with relevant bill details.",
+    "question_hi": "मैं अपने पानी के बिल से संबंधित विवाद कैसे दर्ज करूं?",
+    "answer_hi": "आप संबंधित बिल विवरण के साथ आधिकारिक पोर्टल पर शिकायत दर्ज करके बिल विवाद उठा सकते हैं।",
+    "keywords": ["bill dispute", "complaint", "billing"]
+  },
+  {
+    "id": "billing_bill_sms_alert",
+    "category": "Billing/Payments",
+    "question_en": "Why am I not receiving SMS alerts for my water bill?",
+    "answer_en": "SMS alerts depend on correct mobile number registration. Please verify or update your mobile number on the official portal.",
+    "question_hi": "मुझे पानी के बिल के लिए एसएमएस अलर्ट क्यों नहीं मिल रहा?",
+    "answer_hi": "एसएमएस अलर्ट सही मोबाइल नंबर पंजीकरण पर निर्भर करता है। कृपया पोर्टल पर अपना मोबाइल नंबर जांचें या अपडेट करें।",
+    "keywords": ["sms alert", "bill notification", "billing"]
+  },
+  {
+    "id": "billing_bill_name_mismatch",
+    "category": "Billing/Payments",
+    "question_en": "The name on my water bill is incorrect. What should I do?",
+    "answer_en": "If the name is incorrect, please apply for mutation through the official portal to update ownership details.",
+    "question_hi": "मेरे पानी के बिल पर नाम गलत है, क्या करूं?",
+    "answer_hi": "यदि नाम गलत है, तो स्वामित्व विवरण अपडेट करने के लिए आधिकारिक पोर्टल पर म्यूटेशन के लिए आवेदन करें।",
+    "keywords": ["name mismatch", "mutation", "billing"]
+  },
+  {
+    "id": "billing_bill_address_error",
+    "category": "Billing/Payments",
+    "question_en": "What if my address is incorrect on the water bill?",
+    "answer_en": "Address corrections can be requested through your portal account or by raising a grievance with correct details.",
+    "question_hi": "यदि पानी के बिल पर पता गलत हो तो क्या करें?",
+    "answer_hi": "पता सुधार के लिए आप पोर्टल खाते के माध्यम से अनुरोध कर सकते हैं या सही विवरण के साथ शिकायत दर्ज कर सकते हैं।",
+    "keywords": ["address error", "bill correction", "billing"]
+  },
+  {
+    "id": "billing_bill_after_disconnection",
+    "category": "Billing/Payments",
+    "question_en": "Why am I receiving bills even after disconnection?",
+    "answer_en": "Bills may be generated if disconnection is not completed or dues are pending. Please verify status on the portal or raise a grievance.",
+    "question_hi": "डिस्कनेक्शन के बाद भी बिल क्यों आ रहा है?",
+    "answer_hi": "यदि डिस्कनेक्शन पूर्ण नहीं हुआ है या बकाया है तो बिल आ सकता है। कृपया पोर्टल पर स्थिति जांचें या शिकायत दर्ज करें।",
+    "keywords": ["bill after disconnection", "billing issue", "water bill"]
+  },
+  {
+    "id": "billing_partial_payment",
+    "category": "Billing/Payments",
+    "question_en": "Can I make a partial payment of my water bill?",
+    "answer_en": "Partial payment options, if available, are shown on the official portal. Please refer to the billing section for details.",
+    "question_hi": "क्या मैं पानी के बिल का आंशिक भुगतान कर सकता हूं?",
+    "answer_hi": "यदि आंशिक भुगतान की सुविधा उपलब्ध है, तो इसकी जानकारी आधिकारिक पोर्टल के बिलिंग सेक्शन में दी जाती है।",
+    "keywords": ["partial payment", "bill payment", "billing"]
+  },
+  {
+    "id": "billing_old_bill_view",
+    "category": "Billing/Payments",
+    "question_en": "How can I view my old water bills?",
+    "answer_en": "Old bills can be viewed by logging in to your account on the official portal and checking billing history.",
+    "question_hi": "मैं पुराने पानी के बिल कैसे देख सकता हूं?",
+    "answer_hi": "आप आधिकारिक पोर्टल पर अपने खाते में लॉगिन करके बिलिंग इतिहास में पुराने बिल देख सकते हैं।",
+    "keywords": ["old bills", "billing history", "water bill"]
+  },
+  {
+    "id": "billing_bill_cycle",
+    "category": "Billing/Payments",
+    "question_en": "How often is the water bill generated?",
+    "answer_en": "Billing cycles are determined by Uttarajal and details are available on the official portal. Please refer to your bill for cycle information.",
+    "question_hi": "पानी का बिल कितने समय में बनता है?",
+    "answer_hi": "बिलिंग चक्र उत्तरजल द्वारा निर्धारित किए जाते हैं और विवरण आधिकारिक पोर्टल पर उपलब्ध होते हैं।",
+    "keywords": ["billing cycle", "bill frequency", "water bill"]
+  },
+  {
+    "id": "billing_bill_without_usage",
+    "category": "Billing/Payments",
+    "question_en": "Why did I receive a bill even when there was no water usage?",
+    "answer_en": "Bills may include fixed charges or previous dues. Please check detailed bill information on the portal.",
+    "question_hi": "पानी उपयोग न होने पर भी बिल क्यों आया?",
+    "answer_hi": "बिल में निश्चित शुल्क या पिछले बकाया शामिल हो सकते हैं। कृपया पोर्टल पर बिल विवरण देखें।",
+    "keywords": ["no usage bill", "fixed charges", "billing"]
+  },
+  {
+    "id": "billing_bill_pdf_error",
+    "category": "Billing/Payments",
+    "question_en": "What should I do if my bill PDF does not open?",
+    "answer_en": "If the bill PDF does not open, try using a different browser or device. If the issue continues, raise a grievance on the portal.",
+    "question_hi": "यदि बिल पीडीएफ नहीं खुल रहा है तो क्या करें?",
+    "answer_hi": "यदि बिल पीडीएफ नहीं खुलता है, तो अन्य ब्राउज़र या डिवाइस का उपयोग करें। समस्या बनी रहने पर पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": ["bill pdf", "download issue", "billing"]
+  },
+  {
+    "id": "billing_wrong_meter_reading",
+    "category": "Billing/Payments",
+    "question_en": "What if the meter reading shown on my bill is incorrect?",
+    "answer_en": "If meter reading appears incorrect, please compare it with the actual meter and raise a grievance with details on the portal.",
+    "question_hi": "यदि बिल में मीटर रीडिंग गलत हो तो क्या करें?",
+    "answer_hi": "यदि मीटर रीडिंग गलत लगती है, तो वास्तविक मीटर से मिलान करें और विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": ["wrong meter reading", "billing issue", "water bill"]
+  },
+
+  {
+    "id": "water_supply_no_water",
+    "category": "Water Supply",
+    "question_en": "Why is there no water supply in my area?",
+    "answer_en": "Water supply may be affected due to maintenance work, power issues, or seasonal shortages. Please check local updates on the portal or register a grievance.",
+    "question_hi": "मेरे क्षेत्र में पानी की आपूर्ति क्यों नहीं है?",
+    "answer_hi": "रखरखाव कार्य, बिजली समस्या या मौसमी कमी के कारण पानी की आपूर्ति प्रभावित हो सकती है। कृपया पोर्टल पर अपडेट देखें या शिकायत दर्ज करें।",
+    "keywords": ["no water", "supply issue", "water problem"]
+  },
+  {
+    "id": "water_supply_low_pressure",
+    "category": "Water Supply",
+    "question_en": "Why is water pressure very low?",
+    "answer_en": "Low water pressure can occur due to elevation differences, leakage, or high demand periods. You may register a grievance if the issue persists.",
+    "question_hi": "पानी का दबाव बहुत कम क्यों है?",
+    "answer_hi": "ऊंचाई अंतर, लीकेज या अधिक मांग के समय के कारण पानी का दबाव कम हो सकता है। समस्या बनी रहने पर शिकायत दर्ज करें।",
+    "keywords": ["low pressure", "water flow", "supply issue"]
+  },
+  {
+    "id": "water_supply_irregular",
+    "category": "Water Supply",
+    "question_en": "Why is water supply irregular in hilly areas?",
+    "answer_en": "In hilly regions, water supply may be irregular due to terrain, seasonal source reduction, or power outages. Check portal notices for updates.",
+    "question_hi": "पहाड़ी क्षेत्रों में पानी की आपूर्ति अनियमित क्यों होती है?",
+    "answer_hi": "पहाड़ी क्षेत्रों में भौगोलिक स्थिति, मौसमी स्रोत कमी या बिजली कटौती के कारण आपूर्ति अनियमित हो सकती है।",
+    "keywords": ["irregular supply", "hilly area", "water issue"]
+  },
+  {
+    "id": "water_supply_monsoon_quality",
+    "category": "Water Supply",
+    "question_en": "Is water quality affected during the monsoon?",
+    "answer_en": "During monsoon, water quality may temporarily change due to increased turbidity. Please avoid use if quality is poor and raise a grievance.",
+    "question_hi": "क्या मानसून में पानी की गुणवत्ता प्रभावित होती है?",
+    "answer_hi": "मानसून के दौरान पानी की गुणवत्ता अस्थायी रूप से प्रभावित हो सकती है। यदि पानी खराब हो तो उपयोग न करें और शिकायत दर्ज करें।",
+    "keywords": ["monsoon water", "water quality", "supply"]
+  },
+  {
+    "id": "water_supply_winter_freezing",
+    "category": "Water Supply",
+    "question_en": "Why does water supply stop during extreme winter?",
+    "answer_en": "In extreme winter, pipelines may freeze in some areas, affecting supply. Updates are usually shared locally or on the portal.",
+    "question_hi": "अत्यधिक सर्दियों में पानी की आपूर्ति क्यों रुक जाती है?",
+    "answer_hi": "अत्यधिक सर्दी में कुछ क्षेत्रों में पाइपलाइन जम सकती है, जिससे आपूर्ति प्रभावित होती है। अपडेट स्थानीय रूप से या पोर्टल पर दिए जाते हैं।",
+    "keywords": ["winter freezing", "pipeline freeze", "water supply"]
+  },
+  {
+    "id": "water_supply_tanker_information",
+    "category": "Water Supply",
+    "question_en": "How can I know about tanker water supply in my area?",
+    "answer_en": "Tanker supply information, if arranged, is managed locally. Please check official notices or register a grievance for assistance.",
+    "question_hi": "मेरे क्षेत्र में टैंकर जल आपूर्ति की जानकारी कैसे मिलेगी?",
+    "answer_hi": "यदि टैंकर की व्यवस्था की गई है तो इसकी जानकारी स्थानीय स्तर पर दी जाती है। सहायता के लिए शिकायत दर्ज करें।",
+    "keywords": ["tanker supply", "water shortage", "water supply"]
+  },
+  {
+    "id": "water_supply_pipeline_leakage",
+    "category": "Water Supply",
+    "question_en": "How do I report a pipeline leakage?",
+    "answer_en": "Pipeline leakage can be reported immediately through the grievance section on the official portal.",
+    "question_hi": "पाइपलाइन लीकेज की शिकायत कैसे करें?",
+    "answer_hi": "पाइपलाइन लीकेज की शिकायत तुरंत आधिकारिक पोर्टल के शिकायत अनुभाग में दर्ज करें।",
+    "keywords": ["pipeline leakage", "water wastage", "complaint"]
+  },
+  {
+    "id": "water_supply_dirty_water",
+    "category": "Water Supply",
+    "question_en": "What should I do if muddy or dirty water is supplied?",
+    "answer_en": "If supplied water is muddy or dirty, avoid consumption and register a grievance on the portal for corrective action.",
+    "question_hi": "यदि गंदा या मटमैला पानी आ रहा हो तो क्या करें?",
+    "answer_hi": "यदि पानी गंदा या मटमैला हो, तो उपयोग न करें और सुधार के लिए पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": ["dirty water", "water quality", "complaint"]
+  },
+  {
+    "id": "water_supply_power_cut",
+    "category": "Water Supply",
+    "question_en": "Can power cuts affect water supply?",
+    "answer_en": "Yes, in some areas water supply depends on pumping systems, which may be affected during power cuts.",
+    "question_hi": "क्या बिजली कटौती से पानी की आपूर्ति प्रभावित होती है?",
+    "answer_hi": "हाँ, कुछ क्षेत्रों में पानी की आपूर्ति पंपिंग सिस्टम पर निर्भर होती है, जो बिजली कटौती में प्रभावित हो सकती है।",
+    "keywords": ["power cut", "water supply", "pumping"]
+  },
+  {
+    "id": "water_supply_area_wise_timing",
+    "category": "Water Supply",
+    "question_en": "Where can I check water supply timing for my area?",
+    "answer_en": "Supply timing information, if available, is shared through local notices or official updates on the portal.",
+    "question_hi": "मैं अपने क्षेत्र के लिए पानी की आपूर्ति का समय कहाँ देख सकता हूं?",
+    "answer_hi": "यदि उपलब्ध हो, तो आपूर्ति समय की जानकारी स्थानीय सूचना या पोर्टल अपडेट के माध्यम से दी जाती है।",
+    "keywords": ["supply timing", "water schedule", "water supply"]
+  },
+  {
+    "id": "water_supply_new_area_delay",
+    "category": "Water Supply",
+    "question_en": "Why is water supply delayed in newly connected areas?",
+    "answer_en": "In new areas, supply may be delayed due to infrastructure readiness or testing. Please check updates on the portal.",
+    "question_hi": "नए जुड़े क्षेत्रों में पानी की आपूर्ति में देरी क्यों होती है?",
+    "answer_hi": "नए क्षेत्रों में अवसंरचना या परीक्षण के कारण आपूर्ति में देरी हो सकती है। कृपया पोर्टल पर अपडेट देखें।",
+    "keywords": ["new area supply", "water delay", "water supply"]
+  },
+  {
+    "id": "water_supply_emergency_shutdown",
+    "category": "Water Supply",
+    "question_en": "What is an emergency water supply shutdown?",
+    "answer_en": "Emergency shutdowns may occur due to major leakage or repairs. Information is usually shared through official channels.",
+    "question_hi": "आपातकालीन जल आपूर्ति बंद क्या होता है?",
+    "answer_hi": "बड़े लीकेज या मरम्मत के कारण आपातकालीन रूप से पानी की आपूर्ति बंद की जा सकती है। जानकारी आधिकारिक माध्यमों से दी जाती है।",
+    "keywords": ["emergency shutdown", "water repair", "water supply"]
+  },
+  {
+    "id": "water_supply_contamination_report",
+    "category": "Water Supply",
+    "question_en": "How can I report suspected water contamination?",
+    "answer_en": "If contamination is suspected, avoid use and immediately register a grievance with details on the portal.",
+    "question_hi": "संदिग्ध जल प्रदूषण की सूचना कैसे दें?",
+    "answer_hi": "यदि जल प्रदूषण का संदेह हो, तो उपयोग न करें और विवरण के साथ तुरंत पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": ["water contamination", "water quality", "complaint"]
+  },
+  {
+    "id": "water_supply_seasonal_shortage",
+    "category": "Water Supply",
+    "question_en": "Is seasonal water shortage common in Uttarakhand?",
+    "answer_en": "Yes, some areas may face seasonal shortages due to reduced sources, especially during summer.",
+    "question_hi": "क्या उत्तराखंड में मौसमी पानी की कमी आम है?",
+    "answer_hi": "हाँ, विशेषकर गर्मियों में स्रोत कम होने के कारण कुछ क्षेत्रों में मौसमी पानी की कमी हो सकती है।",
+    "keywords": ["seasonal shortage", "summer water", "water supply"]
+  },
+  {
+    "id": "water_supply_service_restoration",
+    "category": "Water Supply",
+    "question_en": "How will I know when water supply is restored?",
+    "answer_en": "Restoration updates are generally shared through local notices or the official portal.",
+    "question_hi": "पानी की आपूर्ति बहाल होने की जानकारी कैसे मिलेगी?",
+    "answer_hi": "आपूर्ति बहाल होने की जानकारी आमतौर पर स्थानीय सूचना या आधिकारिक पोर्टल के माध्यम से दी जाती है।",
+    "keywords": ["supply restoration", "water update", "water supply"]
+  },
+
+  {
+    "id": "meter_not_working",
+    "category": "Meter",
+    "question_en": "What should I do if my water meter is not working?",
+    "answer_en": "If your meter is not working, you can apply for meter replacement through the official portal.",
+    "question_hi": "यदि मेरा पानी का मीटर काम नहीं कर रहा है तो क्या करें?",
+    "answer_hi": "यदि आपका मीटर काम नहीं कर रहा है, तो आप आधिकारिक पोर्टल के माध्यम से मीटर बदलने के लिए आवेदन कर सकते हैं।",
+    "keywords": ["meter not working", "faulty meter", "meter replacement"]
+  },
+  {
+    "id": "meter_fast_reading",
+    "category": "Meter",
+    "question_en": "Why does my water meter show fast readings?",
+    "answer_en": "Fast readings may indicate leakage or meter issues. Please check for leaks and raise a grievance if required.",
+    "question_hi": "मेरा पानी का मीटर तेज रीडिंग क्यों दिखा रहा है?",
+    "answer_hi": "तेज रीडिंग लीकेज या मीटर की समस्या का संकेत हो सकती है। कृपया लीकेज जांचें और आवश्यकता होने पर शिकायत दर्ज करें।",
+    "keywords": ["fast meter", "meter issue", "water meter"]
+  },
+  {
+    "id": "meter_slow_reading",
+    "category": "Meter",
+    "question_en": "What if my water meter is showing very slow readings?",
+    "answer_en": "Slow readings may be due to meter faults. You may apply for meter checking or replacement via the portal.",
+    "question_hi": "यदि मेरा पानी का मीटर बहुत धीमी रीडिंग दिखा रहा है तो क्या करें?",
+    "answer_hi": "धीमी रीडिंग मीटर खराबी के कारण हो सकती है। आप पोर्टल से मीटर जांच या बदलने के लिए आवेदन कर सकते हैं।",
+    "keywords": ["slow meter", "meter fault", "water meter"]
+  },
+  {
+    "id": "meter_seal_broken",
+    "category": "Meter",
+    "question_en": "What should I do if the meter seal is broken?",
+    "answer_en": "If the meter seal is broken, do not tamper further and report the issue through the grievance portal.",
+    "question_hi": "यदि मीटर की सील टूटी हो तो क्या करें?",
+    "answer_hi": "यदि मीटर की सील टूटी हो, तो और छेड़छाड़ न करें और पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": ["meter seal", "meter issue", "complaint"]
+  },
+  {
+    "id": "meter_replacement_status",
+    "category": "Meter",
+    "question_en": "How can I track my meter replacement request?",
+    "answer_en": "You can track your meter replacement application using the tracking option on the official portal.",
+    "question_hi": "मैं मीटर बदलने के अनुरोध की स्थिति कैसे देख सकता हूं?",
+    "answer_hi": "आप आधिकारिक पोर्टल के ट्रैकिंग विकल्प का उपयोग करके मीटर बदलने के आवेदन की स्थिति देख सकते हैं।",
+    "keywords": ["meter replacement", "track application", "meter"]
+  },
+  {
+    "id": "meter_reading_taken",
+    "category": "Meter",
+    "question_en": "How is water meter reading taken?",
+    "answer_en": "Meter readings are recorded as per Uttarajal procedures. Details related to readings can be viewed on your bill or portal account.",
+    "question_hi": "पानी के मीटर की रीडिंग कैसे ली जाती है?",
+    "answer_hi": "मीटर रीडिंग उत्तरजल की प्रक्रिया के अनुसार ली जाती है। संबंधित विवरण बिल या पोर्टल खाते में देखा जा सकता है।",
+    "keywords": ["meter reading", "billing", "water meter"]
+  },
+  {
+    "id": "meter_access_issue",
+    "category": "Meter",
+    "question_en": "What if the meter reader could not access my premises?",
+    "answer_en": "If access was not possible, an average bill may be generated. Please ensure meter accessibility or update details on the portal.",
+    "question_hi": "यदि मीटर रीडर को परिसर में प्रवेश न मिले तो क्या होता है?",
+    "answer_hi": "यदि प्रवेश संभव न हो, तो औसत बिल बन सकता है। कृपया मीटर की पहुंच सुनिश्चित करें या पोर्टल पर विवरण अपडेट करें।",
+    "keywords": ["meter access", "average bill", "meter reading"]
+  },
+  {
+    "id": "meter_location_change",
+    "category": "Meter",
+    "question_en": "Can I request a change in meter location?",
+    "answer_en": "Requests related to meter location can be raised through the grievance section for official guidance.",
+    "question_hi": "क्या मैं मीटर का स्थान बदलने का अनुरोध कर सकता हूं?",
+    "answer_hi": "मीटर स्थान से संबंधित अनुरोध आधिकारिक मार्गदर्शन के लिए शिकायत अनुभाग में दर्ज किए जा सकते हैं।",
+    "keywords": ["meter location", "meter change", "complaint"]
+  },
+  {
+    "id": "meter_new_connection_meter",
+    "category": "Meter",
+    "question_en": "Is a meter provided with a new water connection?",
+    "answer_en": "Meter provision details for new connections are specified during the application process on the official portal.",
+    "question_hi": "क्या नए जल कनेक्शन के साथ मीटर दिया जाता है?",
+    "answer_hi": "नए कनेक्शन के लिए मीटर से संबंधित विवरण आवेदन प्रक्रिया के दौरान आधिकारिक पोर्टल पर दिए जाते हैं।",
+    "keywords": ["new connection meter", "water meter", "meter"]
+  },
+    {
+    "id": "new_connection_apply_online",
+    "category": "New Connection",
+    "question_en": "How can I apply for a new water connection online?",
+    "answer_en": "You can apply for a new water connection by visiting the official Uttarajal portal and submitting the online application form with required details.",
+    "question_hi": "मैं नया जल कनेक्शन ऑनलाइन कैसे आवेदन कर सकता हूं?",
+    "answer_hi": "आप आधिकारिक उत्तरजल पोर्टल पर जाकर आवश्यक विवरण के साथ ऑनलाइन आवेदन फॉर्म भरकर नया जल कनेक्शन आवेदन कर सकते हैं।",
+    "keywords": ["new connection", "apply online", "water connection"]
+  },
+  {
+    "id": "new_connection_eligibility",
+    "category": "New Connection",
+    "question_en": "Who is eligible to apply for a new water connection?",
+    "answer_en": "Eligibility criteria for a new water connection are specified on the official portal. Please check the relevant service page for details.",
+    "question_hi": "नए जल कनेक्शन के लिए कौन पात्र है?",
+    "answer_hi": "नए जल कनेक्शन के लिए पात्रता मानदंड आधिकारिक पोर्टल पर दिए गए हैं। कृपया संबंधित सेवा पेज देखें।",
+    "keywords": ["eligibility", "new connection", "water service"]
+  },
+  {
+    "id": "new_connection_documents_required",
+    "category": "New Connection",
+    "question_en": "What documents are required for a new water connection?",
+    "answer_en": "The list of required documents is available on the official portal under the new connection service section.",
+    "question_hi": "नए जल कनेक्शन के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+    "answer_hi": "आवश्यक दस्तावेज़ों की सूची आधिकारिक पोर्टल के नए कनेक्शन सेवा अनुभाग में उपलब्ध है।",
+    "keywords": ["documents", "new connection", "requirements"]
+  },
+  {
+    "id": "new_connection_hilly_area",
+    "category": "New Connection",
+    "question_en": "Are there special conditions for new connections in hilly areas?",
+    "answer_en": "In hilly areas, feasibility depends on terrain and water availability. Please refer to portal guidelines or submit an application for assessment.",
+    "question_hi": "क्या पहाड़ी क्षेत्रों में नए कनेक्शन के लिए विशेष शर्तें होती हैं?",
+    "answer_hi": "पहाड़ी क्षेत्रों में कनेक्शन की व्यवहार्यता भू-भाग और जल उपलब्धता पर निर्भर करती है। कृपया पोर्टल दिशानिर्देश देखें या आवेदन करें।",
+    "keywords": ["hilly area", "new connection", "feasibility"]
+  },
+  {
+    "id": "new_connection_application_status",
+    "category": "New Connection",
+    "question_en": "How can I track my new water connection application?",
+    "answer_en": "You can track your application status using the tracking option available on the official portal.",
+    "question_hi": "मैं अपने नए जल कनेक्शन आवेदन की स्थिति कैसे देख सकता हूं?",
+    "answer_hi": "आप आधिकारिक पोर्टल पर उपलब्ध ट्रैकिंग विकल्प से अपने आवेदन की स्थिति देख सकते हैं।",
+    "keywords": ["track application", "new connection", "status"]
+  },
+  {
+    "id": "new_connection_rejected_reason",
+    "category": "New Connection",
+    "question_en": "Why was my new water connection application rejected?",
+    "answer_en": "Applications may be rejected due to incomplete details or feasibility issues. Please check remarks on the portal or raise a grievance.",
+    "question_hi": "मेरा नया जल कनेक्शन आवेदन क्यों अस्वीकृत हुआ?",
+    "answer_hi": "अधूरी जानकारी या व्यवहार्यता समस्याओं के कारण आवेदन अस्वीकृत हो सकता है। कृपया पोर्टल पर टिप्पणी देखें या शिकायत दर्ज करें।",
+    "keywords": ["application rejected", "new connection", "reason"]
+  },
+  {
+    "id": "new_connection_rental_property",
+    "category": "New Connection",
+    "question_en": "Can a tenant apply for a new water connection?",
+    "answer_en": "Tenant eligibility and requirements are defined on the portal. Please refer to the new connection guidelines for details.",
+    "question_hi": "क्या किरायेदार नया जल कनेक्शन आवेदन कर सकता है?",
+    "answer_hi": "किरायेदार की पात्रता और आवश्यकताएं पोर्टल पर निर्धारित हैं। कृपया नए कनेक्शन दिशानिर्देश देखें।",
+    "keywords": ["tenant", "new connection", "eligibility"]
+  },
+  {
+    "id": "new_connection_multi_storey",
+    "category": "New Connection",
+    "question_en": "How can I apply for a new connection in a multi-storey building?",
+    "answer_en": "For multi-storey buildings, application details and conditions are provided on the portal under the new connection section.",
+    "question_hi": "बहुमंजिला भवन में नए कनेक्शन के लिए कैसे आवेदन करें?",
+    "answer_hi": "बहुमंजिला भवनों के लिए आवेदन विवरण और शर्तें पोर्टल के नए कनेक्शन अनुभाग में दी गई हैं।",
+    "keywords": ["multi storey", "new connection", "building"]
+  },
+  {
+    "id": "new_connection_joint_property",
+    "category": "New Connection",
+    "question_en": "Can I apply for a new connection for a jointly owned property?",
+    "answer_en": "Yes, jointly owned properties can apply as per guidelines mentioned on the portal, along with required ownership documents.",
+    "question_hi": "क्या संयुक्त स्वामित्व वाली संपत्ति के लिए नया कनेक्शन लिया जा सकता है?",
+    "answer_hi": "हाँ, पोर्टल पर दिए गए दिशानिर्देशों के अनुसार आवश्यक स्वामित्व दस्तावेज़ों के साथ आवेदन किया जा सकता है।",
+    "keywords": ["joint property", "new connection", "ownership"]
+  },
+  {
+    "id": "new_connection_site_inspection",
+    "category": "New Connection",
+    "question_en": "Is site inspection required for a new water connection?",
+    "answer_en": "Site inspection may be required depending on location and feasibility. Updates are shared through the portal.",
+    "question_hi": "क्या नए जल कनेक्शन के लिए साइट निरीक्षण आवश्यक है?",
+    "answer_hi": "स्थान और व्यवहार्यता के आधार पर साइट निरीक्षण आवश्यक हो सकता है। जानकारी पोर्टल पर दी जाती है।",
+    "keywords": ["site inspection", "new connection", "process"]
+  },
+
+  {
+    "id": "sewer_connection_apply",
+    "category": "Sewer Connection",
+    "question_en": "How can I apply for a new sewer connection?",
+    "answer_en": "You can apply for a sewer connection through the official portal by selecting the sewer connection service.",
+    "question_hi": "नया सीवर कनेक्शन कैसे आवेदन करें?",
+    "answer_hi": "आप आधिकारिक पोर्टल पर सीवर कनेक्शन सेवा चुनकर आवेदन कर सकते हैं।",
+    "keywords": ["sewer connection", "apply", "new connection"]
+  },
+  {
+    "id": "sewer_connection_availability",
+    "category": "Sewer Connection",
+    "question_en": "Is sewer connection available in all areas?",
+    "answer_en": "Sewer connection availability depends on infrastructure in your area. Please check details on the portal.",
+    "question_hi": "क्या सभी क्षेत्रों में सीवर कनेक्शन उपलब्ध है?",
+    "answer_hi": "सीवर कनेक्शन की उपलब्धता आपके क्षेत्र की अवसंरचना पर निर्भर करती है। कृपया पोर्टल पर जानकारी देखें।",
+    "keywords": ["sewer availability", "area service", "sewer"]
+  },
+  {
+    "id": "sewer_connection_documents",
+    "category": "Sewer Connection",
+    "question_en": "What documents are required for sewer connection?",
+    "answer_en": "Required documents for sewer connection are listed on the official portal under the service details.",
+    "question_hi": "सीवर कनेक्शन के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+    "answer_hi": "सीवर कनेक्शन के लिए आवश्यक दस्तावेज़ आधिकारिक पोर्टल पर सेवा विवरण में दिए गए हैं।",
+    "keywords": ["documents", "sewer connection", "requirements"]
+  },
+  {
+    "id": "sewer_connection_track",
+    "category": "Sewer Connection",
+    "question_en": "How can I track my sewer connection application?",
+    "answer_en": "You can track your sewer connection application through the tracking option on the portal.",
+    "question_hi": "मैं अपने सीवर कनेक्शन आवेदन की स्थिति कैसे देखूं?",
+    "answer_hi": "आप पोर्टल पर उपलब्ध ट्रैकिंग विकल्प से सीवर कनेक्शन आवेदन की स्थिति देख सकते हैं।",
+    "keywords": ["track application", "sewer connection", "status"]
+  },
+  {
+    "id": "sewer_connection_delay",
+    "category": "Sewer Connection",
+    "question_en": "Why is my sewer connection application delayed?",
+    "answer_en": "Delays may occur due to technical or infrastructure reasons. Please check application status or raise a grievance.",
+    "question_hi": "मेरा सीवर कनेक्शन आवेदन देर से क्यों हो रहा है?",
+    "answer_hi": "तकनीकी या अवसंरचना कारणों से देरी हो सकती है। कृपया स्थिति जांचें या शिकायत दर्ज करें।",
+    "keywords": ["sewer delay", "application status", "sewer"]
+  },
+
+  {
+    "id": "mutation_apply_online",
+    "category": "Mutation",
+    "question_en": "How can I apply for mutation of my water connection?",
+    "answer_en": "You can apply for mutation online through the official portal by selecting the mutation service.",
+    "question_hi": "मैं जल कनेक्शन के म्यूटेशन के लिए कैसे आवेदन करूं?",
+    "answer_hi": "आप आधिकारिक पोर्टल पर म्यूटेशन सेवा चुनकर ऑनलाइन आवेदन कर सकते हैं।",
+    "keywords": ["mutation", "apply online", "ownership change"]
+  },
+  {
+    "id": "mutation_required_documents",
+    "category": "Mutation",
+    "question_en": "What documents are required for mutation?",
+    "answer_en": "The list of required documents for mutation is available on the official portal.",
+    "question_hi": "म्यूटेशन के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+    "answer_hi": "म्यूटेशन के लिए आवश्यक दस्तावेज़ों की सूची आधिकारिक पोर्टल पर उपलब्ध है।",
+    "keywords": ["mutation documents", "ownership", "water connection"]
+  },
+  {
+    "id": "mutation_inheritance_case",
+    "category": "Mutation",
+    "question_en": "How can I apply for mutation in case of inheritance?",
+    "answer_en": "Inheritance-related mutation requests can be submitted through the portal with relevant supporting documents.",
+    "question_hi": "उत्तराधिकार के मामले में म्यूटेशन कैसे करें?",
+    "answer_hi": "उत्तराधिकार से संबंधित म्यूटेशन अनुरोध आवश्यक दस्तावेज़ों के साथ पोर्टल पर जमा किए जा सकते हैं।",
+    "keywords": ["inheritance", "mutation", "ownership transfer"]
+  },
+  {
+    "id": "mutation_status_check",
+    "category": "Mutation",
+    "question_en": "How can I check the status of my mutation application?",
+    "answer_en": "Mutation application status can be checked using the tracking feature on the portal.",
+    "question_hi": "मैं अपने म्यूटेशन आवेदन की स्थिति कैसे देख सकता हूं?",
+    "answer_hi": "आप पोर्टल पर ट्रैकिंग सुविधा का उपयोग करके म्यूटेशन आवेदन की स्थिति देख सकते हैं।",
+    "keywords": ["mutation status", "track application", "mutation"]
+  },
+  {
+    "id": "mutation_rejected",
+    "category": "Mutation",
+    "question_en": "Why was my mutation application rejected?",
+    "answer_en": "Mutation applications may be rejected due to incomplete documents or verification issues. Please check remarks on the portal.",
+    "question_hi": "मेरा म्यूटेशन आवेदन क्यों अस्वीकृत हुआ?",
+    "answer_hi": "अधूरे दस्तावेज़ या सत्यापन समस्या के कारण म्यूटेशन आवेदन अस्वीकृत हो सकता है। कृपया पोर्टल पर टिप्पणी देखें।",
+    "keywords": ["mutation rejected", "ownership", "application issue"]
+  },
+  {
+    "id": "reconnect_disconnect_apply_online",
+    "category": "Reconnect/Disconnect",
+    "question_en": "How can I apply for temporary disconnection of my water connection?",
+    "answer_en": "You can apply for temporary disconnection through the relevant service option on the official Uttarajal portal.",
+    "question_hi": "मैं जल कनेक्शन के अस्थायी डिस्कनेक्शन के लिए कैसे आवेदन करूं?",
+    "answer_hi": "आप आधिकारिक उत्तरजल पोर्टल पर संबंधित सेवा विकल्प के माध्यम से अस्थायी डिस्कनेक्शन के लिए आवेदन कर सकते हैं।",
+    "keywords": ["temporary disconnection", "apply online", "water connection"]
+  },
+  {
+    "id": "reconnect_disconnect_reconnection_apply",
+    "category": "Reconnect/Disconnect",
+    "question_en": "How can I apply for reconnection after disconnection?",
+    "answer_en": "Reconnection can be requested online through the Uttarajal portal after resolving pending issues, if any.",
+    "question_hi": "डिस्कनेक्शन के बाद पुनः कनेक्शन के लिए कैसे आवेदन करें?",
+    "answer_hi": "यदि कोई बकाया समस्या न हो, तो आप उत्तरजल पोर्टल के माध्यम से ऑनलाइन पुनः कनेक्शन का अनुरोध कर सकते हैं।",
+    "keywords": ["reconnection", "apply", "water service"]
+  },
+  {
+    "id": "reconnect_disconnect_due_to_non_payment",
+    "category": "Reconnect/Disconnect",
+    "question_en": "Can my water connection be disconnected due to non-payment?",
+    "answer_en": "Disconnection due to non-payment is governed by official rules. Please check your bill status and portal notices for details.",
+    "question_hi": "क्या भुगतान न करने पर जल कनेक्शन काटा जा सकता है?",
+    "answer_hi": "भुगतान न करने पर डिस्कनेक्शन आधिकारिक नियमों के अनुसार होता है। कृपया बिल स्थिति और पोर्टल सूचनाएं देखें।",
+    "keywords": ["non payment", "disconnection", "water bill"]
+  },
+  {
+    "id": "reconnect_disconnect_status_track",
+    "category": "Reconnect/Disconnect",
+    "question_en": "How can I track my reconnection or disconnection request?",
+    "answer_en": "You can track your request using the Track Application feature on the official portal.",
+    "question_hi": "मैं अपने पुनः कनेक्शन या डिस्कनेक्शन अनुरोध की स्थिति कैसे देखूं?",
+    "answer_hi": "आप आधिकारिक पोर्टल पर ट्रैक एप्लिकेशन सुविधा से अपने अनुरोध की स्थिति देख सकते हैं।",
+    "keywords": ["track request", "reconnection", "disconnection"]
+  },
+
+  {
+    "id": "track_application_no_status_update",
+    "category": "Track Application",
+    "question_en": "My application status has not changed for a long time. What should I do?",
+    "answer_en": "If there is no status update, please check portal remarks or raise a grievance with your application number.",
+    "question_hi": "मेरे आवेदन की स्थिति लंबे समय से नहीं बदली है। क्या करें?",
+    "answer_hi": "यदि स्थिति अपडेट नहीं हो रही है, तो पोर्टल पर टिप्पणी देखें या आवेदन संख्या के साथ शिकायत दर्ज करें।",
+    "keywords": ["application delay", "status not updated", "track"]
+  },
+  {
+    "id": "track_application_wrong_details",
+    "category": "Track Application",
+    "question_en": "What if I entered incorrect details while tracking my application?",
+    "answer_en": "Please re-enter the correct application details as shown on the portal tracking page.",
+    "question_hi": "यदि आवेदन ट्रैक करते समय गलत विवरण दर्ज हो गया हो तो क्या करें?",
+    "answer_hi": "कृपया पोर्टल के ट्रैकिंग पेज पर बताए अनुसार सही आवेदन विवरण पुनः दर्ज करें।",
+    "keywords": ["wrong details", "track application", "error"]
+  },
+
+  {
+    "id": "consumer_id_link_multiple",
+    "category": "Consumer ID/KYC",
+    "question_en": "Can I link multiple Consumer IDs to one account?",
+    "answer_en": "Linking options, if available, are shown on the portal. Please follow on-screen instructions after login.",
+    "question_hi": "क्या एक खाते से एक से अधिक उपभोक्ता आईडी जोड़ी जा सकती हैं?",
+    "answer_hi": "यदि यह सुविधा उपलब्ध हो, तो पोर्टल पर लॉगिन के बाद स्क्रीन निर्देशों का पालन करें।",
+    "keywords": ["consumer id", "multiple connections", "account"]
+  },
+  {
+    "id": "consumer_id_wrong_details",
+    "category": "Consumer ID/KYC",
+    "question_en": "My Consumer ID details are incorrect. What should I do?",
+    "answer_en": "Incorrect Consumer ID details can be reported through the grievance section on the portal.",
+    "question_hi": "मेरी उपभोक्ता आईडी का विवरण गलत है। क्या करें?",
+    "answer_hi": "गलत उपभोक्ता आईडी विवरण को पोर्टल के शिकायत अनुभाग में रिपोर्ट किया जा सकता है।",
+    "keywords": ["consumer id error", "kyc", "grievance"]
+  },
+
+  {
+    "id": "phone_update_sms_not_received",
+    "category": "Phone Update",
+    "question_en": "I did not receive OTP while updating my mobile number. What should I do?",
+    "answer_en": "Ensure correct mobile number and network availability. Retry after some time or use portal support options.",
+    "question_hi": "मोबाइल नंबर अपडेट करते समय ओटीपी नहीं मिला। क्या करें?",
+    "answer_hi": "सही मोबाइल नंबर और नेटवर्क उपलब्धता सुनिश्चित करें। कुछ समय बाद पुनः प्रयास करें या पोर्टल सहायता विकल्प देखें।",
+    "keywords": ["otp issue", "mobile update", "phone number"]
+  },
+  {
+    "id": "phone_update_change_request_status",
+    "category": "Phone Update",
+    "question_en": "How can I check the status of my mobile number update request?",
+    "answer_en": "You can check the request status through your account dashboard on the official portal.",
+    "question_hi": "मोबाइल नंबर अपडेट अनुरोध की स्थिति कैसे देखें?",
+    "answer_hi": "आप आधिकारिक पोर्टल के अकाउंट डैशबोर्ड से अनुरोध की स्थिति देख सकते हैं।",
+    "keywords": ["phone update status", "mobile change", "track"]
+  },
+
+  {
+    "id": "grievance_no_response",
+    "category": "Grievance",
+    "question_en": "What should I do if my grievance is not resolved?",
+    "answer_en": "If unresolved, please check grievance status on the portal and follow available escalation options.",
+    "question_hi": "यदि मेरी शिकायत का समाधान नहीं हुआ हो तो क्या करें?",
+    "answer_hi": "यदि समाधान नहीं हुआ है, तो पोर्टल पर शिकायत की स्थिति देखें और उपलब्ध एस्केलेशन विकल्प अपनाएं।",
+    "keywords": ["grievance unresolved", "complaint", "escalation"]
+  },
+  {
+    "id": "grievance_wrong_category",
+    "category": "Grievance",
+    "question_en": "I selected the wrong grievance category. What can I do?",
+    "answer_en": "You may submit a new grievance with the correct category and details through the portal.",
+    "question_hi": "मैंने शिकायत की गलत श्रेणी चुन ली है। क्या करूं?",
+    "answer_hi": "आप सही श्रेणी और विवरण के साथ पोर्टल पर नई शिकायत दर्ज कर सकते हैं।",
+    "keywords": ["wrong category", "grievance", "complaint"]
+  },
+
+  {
+    "id": "account_login_otp_issue",
+    "category": "Account/Login",
+    "question_en": "I am not receiving OTP during login. What should I do?",
+    "answer_en": "Check mobile network availability and ensure your registered number is correct. Retry after some time.",
+    "question_hi": "लॉगिन के समय ओटीपी नहीं मिल रहा। क्या करें?",
+    "answer_hi": "मोबाइल नेटवर्क उपलब्धता और पंजीकृत नंबर सही होने की जांच करें। कुछ समय बाद पुनः प्रयास करें।",
+    "keywords": ["login otp", "account access", "issue"]
+  },
+  {
+    "id": "account_login_multiple_attempts",
+    "category": "Account/Login",
+    "question_en": "My account is temporarily locked due to multiple login attempts. What should I do?",
+    "answer_en": "Please wait and retry after some time or use portal recovery options as available.",
+    "question_hi": "कई बार लॉगिन प्रयास के कारण मेरा खाता अस्थायी रूप से लॉक हो गया है। क्या करें?",
+    "answer_hi": "कुछ समय प्रतीक्षा करें और फिर पुनः प्रयास करें या पोर्टल रिकवरी विकल्प का उपयोग करें।",
+    "keywords": ["account locked", "login attempts", "recovery"]
+  },
+
+  {
+    "id": "general_portal_slow",
+    "category": "General/Contact",
+    "question_en": "Why is the Uttarajal portal loading slowly?",
+    "answer_en": "Slow loading may occur due to high traffic or low internet speed, especially in hilly areas. Please try again later.",
+    "question_hi": "उत्तराजल पोर्टल धीमा क्यों चल रहा है?",
+    "answer_hi": "अधिक ट्रैफिक या धीमे इंटरनेट के कारण, विशेषकर पहाड़ी क्षेत्रों में, पोर्टल धीमा हो सकता है। बाद में पुनः प्रयास करें।",
+    "keywords": ["portal slow", "internet issue", "access"]
+  },
+  {
+    "id": "general_browser_compatibility",
+    "category": "General/Contact",
+    "question_en": "Which browser should I use for the Uttarajal portal?",
+    "answer_en": "For best performance, use an updated browser as recommended on the official portal.",
+    "question_hi": "उत्तराजल पोर्टल के लिए कौन सा ब्राउज़र उपयोग करें?",
+    "answer_hi": "बेहतर प्रदर्शन के लिए आधिकारिक पोर्टल पर सुझाए गए अपडेटेड ब्राउज़र का उपयोग करें।",
+    "keywords": ["browser", "portal access", "compatibility"]
   }
 ]
