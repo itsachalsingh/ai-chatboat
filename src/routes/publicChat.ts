@@ -70,6 +70,12 @@ export async function registerPublicChatRoutes(app: FastifyInstance) {
   });
 
   app.post("/public-chat", async (request, reply) => {
+    const query = request.query as { stream?: string } | undefined;
+    const wantsJson =
+      query?.stream === "0" ||
+      query?.stream === "false" ||
+      (typeof request.headers.accept === "string" && request.headers.accept.includes("application/json"));
+
     const body = postBodySchema.safeParse(request.body);
     if (!body.success) {
       return reply.status(400).send({ error: "Invalid body" });
@@ -115,6 +121,11 @@ export async function registerPublicChatRoutes(app: FastifyInstance) {
         });
       }
     });
+
+    if (wantsJson) {
+      const text = await result.text;
+      return reply.send({ text });
+    }
 
     const response = result.toUIMessageStreamResponse();
     reply.raw.writeHead(response.status, Object.fromEntries(response.headers));
