@@ -21,7 +21,7 @@ docker compose up -d
 npm run dev
 ```
 
-Server listens on `http://0.0.0.0:${PORT}` (default `3000`).
+Server listens on `https://0.0.0.0:${PORT}` (default `3000`).
 
 ## Endpoints
 All routes are under `/chatbot/api`.

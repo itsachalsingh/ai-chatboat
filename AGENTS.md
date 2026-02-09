@@ -48,7 +48,7 @@ E-District integration:
 - `UTTARAJAL_API_BASE_URL`
 
 Qdrant:
-- `QDRANT_URL` (e.g. `http://localhost:6333`)
+- `QDRANT_URL` (e.g. `https://localhost:6333`)
 - `QDRANT_API_KEY`
 - `QDRANT_COLLECTION_NAME`
 
