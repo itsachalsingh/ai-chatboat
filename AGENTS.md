@@ -26,6 +26,16 @@ npm start
 - `GET /chatbot/api/public-chat` -> returns session messages, sets cookie on first visit
 - `POST /chatbot/api/public-chat` -> streams assistant response
 
+## Used By This Project
+This service is used by the UWBS workspace at `f:/ITDA/Water`.
+
+Repo link:
+- `https://github.com/itsachalsingh/ai-chatboat`
+
+Project knowledge base:
+- FAQ dataset: `src/data/faq_dataset.json`
+  - This is where user-facing steps (e.g., "Pay Bill", "Apply for New Connection") should be kept up to date.
+
 Session cookie:
 - `public-chat-session-id`
 
@@ -46,6 +56,11 @@ MySQL:
 
 E-District integration:
 - `UTTARAJAL_API_BASE_URL`
+
+Public billing (Quick Payment lookup):
+- `UTTARAJAL_PUBLIC_API_SECRET` (required to fetch bill amount for last-7 consumer code)
+- `UTTARAJAL_PORTAL_BASE_URL` (optional override; defaults to `UTTARAJAL_API_BASE_URL`)
+- `UTTARAJAL_PUBLIC_CLIENT_ID` (optional; defaults to a random UUID per server boot)
 
 Qdrant:
 - `QDRANT_URL` (e.g. `https://localhost:6333`)
@@ -79,4 +94,3 @@ Qdrant collection:
 - Run `npm run build` after changes.
 - If you touch env parsing (`src/env.ts`), update `.env.example` to match.
 - If you change API routes, update this file and `README.md`.
-

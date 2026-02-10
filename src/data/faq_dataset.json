@@ -6,7 +6,13 @@
     "answer_en": "Welcome to the Unified Water Billing System (Uttarajal, Uttarakhand). I can help with new connections, mutation, meter replacement, reconnection/disconnection, application tracking, customer ID lookup, phone update, and grievances. Please tell me what you need.",
     "question_hi": "नमस्ते",
     "answer_hi": "Unified Water Billing System (उत्तरजल, उत्तराखंड) में आपका स्वागत है। मैं नए कनेक्शन, म्यूटेशन, मीटर बदलने, पुनः कनेक्शन/डिस्कनेक्शन, आवेदन ट्रैकिंग, कस्टमर आईडी, मोबाइल अपडेट और शिकायतों में मदद कर सकता/सकती हूँ। कृपया बताएं कि आपको क्या चाहिए।",
-    "keywords": ["hello", "hi", "namaste", "welcome", "support"]
+    "keywords": [
+      "hello",
+      "hi",
+      "namaste",
+      "welcome",
+      "support"
+    ]
   },
   {
     "id": "general_portal_link",
@@ -15,7 +21,12 @@
     "answer_en": "The official portal is https://uttarajal.uk.gov.in. Please use this site for all applications and official updates.",
     "question_hi": "उत्तरजल सेवाओं का आधिकारिक पोर्टल क्या है?",
     "answer_hi": "आधिकारिक पोर्टल https://uttarajal.uk.gov.in है। सभी आवेदन और अपडेट के लिए इसी साइट का उपयोग करें।",
-    "keywords": ["portal", "official", "website", "uttarajal"]
+    "keywords": [
+      "portal",
+      "official",
+      "website",
+      "uttarajal"
+    ]
   },
   {
     "id": "general_services_list",
@@ -24,7 +35,11 @@
     "answer_en": "Services include New Connection (Water/Sewer), Mutation, Meter Replacement, Reconnection/Disconnection, Track Application, Know Your Customer ID, Phone Number Update, and Grievance Registration/Tracking.",
     "question_hi": "मैं यहां कौन-कौन सी सेवाएं ले सकता/सकती हूँ?",
     "answer_hi": "सेवाओं में नया कनेक्शन (जल/सीवर), म्यूटेशन, मीटर बदलना, पुनः कनेक्शन/डिस्कनेक्शन, आवेदन ट्रैकिंग, कस्टमर आईडी, मोबाइल अपडेट और शिकायत दर्ज/ट्रैक करना शामिल है।",
-    "keywords": ["services", "features", "help"]
+    "keywords": [
+      "services",
+      "features",
+      "help"
+    ]
   },
   {
     "id": "account_login_help",
@@ -33,16 +48,31 @@
     "answer_en": "Account creation and login steps are listed on the official portal. Please visit https://uttarajal.uk.gov.in and follow the sign-in or registration instructions shown there.",
     "question_hi": "लॉगिन या अकाउंट कैसे बनाएं?",
     "answer_hi": "अकाउंट बनाने और लॉगिन करने की प्रक्रिया पोर्टल पर दी गई है। कृपया https://uttarajal.uk.gov.in पर जाकर साइन-इन/रजिस्ट्रेशन निर्देश देखें।",
-    "keywords": ["login", "register", "account", "sign in"]
+    "keywords": [
+      "login",
+      "register",
+      "account",
+      "sign in"
+    ]
   },
   {
     "id": "new_connection_overview",
     "category": "New Connection",
     "question_en": "How do I apply for a new water/sewer connection?",
-    "answer_en": "Service: New Connection (Water and Sewer).\nWhat it is: Apply for a new water and/or sewer connection.\nWho can apply: As per eligibility listed on the portal.\nSteps: Visit https://uttarajal.uk.gov.in/apply-connection-info, review requirements, fill the online application, and submit.\nRequired documents/fees/time: Not available in the provided sources. Please check the portal page for the official list.\nWhat I need from you: If you apply online, please share your application number to track status.\nOfficial link: https://uttarajal.uk.gov.in/apply-connection-info",
+    "answer_en": "Service: New Connection (Water and/or Sewer).\nSteps:\n1) Open https://uttarajal.uk.gov.in and sign in (or create an account).\n2) Go to the New Connection service/application.\n3) Select what you need: Water, Sewer, or both (if available).\n4) Fill applicant details, property address, and connection details as asked.\n5) Upload the required documents (identity proof, address proof, ownership/NOC, etc.) as per the portal checklist.\n6) Review the application carefully and submit.\n7) If the portal generates a demand/fee, complete the payment on the portal.\n8) Save the application number. Use it to track status in Application Status/Tracking.\n\nOfficial link: https://uttarajal.uk.gov.in/apply-connection-info\nIf you share your application number, I can help you understand the current status and next actions.",
     "question_hi": "नए जल/सीवर कनेक्शन के लिए कैसे आवेदन करें?",
-    "answer_hi": "सेवा: नया कनेक्शन (जल और सीवर)।\nयह क्या है: नए जल और/या सीवर कनेक्शन के लिए आवेदन।\nकौन आवेदन कर सकता है: पात्रता पोर्टल पर दी गई है।\nकदम: https://uttarajal.uk.gov.in/apply-connection-info पर जाएं, आवश्यकताएं देखें, ऑनलाइन आवेदन भरें और सबमिट करें।\nदस्तावेज़/शुल्क/समय: उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक सूची के लिए पोर्टल देखें।\nमुझे आपसे क्या चाहिए: यदि आपने आवेदन किया है, तो स्थिति देखने के लिए आवेदन संख्या साझा करें।\nआधिकारिक लिंक: https://uttarajal.uk.gov.in/apply-connection-info",
-    "keywords": ["new connection", "water", "sewer", "apply", "connection"]
+    "answer_hi": "सेवा: नया कनेक्शन (जल और/या सीवर)।\nकदम:\n1) https://uttarajal.uk.gov.in खोलें और लॉगिन करें (या नया अकाउंट बनाएं)।\n2) New Connection सेवा/आवेदन पर जाएं।\n3) आवश्यकता चुनें: जल, सीवर, या दोनों (यदि विकल्प उपलब्ध हो)।\n4) आवेदन में मांगी गई जानकारी भरें: आवेदक विवरण, संपत्ति का पता, कनेक्शन विवरण आदि।\n5) पोर्टल की चेकलिस्ट के अनुसार आवश्यक दस्तावेज़ अपलोड करें (पहचान प्रमाण, पता प्रमाण, स्वामित्व/NOC आदि)।\n6) आवेदन की जांच करें और सबमिट करें।\n7) यदि पोर्टल शुल्क/डिमांड बनाता है, तो पोर्टल पर भुगतान पूरा करें।\n8) आवेदन संख्या सुरक्षित रखें और Application Status/Tracking में स्टेटस देखें।\n\nआधिकारिक लिंक: https://uttarajal.uk.gov.in/apply-connection-info\nयदि आप आवेदन संख्या साझा करें, तो मैं स्टेटस और आगे के कदम बताने में मदद कर सकता/सकती हूँ।",
+    "keywords": [
+      "new connection",
+      "water",
+      "sewer",
+      "apply",
+      "connection",
+      "application number",
+      "status",
+      "documents",
+      "fees"
+    ]
   },
   {
     "id": "new_connection_documents",
@@ -51,7 +81,11 @@
     "answer_en": "The official document list is provided on the portal. Please check https://uttarajal.uk.gov.in/apply-connection-info for the latest requirements.",
     "question_hi": "नए कनेक्शन के लिए कौन-कौन से दस्तावेज़ चाहिए?",
     "answer_hi": "दस्तावेज़ों की आधिकारिक सूची पोर्टल पर दी गई है। कृपया https://uttarajal.uk.gov.in/apply-connection-info देखें।",
-    "keywords": ["documents", "requirements", "new connection"]
+    "keywords": [
+      "documents",
+      "requirements",
+      "new connection"
+    ]
   },
   {
     "id": "new_connection_fees",
@@ -60,7 +94,11 @@
     "answer_en": "Fee details are not available in the provided sources. Please refer to https://uttarajal.uk.gov.in/apply-connection-info for official fees.",
     "question_hi": "नए कनेक्शन के शुल्क क्या हैं?",
     "answer_hi": "शुल्क की जानकारी उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक शुल्क के लिए https://uttarajal.uk.gov.in/apply-connection-info देखें।",
-    "keywords": ["fees", "charges", "new connection"]
+    "keywords": [
+      "fees",
+      "charges",
+      "new connection"
+    ]
   },
   {
     "id": "mutation_overview",
@@ -69,7 +107,12 @@
     "answer_en": "Service: Mutation.\nWhat it is: Update name/ownership details for a water connection.\nWho can apply: As per eligibility listed on the portal.\nSteps: Visit https://uttarajal.uk.gov.in/mutation-info, review requirements, submit the online mutation request.\nRequired documents/fees/time: Not available in the provided sources. Please check the portal page for the official list.\nWhat I need from you: If you apply online, share your application number to track status.\nOfficial link: https://uttarajal.uk.gov.in/mutation-info",
     "question_hi": "म्यूटेशन के लिए कैसे आवेदन करें?",
     "answer_hi": "सेवा: म्यूटेशन।\nयह क्या है: जल कनेक्शन के नाम/स्वामित्व विवरण अपडेट करना।\nकौन आवेदन कर सकता है: पात्रता पोर्टल पर दी गई है।\nकदम: https://uttarajal.uk.gov.in/mutation-info पर जाएं, आवश्यकताएं देखें और ऑनलाइन अनुरोध सबमिट करें।\nदस्तावेज़/शुल्क/समय: उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक सूची के लिए पोर्टल देखें।\nमुझे आपसे क्या चाहिए: आवेदन की स्थिति देखने के लिए आवेदन संख्या साझा करें।\nआधिकारिक लिंक: https://uttarajal.uk.gov.in/mutation-info",
-    "keywords": ["mutation", "name change", "ownership", "apply"]
+    "keywords": [
+      "mutation",
+      "name change",
+      "ownership",
+      "apply"
+    ]
   },
   {
     "id": "mutation_documents",
@@ -78,7 +121,11 @@
     "answer_en": "The official document list is provided on the portal. Please check https://uttarajal.uk.gov.in/mutation-info for the latest requirements.",
     "question_hi": "म्यूटेशन के लिए कौन-कौन से दस्तावेज़ चाहिए?",
     "answer_hi": "दस्तावेज़ों की आधिकारिक सूची पोर्टल पर दी गई है। कृपया https://uttarajal.uk.gov.in/mutation-info देखें।",
-    "keywords": ["mutation", "documents", "requirements"]
+    "keywords": [
+      "mutation",
+      "documents",
+      "requirements"
+    ]
   },
   {
     "id": "meter_replacement_overview",
@@ -87,7 +134,11 @@
     "answer_en": "Service: Meter Replacement.\nWhat it is: Replace an existing water meter.\nWho can apply: As per eligibility listed on the portal.\nSteps: Visit https://uttarajal.uk.gov.in/meter-replacement-info, review requirements, submit the online request.\nRequired documents/fees/time: Not available in the provided sources. Please check the portal page for the official list.\nWhat I need from you: Share your application number to track status.\nOfficial link: https://uttarajal.uk.gov.in/meter-replacement-info",
     "question_hi": "मीटर बदलने के लिए कैसे आवेदन करें?",
     "answer_hi": "सेवा: मीटर बदलना।\nयह क्या है: मौजूदा जल मीटर को बदलने का अनुरोध।\nकौन आवेदन कर सकता है: पात्रता पोर्टल पर दी गई है।\nकदम: https://uttarajal.uk.gov.in/meter-replacement-info पर जाएं, आवश्यकताएं देखें और ऑनलाइन अनुरोध सबमिट करें।\nदस्तावेज़/शुल्क/समय: उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक सूची के लिए पोर्टल देखें।\nमुझे आपसे क्या चाहिए: आवेदन संख्या साझा करें ताकि स्थिति देखी जा सके।\nआधिकारिक लिंक: https://uttarajal.uk.gov.in/meter-replacement-info",
-    "keywords": ["meter", "replacement", "apply"]
+    "keywords": [
+      "meter",
+      "replacement",
+      "apply"
+    ]
   },
   {
     "id": "meter_replacement_fees",
@@ -96,7 +147,11 @@
     "answer_en": "Fee details are not available in the provided sources. Please check https://uttarajal.uk.gov.in/meter-replacement-info for official fees.",
     "question_hi": "मीटर बदलने के शुल्क क्या हैं?",
     "answer_hi": "शुल्क की जानकारी उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक शुल्क के लिए https://uttarajal.uk.gov.in/meter-replacement-info देखें।",
-    "keywords": ["meter", "fees", "charges"]
+    "keywords": [
+      "meter",
+      "fees",
+      "charges"
+    ]
   },
   {
     "id": "reconnection_overview",
@@ -105,7 +160,11 @@
     "answer_en": "Service: Reconnection and Disconnection.\nWhat it is: Request to reconnect or disconnect a water connection.\nWho can apply: As per eligibility listed on the portal.\nSteps: Visit https://uttarajal.uk.gov.in/reconnection-disconnection-info, review requirements, submit the online request.\nRequired documents/fees/time: Not available in the provided sources. Please check the portal page for the official list.\nWhat I need from you: Share your application number to track status.\nOfficial link: https://uttarajal.uk.gov.in/reconnection-disconnection-info",
     "question_hi": "पुनः कनेक्शन या डिस्कनेक्शन के लिए कैसे आवेदन करें?",
     "answer_hi": "सेवा: पुनः कनेक्शन और डिस्कनेक्शन।\nयह क्या है: जल कनेक्शन को पुनः जोड़ने या काटने का अनुरोध।\nकौन आवेदन कर सकता है: पात्रता पोर्टल पर दी गई है।\nकदम: https://uttarajal.uk.gov.in/reconnection-disconnection-info पर जाएं, आवश्यकताएं देखें और ऑनलाइन अनुरोध सबमिट करें।\nदस्तावेज़/शुल्क/समय: उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक सूची के लिए पोर्टल देखें।\nमुझे आपसे क्या चाहिए: आवेदन संख्या साझा करें ताकि स्थिति देखी जा सके।\nआधिकारिक लिंक: https://uttarajal.uk.gov.in/reconnection-disconnection-info",
-    "keywords": ["reconnection", "disconnection", "apply"]
+    "keywords": [
+      "reconnection",
+      "disconnection",
+      "apply"
+    ]
   },
   {
     "id": "reconnection_documents",
@@ -114,7 +173,11 @@
     "answer_en": "The official document list is provided on the portal. Please check https://uttarajal.uk.gov.in/reconnection-disconnection-info.",
     "question_hi": "पुनः कनेक्शन/डिस्कनेक्शन के लिए दस्तावेज़ क्या हैं?",
     "answer_hi": "दस्तावेज़ों की आधिकारिक सूची पोर्टल पर है। कृपया https://uttarajal.uk.gov.in/reconnection-disconnection-info देखें।",
-    "keywords": ["documents", "reconnection", "disconnection"]
+    "keywords": [
+      "documents",
+      "reconnection",
+      "disconnection"
+    ]
   },
   {
     "id": "billing_payment_help",
@@ -123,7 +186,11 @@
     "answer_en": "Billing and payment options are provided on the official portal. Please visit https://uttarajal.uk.gov.in and follow the billing/payment section shown there.",
     "question_hi": "बिल देखने या भुगतान करने के लिए कहाँ जाएं?",
     "answer_hi": "बिलिंग और भुगतान विकल्प आधिकारिक पोर्टल पर उपलब्ध हैं। कृपया https://uttarajal.uk.gov.in पर बिलिंग/पेमेंट सेक्शन देखें।",
-    "keywords": ["bill", "payment", "dues"]
+    "keywords": [
+      "bill",
+      "payment",
+      "dues"
+    ]
   },
   {
     "id": "track_application_overview",
@@ -132,7 +199,11 @@
     "answer_en": "You can track applications via the official portal. Please use https://uttarajal.uk.gov.in/track-application and follow the on-screen instructions. Required inputs (like application number) are shown on that page.",
     "question_hi": "मैं अपना आवेदन कैसे ट्रैक कर सकता/सकती हूँ?",
     "answer_hi": "आप आवेदन को आधिकारिक पोर्टल से ट्रैक कर सकते हैं। कृपया https://uttarajal.uk.gov.in/track-application पर जाएं और स्क्रीन पर दिए निर्देशों का पालन करें। आवश्यक इनपुट (जैसे आवेदन संख्या) उसी पेज पर दिए होंगे।",
-    "keywords": ["track", "application", "status"]
+    "keywords": [
+      "track",
+      "application",
+      "status"
+    ]
   },
   {
     "id": "track_application_inputs",
@@ -141,7 +212,11 @@
     "answer_en": "The tracking page lists the exact inputs needed. Please open https://uttarajal.uk.gov.in/track-application and use the required fields shown there (for example, application number if applicable).",
     "question_hi": "आवेदन ट्रैक करने के लिए कौन-सी जानकारी चाहिए?",
     "answer_hi": "ट्रैकिंग पेज पर आवश्यक इनपुट दिए होते हैं। कृपया https://uttarajal.uk.gov.in/track-application पर जाएं और वहीं बताए गए फील्ड भरें (उदाहरण: आवेदन संख्या, यदि लागू हो)।",
-    "keywords": ["track", "application", "inputs"]
+    "keywords": [
+      "track",
+      "application",
+      "inputs"
+    ]
   },
   {
     "id": "kyc_customer_id_overview",
@@ -150,7 +225,12 @@
     "answer_en": "Please use the official Customer ID lookup page: https://uttarajal.uk.gov.in/wbs-id. Follow the instructions on the page to find your WBS/Customer ID.",
     "question_hi": "मैं अपना कस्टमर आईडी (WBS ID) कैसे जानूं?",
     "answer_hi": "कृपया आधिकारिक कस्टमर आईडी खोज पेज उपयोग करें: https://uttarajal.uk.gov.in/wbs-id। वहां दिए निर्देशों का पालन करके अपना WBS/कस्टमर आईडी प्राप्त करें।",
-    "keywords": ["customer id", "wbs id", "kyc", "lookup"]
+    "keywords": [
+      "customer id",
+      "wbs id",
+      "kyc",
+      "lookup"
+    ]
   },
   {
     "id": "kyc_customer_id_inputs",
@@ -159,7 +239,11 @@
     "answer_en": "The exact inputs are shown on https://uttarajal.uk.gov.in/wbs-id. Please refer to that page for the required details.",
     "question_hi": "कस्टमर आईडी खोजने के लिए कौन-सी जानकारी चाहिए?",
     "answer_hi": "आवश्यक जानकारी https://uttarajal.uk.gov.in/wbs-id पर दी गई है। कृपया वही देखें।",
-    "keywords": ["customer id", "inputs", "wbs id"]
+    "keywords": [
+      "customer id",
+      "inputs",
+      "wbs id"
+    ]
   },
   {
     "id": "phone_update_overview",
@@ -168,7 +252,12 @@
     "answer_en": "Please use the official phone update page: https://uttarajal.uk.gov.in/connection-mobile-number-update. Follow the on-screen instructions to update your registered mobile number.",
     "question_hi": "मैं अपना पंजीकृत मोबाइल नंबर कैसे अपडेट करूं?",
     "answer_hi": "कृपया आधिकारिक मोबाइल अपडेट पेज उपयोग करें: https://uttarajal.uk.gov.in/connection-mobile-number-update। वहां दिए निर्देशों का पालन करें।",
-    "keywords": ["phone", "mobile", "update", "number change"]
+    "keywords": [
+      "phone",
+      "mobile",
+      "update",
+      "number change"
+    ]
   },
   {
     "id": "phone_update_requirements",
@@ -177,7 +266,11 @@
     "answer_en": "The portal page lists the required details and documents, if any. Please check https://uttarajal.uk.gov.in/connection-mobile-number-update.",
     "question_hi": "मोबाइल नंबर अपडेट के लिए कौन-से दस्तावेज़ चाहिए?",
     "answer_hi": "यदि दस्तावेज़ आवश्यक हों तो उनकी सूची पोर्टल पेज पर दी होती है। कृपया https://uttarajal.uk.gov.in/connection-mobile-number-update देखें।",
-    "keywords": ["phone", "documents", "update"]
+    "keywords": [
+      "phone",
+      "documents",
+      "update"
+    ]
   },
   {
     "id": "grievance_register_overview",
@@ -186,7 +279,11 @@
     "answer_en": "You can register grievances on the official portal: https://uttarajal.uk.gov.in/grievance. Please follow the instructions on that page and provide the requested details.",
     "question_hi": "शिकायत कैसे दर्ज करें?",
     "answer_hi": "आप शिकायतें आधिकारिक पोर्टल पर दर्ज कर सकते हैं: https://uttarajal.uk.gov.in/grievance। कृपया वहां दिए निर्देशों के अनुसार आवश्यक विवरण भरें।",
-    "keywords": ["grievance", "complaint", "register"]
+    "keywords": [
+      "grievance",
+      "complaint",
+      "register"
+    ]
   },
   {
     "id": "grievance_track_overview",
@@ -195,7 +292,11 @@
     "answer_en": "Grievance tracking is available through the official grievance portal. Please use https://uttarajal.uk.gov.in/grievance and follow the tracking instructions shown there.",
     "question_hi": "शिकायत कैसे ट्रैक करें?",
     "answer_hi": "शिकायत ट्रैकिंग आधिकारिक पोर्टल पर उपलब्ध है। कृपया https://uttarajal.uk.gov.in/grievance पर जाकर दिए गए ट्रैकिंग निर्देशों का पालन करें।",
-    "keywords": ["grievance", "track", "status"]
+    "keywords": [
+      "grievance",
+      "track",
+      "status"
+    ]
   },
   {
     "id": "grievance_escalation",
@@ -204,7 +305,11 @@
     "answer_en": "Escalation details are not available in the provided sources. Please check https://uttarajal.uk.gov.in/grievance for official escalation options or contact information.",
     "question_hi": "शिकायत को आगे कैसे बढ़ाएं (एस्केलेशन)?",
     "answer_hi": "एस्केलेशन की जानकारी उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक जानकारी के लिए https://uttarajal.uk.gov.in/grievance देखें।",
-    "keywords": ["grievance", "escalation", "contact"]
+    "keywords": [
+      "grievance",
+      "escalation",
+      "contact"
+    ]
   },
   {
     "id": "application_number_help",
@@ -213,7 +318,11 @@
     "answer_en": "If the application number is required and you do not have it, please visit https://uttarajal.uk.gov.in and use the portal support options or relevant service page for guidance.",
     "question_hi": "मेरा आवेदन नंबर खो गया है। क्या करूं?",
     "answer_hi": "यदि आवेदन संख्या आवश्यक है और आपके पास नहीं है, तो कृपया https://uttarajal.uk.gov.in पर जाएं और पोर्टल सहायता/संबंधित सेवा पेज से मार्गदर्शन लें।",
-    "keywords": ["application number", "lost", "help"]
+    "keywords": [
+      "application number",
+      "lost",
+      "help"
+    ]
   },
   {
     "id": "service_eligibility",
@@ -222,7 +331,10 @@
     "answer_en": "Eligibility rules are specified on each service page of the official portal. Please check the relevant service page at https://uttarajal.uk.gov.in.",
     "question_hi": "सेवाओं के लिए पात्रता क्या है?",
     "answer_hi": "पात्रता नियम प्रत्येक सेवा पेज पर दिए गए हैं। कृपया संबंधित सेवा पेज के लिए https://uttarajal.uk.gov.in देखें।",
-    "keywords": ["eligibility", "who can apply"]
+    "keywords": [
+      "eligibility",
+      "who can apply"
+    ]
   },
   {
     "id": "processing_time",
@@ -231,7 +343,11 @@
     "answer_en": "Processing timelines are not available in the provided sources. Please refer to the relevant service page on https://uttarajal.uk.gov.in for official timelines.",
     "question_hi": "सेवाओं का प्रसंस्करण समय कितना है?",
     "answer_hi": "प्रसंस्करण समय की जानकारी उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक समय-सीमा के लिए https://uttarajal.uk.gov.in पर संबंधित सेवा पेज देखें।",
-    "keywords": ["processing time", "timeline", "service time"]
+    "keywords": [
+      "processing time",
+      "timeline",
+      "service time"
+    ]
   },
   {
     "id": "service_documents_general",
@@ -240,7 +356,11 @@
     "answer_en": "Required documents are listed on each service page of the official portal. Please visit https://uttarajal.uk.gov.in and open the relevant service page.",
     "question_hi": "आवश्यक दस्तावेज़ों की सूची कहाँ मिलेगी?",
     "answer_hi": "आवश्यक दस्तावेज़ प्रत्येक सेवा पेज पर दिए होते हैं। कृपया https://uttarajal.uk.gov.in पर संबंधित सेवा पेज देखें।",
-    "keywords": ["documents", "requirements", "list"]
+    "keywords": [
+      "documents",
+      "requirements",
+      "list"
+    ]
   },
   {
     "id": "service_fees_general",
@@ -249,7 +369,11 @@
     "answer_en": "Official fees, if any, are listed on the relevant service page. Please check https://uttarajal.uk.gov.in for the latest fees.",
     "question_hi": "आधिकारिक शुल्क कहाँ मिलेंगे?",
     "answer_hi": "यदि कोई शुल्क है तो वह संबंधित सेवा पेज पर दिया जाता है। कृपया नवीनतम शुल्क के लिए https://uttarajal.uk.gov.in देखें।",
-    "keywords": ["fees", "charges", "official"]
+    "keywords": [
+      "fees",
+      "charges",
+      "official"
+    ]
   },
   {
     "id": "service_status_help",
@@ -258,7 +382,11 @@
     "answer_en": "Yes, I can guide you. Please provide your application number and use the official tracking page: https://uttarajal.uk.gov.in/track-application.",
     "question_hi": "क्या आप मेरे आवेदन की स्थिति बता सकते हैं?",
     "answer_hi": "हाँ, मैं मार्गदर्शन कर सकता/सकती हूँ। कृपया अपना आवेदन नंबर साझा करें और आधिकारिक ट्रैकिंग पेज उपयोग करें: https://uttarajal.uk.gov.in/track-application।",
-    "keywords": ["status", "track", "application"]
+    "keywords": [
+      "status",
+      "track",
+      "application"
+    ]
   },
   {
     "id": "service_contact_support",
@@ -267,7 +395,11 @@
     "answer_en": "Support contact details were not available in the provided sources. Please check https://uttarajal.uk.gov.in for official contact information.",
     "question_hi": "सपोर्ट से कैसे संपर्क करें?",
     "answer_hi": "सपोर्ट संपर्क विवरण उपलब्ध स्रोतों में नहीं है। कृपया आधिकारिक जानकारी के लिए https://uttarajal.uk.gov.in देखें।",
-    "keywords": ["contact", "support", "help"]
+    "keywords": [
+      "contact",
+      "support",
+      "help"
+    ]
   },
   {
     "id": "service_login_issue",
@@ -276,7 +408,12 @@
     "answer_en": "Please use the password/OTP recovery options on the portal. If the issue continues, check the official support options on https://uttarajal.uk.gov.in.",
     "question_hi": "मैं लॉगिन नहीं कर पा रहा/रही हूँ। क्या करूं?",
     "answer_hi": "कृपया पोर्टल पर पासवर्ड/OTP रिकवरी विकल्प उपयोग करें। समस्या बनी रहे तो https://uttarajal.uk.gov.in पर सपोर्ट विकल्प देखें।",
-    "keywords": ["login", "password", "otp", "issue"]
+    "keywords": [
+      "login",
+      "password",
+      "otp",
+      "issue"
+    ]
   },
   {
     "id": "service_update_profile",
@@ -285,7 +422,11 @@
     "answer_en": "Profile update options are available in your portal account. Please log in at https://uttarajal.uk.gov.in and follow the profile update instructions there.",
     "question_hi": "मैं प्रोफाइल विवरण कैसे अपडेट करूं?",
     "answer_hi": "प्रोफाइल अपडेट विकल्प आपके पोर्टल अकाउंट में उपलब्ध हैं। कृपया https://uttarajal.uk.gov.in पर लॉगिन करके निर्देश देखें।",
-    "keywords": ["profile", "update", "account"]
+    "keywords": [
+      "profile",
+      "update",
+      "account"
+    ]
   },
   {
     "id": "service_payment_receipt",
@@ -294,7 +435,11 @@
     "answer_en": "Payment receipt download/print options are provided on the portal. Please log in to https://uttarajal.uk.gov.in and check the billing/payment section.",
     "question_hi": "भुगतान रसीद कैसे प्राप्त करें?",
     "answer_hi": "भुगतान रसीद डाउनलोड/प्रिंट विकल्प पोर्टल पर उपलब्ध हैं। कृपया https://uttarajal.uk.gov.in पर लॉगिन करके बिलिंग/पेमेंट सेक्शन देखें।",
-    "keywords": ["receipt", "payment", "bill"]
+    "keywords": [
+      "receipt",
+      "payment",
+      "bill"
+    ]
   },
   {
     "id": "service_application_edit",
@@ -303,7 +448,11 @@
     "answer_en": "Edit options, if allowed, are described on the relevant service page. Please check the service page at https://uttarajal.uk.gov.in for official guidance.",
     "question_hi": "क्या मैं जमा किया हुआ आवेदन संपादित कर सकता/सकती हूँ?",
     "answer_hi": "यदि संपादन की अनुमति है, तो जानकारी संबंधित सेवा पेज पर दी होती है। कृपया https://uttarajal.uk.gov.in पर आधिकारिक मार्गदर्शन देखें।",
-    "keywords": ["edit application", "update", "change"]
+    "keywords": [
+      "edit application",
+      "update",
+      "change"
+    ]
   },
   {
     "id": "service_relevant_only",
@@ -312,133 +461,253 @@
     "answer_en": "I can help with Uttarajal water billing services and grievances. For other topics, please contact the appropriate department or visit https://uttarajal.uk.gov.in for official information.",
     "question_hi": "क्या आप अन्य विषयों पर भी जवाब देते हैं?",
     "answer_hi": "मैं उत्तरजल जल-बिलिंग सेवाओं और शिकायतों में मदद कर सकता/सकती हूँ। अन्य विषयों के लिए संबंधित विभाग से संपर्क करें या https://uttarajal.uk.gov.in देखें।",
-    "keywords": ["scope", "other topics", "irrelevant"]
+    "keywords": [
+      "scope",
+      "other topics",
+      "irrelevant"
+    ]
   },
   {
-"id": "billing_view_current_bill",
-"category": "Billing/Payments",
-"question_en": "How can I view my current water bill on the Uttarajal portal?",
-"answer_en": "Log in to https://uttarajal.uk.gov.in and open the billing section for your Consumer ID. If you cannot find the bill, verify that the correct Consumer ID is linked to your account and use the portal’s bill view option again.",
-"question_hi": "उत्तराजल पोर्टल पर अपना मौजूदा पानी का बिल कैसे देखें?",
-"answer_hi": "https://uttarajal.uk.gov.in पर लॉगिन करके अपने उपभोक्ता आईडी के लिए बिलिंग सेक्शन खोलें। अगर बिल नहीं दिख रहा है, तो सुनिश्चित करें कि सही उपभोक्ता आईडी आपके खाते से जुड़ी है और पोर्टल के बिल देखने वाले विकल्प को फिर से उपयोग करें।",
-"keywords": ["view bill", "current bill", "billing", "portal", "consumer id"]
-},
-{
-"id": "billing_download_payment_receipt",
-"category": "Billing/Payments",
-"question_en": "Where can I download or print my payment receipt?",
-"answer_en": "After a successful payment, use the receipt or transaction history option on https://uttarajal.uk.gov.in to download/print the receipt. If the receipt is not available immediately, recheck the transaction status from the portal.",
-"question_hi": "भुगतान की रसीद कहाँ से डाउनलोड या प्रिंट कर सकते हैं?",
-"answer_hi": "सफल भुगतान के बाद https://uttarajal.uk.gov.in पर रसीद या ट्रांजेक्शन हिस्ट्री विकल्प से रसीद डाउनलोड/प्रिंट करें। अगर रसीद तुरंत उपलब्ध नहीं है, तो पोर्टल पर ट्रांजेक्शन स्टेटस फिर से जाँचें।",
-"keywords": ["receipt", "payment", "transaction", "download", "print"]
-},
-{
-"id": "billing_payment_failed_money_debited",
-"category": "Billing/Payments",
-"question_en": "My payment failed but money was debited. What should I do?",
-"answer_en": "First, check the payment status on https://uttarajal.uk.gov.in using the transaction/reference details. If the bill remains unpaid or the status is unclear, raise a grievance on the portal with the transaction ID and bill details for verification.",
-"question_hi": "भुगतान असफल हो गया लेकिन पैसे कट गए। क्या करें?",
-"answer_hi": "सबसे पहले https://uttarajal.uk.gov.in पर ट्रांजेक्शन/रेफरेंस विवरण से भुगतान स्टेटस जाँचें। अगर बिल फिर भी अनपेड है या स्टेटस स्पष्ट नहीं है, तो ट्रांजेक्शन आईडी और बिल विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
-"keywords": ["payment failed", "debited", "status", "transaction id", "grievance"]
-},
-{
-"id": "billing_wrong_bill_amount",
-"category": "Billing/Payments",
-"question_en": "My bill amount seems incorrect. How can I dispute it?",
-"answer_en": "Review the bill details shown on https://uttarajal.uk.gov.in (period, meter reading/consumption if applicable, and charges shown). If it still looks incorrect, raise a grievance on the portal and attach any relevant details such as meter photo/reading notes if you have them.",
-"question_hi": "मेरा बिल गलत लग रहा है। मैं आपत्ति कैसे दर्ज करूँ?",
-"answer_hi": "https://uttarajal.uk.gov.in पर बिल का विवरण देखें (अवधि, लागू होने पर मीटर रीडिंग/खपत, और दिखाए गए चार्ज)। अगर फिर भी गलत लग रहा है, तो पोर्टल पर शिकायत दर्ज करें और उपलब्ध हो तो मीटर फोटो/रीडिंग नोट्स जैसी जानकारी संलग्न करें।",
-"keywords": ["wrong bill", "dispute", "billing", "meter reading", "grievance"]
-},
-{
-"id": "billing_arrears_previous_dues",
-"category": "Billing/Payments",
-"question_en": "Why does my bill show previous dues or arrears?",
-"answer_en": "The portal bill may include unpaid previous amounts. Check the bill breakup on https://uttarajal.uk.gov.in for arrears/previous balance. If you believe you already paid, compare with your receipts and raise a grievance on the portal with receipt details.",
-"question_hi": "मेरे बिल में पिछला बकाया/एरियर्स क्यों दिख रहा है?",
-"answer_hi": "पोर्टल पर बिल में पहले के अनपेड बकाये शामिल हो सकते हैं। https://uttarajal.uk.gov.in पर बिल ब्रेकअप में एरियर्स/पिछला बैलेंस देखें। अगर आपको लगता है कि भुगतान हो चुका है, तो रसीद से मिलान करें और रसीद विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
-"keywords": ["arrears", "previous dues", "bill breakup", "receipt", "grievance"]
-},
-{
-"id": "billing_payment_modes_available",
-"category": "Billing/Payments",
-"question_en": "What payment options are available on the Uttarajal portal?",
-"answer_en": "The available online payment options are shown during checkout on https://uttarajal.uk.gov.in. Use only the payment methods displayed on the portal. If you cannot complete payment due to connectivity or power cuts, try again later and verify the final status in transaction history.",
-"question_hi": "उत्तराजल पोर्टल पर कौन-कौन से भुगतान विकल्प उपलब्ध हैं?",
-"answer_hi": "https://uttarajal.uk.gov.in पर भुगतान करते समय उपलब्ध ऑनलाइन विकल्प चेकआउट पर दिखते हैं। केवल पोर्टल पर दिखाए गए तरीकों का उपयोग करें। अगर नेटवर्क/बिजली कटने से भुगतान पूरा नहीं हो पा रहा, तो बाद में पुनः प्रयास करें और ट्रांजेक्शन हिस्ट्री में अंतिम स्टेटस जाँचें।",
-"keywords": ["payment options", "online payment", "checkout", "power cut", "transaction history"]
-},
-{
-"id": "billing_duplicate_payment",
-"category": "Billing/Payments",
-"question_en": "I accidentally paid twice for the same bill. What should I do?",
-"answer_en": "Check transaction history and receipts on https://uttarajal.uk.gov.in to confirm both payments. If a duplicate payment is confirmed, raise a grievance on the portal with both transaction IDs and bill details for verification and guidance.",
-"question_hi": "मैंने गलती से एक ही बिल का दो बार भुगतान कर दिया। क्या करें?",
-"answer_hi": "https://uttarajal.uk.gov.in पर ट्रांजेक्शन हिस्ट्री और रसीदों से दोनों भुगतान की पुष्टि करें। अगर डुप्लीकेट भुगतान पुष्टि हो जाए, तो दोनों ट्रांजेक्शन आईडी और बिल विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
-"keywords": ["duplicate payment", "paid twice", "transaction id", "receipt", "grievance"]
-},
-{
-"id": "billing_transaction_success_bill_unpaid",
-"category": "Billing/Payments",
-"question_en": "My transaction shows success but the bill is still unpaid. Why?",
-"answer_en": "Sometimes status updates can take time. Recheck on https://uttarajal.uk.gov.in in transaction history and the bill page. If the bill remains unpaid after rechecking, raise a grievance on the portal with the transaction/reference number.",
-"question_hi": "ट्रांजेक्शन सफल दिख रहा है लेकिन बिल अभी भी अनपेड है। क्यों?",
-"answer_hi": "कभी-कभी स्टेटस अपडेट होने में समय लग सकता है। https://uttarajal.uk.gov.in पर ट्रांजेक्शन हिस्ट्री और बिल पेज पर फिर से जाँचें। अगर फिर भी अनपेड रहे, तो ट्रांजेक्शन/रेफरेंस नंबर के साथ पोर्टल पर शिकायत दर्ज करें।",
-"keywords": ["success", "bill unpaid", "status update", "transaction", "grievance"]
-},
-{
-"id": "billing_bill_history_download",
-"category": "Billing/Payments",
-"question_en": "How can I view my previous bills and payment history?",
-"answer_en": "Log in to https://uttarajal.uk.gov.in and open bill history/payment history for your Consumer ID. Use the portal’s download/print options if available for individual bills or receipts.",
-"question_hi": "पिछले बिल और भुगतान हिस्ट्री कैसे देखें?",
-"answer_hi": "https://uttarajal.uk.gov.in पर लॉगिन करके अपनी उपभोक्ता आईडी के लिए बिल हिस्ट्री/पेमेंट हिस्ट्री खोलें। अगर उपलब्ध हो, तो अलग-अलग बिल/रसीद के लिए पोर्टल के डाउनलोड/प्रिंट विकल्प का उपयोग करें।",
-"keywords": ["bill history", "payment history", "consumer id", "download", "portal"]
-},
-{
-"id": "billing_bill_due_date_where_check",
-"category": "Billing/Payments",
-"question_en": "Where can I check the due date for my bill?",
-"answer_en": "The due date (if shown) is displayed in the bill details on https://uttarajal.uk.gov.in. For the most accurate information, rely on the due date printed on the bill in the portal.",
-"question_hi": "बिल की देय तिथि (ड्यू डेट) कहाँ देखें?",
-"answer_hi": "देय तिथि (अगर दिखाई जाती है) https://uttarajal.uk.gov.in पर बिल विवरण में होती है। सबसे सही जानकारी के लिए पोर्टल में दिख रहे बिल पर ही दी गई देय तिथि देखें।",
-"keywords": ["due date", "bill details", "billing", "portal", "check due"]
-},
-{
-"id": "billing_bill_pdf_not_opening",
-"category": "Billing/Payments",
-"question_en": "The bill/receipt PDF is not opening or downloading. What can I try?",
-"answer_en": "Try opening the bill/receipt again from https://uttarajal.uk.gov.in using a different browser or after clearing cache. If you are on a slow connection (common in hill areas), retry when the network is stable. If the issue persists, raise a grievance on the portal.",
-"question_hi": "बिल/रसीद का PDF डाउनलोड या ओपन नहीं हो रहा। क्या करें?",
-"answer_hi": "https://uttarajal.uk.gov.in से बिल/रसीद को फिर से खोलें, जरूरत हो तो दूसरा ब्राउज़र आज़माएँ या कैश साफ करें। पहाड़ी क्षेत्रों में धीमे नेटवर्क पर, नेटवर्क स्थिर होने पर पुनः प्रयास करें। समस्या बनी रहे तो पोर्टल पर शिकायत दर्ज करें।",
-"keywords": ["pdf", "download", "receipt", "bill", "browser"]
-},
-{
-"id": "billing_bill_contains_sewer_charges",
-"category": "Billing/Payments",
-"question_en": "My bill includes sewer-related charges. Where can I verify details?",
-"answer_en": "Check the bill breakup on https://uttarajal.uk.gov.in for the charge heads shown. If you need clarification for your specific connection, raise a grievance on the portal with your Consumer ID and bill period.",
-"question_hi": "मेरे बिल में सीवर से जुड़े चार्ज दिख रहे हैं। विवरण कहाँ सत्यापित करें?",
-"answer_hi": "https://uttarajal.uk.gov.in पर बिल ब्रेकअप में दिख रहे चार्ज हेड देखें। अगर आपके कनेक्शन के लिए स्पष्टीकरण चाहिए, तो अपनी उपभोक्ता आईडी और बिल अवधि के साथ पोर्टल पर शिकायत दर्ज करें।",
-"keywords": ["sewer charges", "bill breakup", "charge heads", "consumer id", "grievance"]
-},
-{
-"id": "billing_consumer_id_not_found_payment",
-"category": "Billing/Payments",
-"question_en": "I cannot find my Consumer ID while trying to pay. What should I do?",
-"answer_en": "Ensure you are entering the correct Consumer ID and selecting the correct service/area options on https://uttarajal.uk.gov.in. If the Consumer ID is still not found, use the portal’s grievance option for account/billing support.",
-"question_hi": "भुगतान करते समय मेरी उपभोक्ता आईडी नहीं मिल रही। क्या करें?",
-"answer_hi": "सुनिश्चित करें कि आप सही उपभोक्ता आईडी दर्ज कर रहे हैं और https://uttarajal.uk.gov.in पर सही सेवा/क्षेत्र विकल्प चुन रहे हैं। फिर भी उपभोक्ता आईडी न मिले, तो खाते/बिलिंग सहायता के लिए पोर्टल पर शिकायत विकल्प का उपयोग करें।",
-"keywords": ["consumer id", "not found", "pay bill", "portal", "grievance"]
-},
-{
+    "id": "billing_view_current_bill",
+    "category": "Billing/Payments",
+    "question_en": "How can I view my current water bill on the Uttarajal portal?",
+    "answer_en": "Log in to https://uttarajal.uk.gov.in and open the billing section for your Consumer ID. If you cannot find the bill, verify that the correct Consumer ID is linked to your account and use the portal’s bill view option again.",
+    "question_hi": "उत्तराजल पोर्टल पर अपना मौजूदा पानी का बिल कैसे देखें?",
+    "answer_hi": "https://uttarajal.uk.gov.in पर लॉगिन करके अपने उपभोक्ता आईडी के लिए बिलिंग सेक्शन खोलें। अगर बिल नहीं दिख रहा है, तो सुनिश्चित करें कि सही उपभोक्ता आईडी आपके खाते से जुड़ी है और पोर्टल के बिल देखने वाले विकल्प को फिर से उपयोग करें।",
+    "keywords": [
+      "view bill",
+      "current bill",
+      "billing",
+      "portal",
+      "consumer id"
+    ]
+  },
+  {
+    "id": "billing_download_payment_receipt",
+    "category": "Billing/Payments",
+    "question_en": "Where can I download or print my payment receipt?",
+    "answer_en": "After a successful payment, use the receipt or transaction history option on https://uttarajal.uk.gov.in to download/print the receipt. If the receipt is not available immediately, recheck the transaction status from the portal.",
+    "question_hi": "भुगतान की रसीद कहाँ से डाउनलोड या प्रिंट कर सकते हैं?",
+    "answer_hi": "सफल भुगतान के बाद https://uttarajal.uk.gov.in पर रसीद या ट्रांजेक्शन हिस्ट्री विकल्प से रसीद डाउनलोड/प्रिंट करें। अगर रसीद तुरंत उपलब्ध नहीं है, तो पोर्टल पर ट्रांजेक्शन स्टेटस फिर से जाँचें।",
+    "keywords": [
+      "receipt",
+      "payment",
+      "transaction",
+      "download",
+      "print"
+    ]
+  },
+  {
+    "id": "billing_payment_failed_money_debited",
+    "category": "Billing/Payments",
+    "question_en": "My payment failed but money was debited. What should I do?",
+    "answer_en": "First, check the payment status on https://uttarajal.uk.gov.in using the transaction/reference details. If the bill remains unpaid or the status is unclear, raise a grievance on the portal with the transaction ID and bill details for verification.",
+    "question_hi": "भुगतान असफल हो गया लेकिन पैसे कट गए। क्या करें?",
+    "answer_hi": "सबसे पहले https://uttarajal.uk.gov.in पर ट्रांजेक्शन/रेफरेंस विवरण से भुगतान स्टेटस जाँचें। अगर बिल फिर भी अनपेड है या स्टेटस स्पष्ट नहीं है, तो ट्रांजेक्शन आईडी और बिल विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": [
+      "payment failed",
+      "debited",
+      "status",
+      "transaction id",
+      "grievance"
+    ]
+  },
+  {
+    "id": "billing_wrong_bill_amount",
+    "category": "Billing/Payments",
+    "question_en": "My bill amount seems incorrect. How can I dispute it?",
+    "answer_en": "Review the bill details shown on https://uttarajal.uk.gov.in (period, meter reading/consumption if applicable, and charges shown). If it still looks incorrect, raise a grievance on the portal and attach any relevant details such as meter photo/reading notes if you have them.",
+    "question_hi": "मेरा बिल गलत लग रहा है। मैं आपत्ति कैसे दर्ज करूँ?",
+    "answer_hi": "https://uttarajal.uk.gov.in पर बिल का विवरण देखें (अवधि, लागू होने पर मीटर रीडिंग/खपत, और दिखाए गए चार्ज)। अगर फिर भी गलत लग रहा है, तो पोर्टल पर शिकायत दर्ज करें और उपलब्ध हो तो मीटर फोटो/रीडिंग नोट्स जैसी जानकारी संलग्न करें।",
+    "keywords": [
+      "wrong bill",
+      "dispute",
+      "billing",
+      "meter reading",
+      "grievance"
+    ]
+  },
+  {
+    "id": "billing_arrears_previous_dues",
+    "category": "Billing/Payments",
+    "question_en": "Why does my bill show previous dues or arrears?",
+    "answer_en": "The portal bill may include unpaid previous amounts. Check the bill breakup on https://uttarajal.uk.gov.in for arrears/previous balance. If you believe you already paid, compare with your receipts and raise a grievance on the portal with receipt details.",
+    "question_hi": "मेरे बिल में पिछला बकाया/एरियर्स क्यों दिख रहा है?",
+    "answer_hi": "पोर्टल पर बिल में पहले के अनपेड बकाये शामिल हो सकते हैं। https://uttarajal.uk.gov.in पर बिल ब्रेकअप में एरियर्स/पिछला बैलेंस देखें। अगर आपको लगता है कि भुगतान हो चुका है, तो रसीद से मिलान करें और रसीद विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": [
+      "arrears",
+      "previous dues",
+      "bill breakup",
+      "receipt",
+      "grievance"
+    ]
+  },
+  {
+    "id": "billing_payment_modes_available",
+    "category": "Billing/Payments",
+    "question_en": "What payment options are available on the Uttarajal portal?",
+    "answer_en": "You can pay online using the payment options shown on the official portal during checkout (for example UPI, cards, netbanking).\nSteps to pay:\n1) Go to https://uttarajal.uk.gov.in.\n2) Log in and open Billing/Bill History, or use Quick Payment if you are paying without login (if available).\n3) Enter the required identifier (connection/consumer number, bill number, etc.) and fetch the bill.\n4) Verify the consumer name/address and amount before paying.\n5) Complete payment using only the options shown on the portal.\n6) After success, download the receipt from payment/transaction history.",
+    "question_hi": "उत्तराजल पोर्टल पर कौन-कौन से भुगतान विकल्प उपलब्ध हैं?",
+    "answer_hi": "ऑनलाइन भुगतान के विकल्प पोर्टल पर भुगतान के समय (checkout) में दिखते हैं (जैसे UPI, कार्ड, नेटबैंकिंग)।\nभुगतान करने के कदम:\n1) https://uttarajal.uk.gov.in खोलें।\n2) लॉगिन करके Billing/Bill History खोलें, या बिना लॉगिन के Quick Payment (यदि उपलब्ध हो) का उपयोग करें।\n3) आवश्यक पहचान (कनेक्शन/कंज्यूमर नंबर, बिल नंबर आदि) डालकर बिल प्राप्त करें।\n4) भुगतान से पहले नाम/पता और राशि की पुष्टि करें।\n5) केवल पोर्टल पर दिख रहे विकल्पों से भुगतान पूरा करें।\n6) सफल भुगतान के बाद payment/transaction history से रसीद डाउनलोड करें।",
+    "keywords": [
+      "payment options",
+      "online payment",
+      "checkout",
+      "power cut",
+      "transaction history",
+      "pay bill",
+      "quick payment",
+      "receipt"
+    ]
+  },
+  {
+    "id": "billing_pay_bill_steps",
+    "category": "Billing/Payments",
+    "question_en": "How do I pay my water bill online?",
+    "answer_en": "Steps:\n1) Open https://uttarajal.uk.gov.in.\n2) Use Billing/Bill History after login, or Quick Payment if you are paying without login (if available).\n3) Enter your connection/consumer number or bill number to fetch the bill.\n4) Verify consumer details and amount, then proceed to Pay.\n5) Complete payment using the payment gateway/method shown on the portal.\n6) After success, save the transaction reference and download the receipt from transaction history.",
+    "question_hi": "ऑनलाइन पानी का बिल कैसे भरें?",
+    "answer_hi": "कदम:\n1) https://uttarajal.uk.gov.in खोलें।\n2) लॉगिन के बाद Billing/Bill History से भुगतान करें, या बिना लॉगिन के Quick Payment (यदि उपलब्ध हो) का उपयोग करें।\n3) कनेक्शन/कंज्यूमर नंबर या बिल नंबर डालकर बिल प्राप्त करें।\n4) नाम/पता और राशि की पुष्टि करें, फिर Pay करें।\n5) पोर्टल पर दिख रहे payment gateway/विधि से भुगतान पूरा करें।\n6) सफल भुगतान के बाद ट्रांजैक्शन रेफरेंस सुरक्षित रखें और transaction history से रसीद डाउनलोड करें।",
+    "keywords": [
+      "pay bill",
+      "online payment",
+      "quick payment",
+      "receipt",
+      "transaction",
+      "bill"
+    ]
+  },
+  {
+    "id": "billing_consumer_code_last7_pay",
+    "category": "Billing/Payments",
+    "question_en": "Can I check my bill amount using only the last 7 digits of my consumer/connection code?",
+    "answer_en": "Yes. If you have the last 7 digits of your consumer/connection code, you can use Quick Payment to fetch your latest bill details.\\nSteps:\\n1) Open https://uttarajal.uk.gov.in/quick-payment\\n2) Enter the last 7 digits (or the identifier accepted by the page) and submit.\\n3) Review the bill amount and due date, then use Pay Now to complete payment.\\n\\nTip: If you share the last 7 digits here, I can fetch and show the bill amount and a Pay Now link (if available).",
+    "question_hi": "क्या मैं केवल उपभोक्ता/कनेक्शन कोड के अंतिम 7 अंकों से बिल राशि देख सकता/सकती हूँ?",
+    "answer_hi": "हाँ। यदि आपके पास उपभोक्ता/कनेक्शन कोड के अंतिम 7 अंक हैं, तो आप Quick Payment से नवीनतम बिल विवरण प्राप्त कर सकते हैं।\\nकदम:\\n1) https://uttarajal.uk.gov.in/quick-payment खोलें\\n2) अंतिम 7 अंक (या पेज पर स्वीकार किया गया पहचान विवरण) दर्ज करें और सबमिट करें।\\n3) बिल राशि और देय तिथि देखें, फिर Pay Now से भुगतान पूरा करें।\\n\\nटिप: यदि आप यहां अंतिम 7 अंक साझा करें, तो मैं बिल राशि और Pay Now लिंक (यदि उपलब्ध हो) दिखा सकता/सकती हूँ।",
+    "keywords": [
+      "consumer code",
+      "last 7 digits",
+      "quick payment",
+      "pay now",
+      "bill amount"
+    ]
+  },
+  {
+    "id": "billing_duplicate_payment",
+    "category": "Billing/Payments",
+    "question_en": "I accidentally paid twice for the same bill. What should I do?",
+    "answer_en": "Check transaction history and receipts on https://uttarajal.uk.gov.in to confirm both payments. If a duplicate payment is confirmed, raise a grievance on the portal with both transaction IDs and bill details for verification and guidance.",
+    "question_hi": "मैंने गलती से एक ही बिल का दो बार भुगतान कर दिया। क्या करें?",
+    "answer_hi": "https://uttarajal.uk.gov.in पर ट्रांजेक्शन हिस्ट्री और रसीदों से दोनों भुगतान की पुष्टि करें। अगर डुप्लीकेट भुगतान पुष्टि हो जाए, तो दोनों ट्रांजेक्शन आईडी और बिल विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": [
+      "duplicate payment",
+      "paid twice",
+      "transaction id",
+      "receipt",
+      "grievance"
+    ]
+  },
+  {
+    "id": "billing_transaction_success_bill_unpaid",
+    "category": "Billing/Payments",
+    "question_en": "My transaction shows success but the bill is still unpaid. Why?",
+    "answer_en": "Sometimes status updates can take time. Recheck on https://uttarajal.uk.gov.in in transaction history and the bill page. If the bill remains unpaid after rechecking, raise a grievance on the portal with the transaction/reference number.",
+    "question_hi": "ट्रांजेक्शन सफल दिख रहा है लेकिन बिल अभी भी अनपेड है। क्यों?",
+    "answer_hi": "कभी-कभी स्टेटस अपडेट होने में समय लग सकता है। https://uttarajal.uk.gov.in पर ट्रांजेक्शन हिस्ट्री और बिल पेज पर फिर से जाँचें। अगर फिर भी अनपेड रहे, तो ट्रांजेक्शन/रेफरेंस नंबर के साथ पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": [
+      "success",
+      "bill unpaid",
+      "status update",
+      "transaction",
+      "grievance"
+    ]
+  },
+  {
+    "id": "billing_bill_history_download",
+    "category": "Billing/Payments",
+    "question_en": "How can I view my previous bills and payment history?",
+    "answer_en": "Log in to https://uttarajal.uk.gov.in and open bill history/payment history for your Consumer ID. Use the portal’s download/print options if available for individual bills or receipts.",
+    "question_hi": "पिछले बिल और भुगतान हिस्ट्री कैसे देखें?",
+    "answer_hi": "https://uttarajal.uk.gov.in पर लॉगिन करके अपनी उपभोक्ता आईडी के लिए बिल हिस्ट्री/पेमेंट हिस्ट्री खोलें। अगर उपलब्ध हो, तो अलग-अलग बिल/रसीद के लिए पोर्टल के डाउनलोड/प्रिंट विकल्प का उपयोग करें।",
+    "keywords": [
+      "bill history",
+      "payment history",
+      "consumer id",
+      "download",
+      "portal"
+    ]
+  },
+  {
+    "id": "billing_bill_due_date_where_check",
+    "category": "Billing/Payments",
+    "question_en": "Where can I check the due date for my bill?",
+    "answer_en": "The due date (if shown) is displayed in the bill details on https://uttarajal.uk.gov.in. For the most accurate information, rely on the due date printed on the bill in the portal.",
+    "question_hi": "बिल की देय तिथि (ड्यू डेट) कहाँ देखें?",
+    "answer_hi": "देय तिथि (अगर दिखाई जाती है) https://uttarajal.uk.gov.in पर बिल विवरण में होती है। सबसे सही जानकारी के लिए पोर्टल में दिख रहे बिल पर ही दी गई देय तिथि देखें।",
+    "keywords": [
+      "due date",
+      "bill details",
+      "billing",
+      "portal",
+      "check due"
+    ]
+  },
+  {
+    "id": "billing_bill_pdf_not_opening",
+    "category": "Billing/Payments",
+    "question_en": "The bill/receipt PDF is not opening or downloading. What can I try?",
+    "answer_en": "Try opening the bill/receipt again from https://uttarajal.uk.gov.in using a different browser or after clearing cache. If you are on a slow connection (common in hill areas), retry when the network is stable. If the issue persists, raise a grievance on the portal.",
+    "question_hi": "बिल/रसीद का PDF डाउनलोड या ओपन नहीं हो रहा। क्या करें?",
+    "answer_hi": "https://uttarajal.uk.gov.in से बिल/रसीद को फिर से खोलें, जरूरत हो तो दूसरा ब्राउज़र आज़माएँ या कैश साफ करें। पहाड़ी क्षेत्रों में धीमे नेटवर्क पर, नेटवर्क स्थिर होने पर पुनः प्रयास करें। समस्या बनी रहे तो पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": [
+      "pdf",
+      "download",
+      "receipt",
+      "bill",
+      "browser"
+    ]
+  },
+  {
+    "id": "billing_bill_contains_sewer_charges",
+    "category": "Billing/Payments",
+    "question_en": "My bill includes sewer-related charges. Where can I verify details?",
+    "answer_en": "Check the bill breakup on https://uttarajal.uk.gov.in for the charge heads shown. If you need clarification for your specific connection, raise a grievance on the portal with your Consumer ID and bill period.",
+    "question_hi": "मेरे बिल में सीवर से जुड़े चार्ज दिख रहे हैं। विवरण कहाँ सत्यापित करें?",
+    "answer_hi": "https://uttarajal.uk.gov.in पर बिल ब्रेकअप में दिख रहे चार्ज हेड देखें। अगर आपके कनेक्शन के लिए स्पष्टीकरण चाहिए, तो अपनी उपभोक्ता आईडी और बिल अवधि के साथ पोर्टल पर शिकायत दर्ज करें।",
+    "keywords": [
+      "sewer charges",
+      "bill breakup",
+      "charge heads",
+      "consumer id",
+      "grievance"
+    ]
+  },
+  {
+    "id": "billing_consumer_id_not_found_payment",
+    "category": "Billing/Payments",
+    "question_en": "I cannot find my Consumer ID while trying to pay. What should I do?",
+    "answer_en": "Ensure you are entering the correct Consumer ID and selecting the correct service/area options on https://uttarajal.uk.gov.in. If the Consumer ID is still not found, use the portal’s grievance option for account/billing support.",
+    "question_hi": "भुगतान करते समय मेरी उपभोक्ता आईडी नहीं मिल रही। क्या करें?",
+    "answer_hi": "सुनिश्चित करें कि आप सही उपभोक्ता आईडी दर्ज कर रहे हैं और https://uttarajal.uk.gov.in पर सही सेवा/क्षेत्र विकल्प चुन रहे हैं। फिर भी उपभोक्ता आईडी न मिले, तो खाते/बिलिंग सहायता के लिए पोर्टल पर शिकायत विकल्प का उपयोग करें।",
+    "keywords": [
+      "consumer id",
+      "not found",
+      "pay bill",
+      "portal",
+      "grievance"
+    ]
+  },
+  {
     "id": "billing_high_bill_reason",
     "category": "Billing/Payments",
     "question_en": "Why is my water bill higher than usual?",
     "answer_en": "A higher bill may be due to increased water usage, leakage within premises, or meter reading variations. Please check for leaks and verify details on the official portal or raise a grievance if needed.",
     "question_hi": "मेरा पानी का बिल सामान्य से अधिक क्यों है?",
     "answer_hi": "अधिक बिल का कारण पानी की अधिक खपत, परिसर में लीकेज या मीटर रीडिंग में अंतर हो सकता है। कृपया लीकेज जांचें और पोर्टल पर विवरण सत्यापित करें या आवश्यकता होने पर शिकायत दर्ज करें।",
-    "keywords": ["high bill", "billing issue", "water usage"]
+    "keywords": [
+      "high bill",
+      "billing issue",
+      "water usage"
+    ]
   },
   {
     "id": "billing_bill_not_generated",
@@ -447,25 +716,44 @@
     "answer_en": "If the bill is not generated, it may be due to meter reading or account status issues. Please log in to the official portal to check billing details or use the grievance option.",
     "question_hi": "मेरा पानी का बिल जनरेट नहीं हुआ है, क्या करूं?",
     "answer_hi": "यदि बिल जनरेट नहीं हुआ है तो इसका कारण मीटर रीडिंग या खाते की स्थिति हो सकती है। कृपया आधिकारिक पोर्टल पर लॉगिन कर बिल विवरण देखें या शिकायत विकल्प का उपयोग करें।",
-    "keywords": ["bill not generated", "billing status", "water bill"]
+    "keywords": [
+      "bill not generated",
+      "billing status",
+      "water bill"
+    ]
   },
   {
     "id": "billing_online_payment_failed",
     "category": "Billing/Payments",
     "question_en": "What should I do if my online payment fails?",
-    "answer_en": "If online payment fails, please wait for confirmation and check transaction status on the portal. Avoid making multiple payments and use the grievance section if the issue persists.",
+    "answer_en": "If a payment fails or gets stuck:\n1) Do not immediately pay again. First check the final status in transaction history.\n2) Wait for a few minutes (sometimes the gateway confirms late).\n3) If the amount was debited but the bill is still unpaid, raise a grievance on the portal with bill number, transaction reference, date/time, and amount.\n4) If you made multiple attempts, share all references so support can reconcile.",
     "question_hi": "यदि ऑनलाइन भुगतान असफल हो जाए तो क्या करें?",
-    "answer_hi": "यदि ऑनलाइन भुगतान असफल हो जाए, तो पुष्टि की प्रतीक्षा करें और पोर्टल पर लेनदेन की स्थिति जांचें। कई बार भुगतान न करें और समस्या बनी रहने पर शिकायत दर्ज करें।",
-    "keywords": ["payment failed", "online payment", "billing"]
+    "answer_hi": "यदि ऑनलाइन भुगतान फेल हो जाए या अटक जाए:\n1) तुरंत दोबारा भुगतान न करें। पहले transaction history में अंतिम स्टेटस देखें।\n2) कुछ मिनट प्रतीक्षा करें (कभी-कभी भुगतान पुष्टि देर से होती है)।\n3) यदि पैसा कट गया है लेकिन बिल unpaid दिख रहा है, तो बिल नंबर, ट्रांजैक्शन रेफरेंस, तारीख/समय और राशि के साथ पोर्टल पर शिकायत/गृहवांस दर्ज करें।\n4) यदि कई बार प्रयास किया है, तो सभी रेफरेंस साझा करें ताकि मिलान किया जा सके।",
+    "keywords": [
+      "payment failed",
+      "online payment",
+      "billing",
+      "failed payment",
+      "debited",
+      "status",
+      "grievance"
+    ]
   },
   {
     "id": "billing_receipt_download",
     "category": "Billing/Payments",
     "question_en": "How can I download my water bill payment receipt?",
-    "answer_en": "You can download the payment receipt by logging in to your account on the official portal and accessing the billing or payment history section.",
+    "answer_en": "Steps to download receipt:\n1) Log in at https://uttarajal.uk.gov.in.\n2) Open Billing/Bill History or Payments/Transaction History (menu names may vary).\n3) Find the paid bill/transaction and select Download/Receipt.\nIf you share your bill number or transaction reference, I can tell you what to look for.",
     "question_hi": "मैं पानी के बिल की भुगतान रसीद कैसे डाउनलोड करूं?",
-    "answer_hi": "आप आधिकारिक पोर्टल पर अपने खाते में लॉगिन करके बिलिंग या भुगतान इतिहास अनुभाग से रसीद डाउनलोड कर सकते हैं।",
-    "keywords": ["payment receipt", "download bill", "billing"]
+    "answer_hi": "रसीद डाउनलोड करने के कदम:\n1) https://uttarajal.uk.gov.in पर लॉगिन करें।\n2) Billing/Bill History या Payments/Transaction History (मेनू नाम अलग हो सकते हैं) खोलें।\n3) भुगतान किए गए बिल/ट्रांजैक्शन को खोजें और Download/Receipt चुनें।\nयदि आप बिल नंबर या ट्रांजैक्शन रेफरेंस साझा करें, तो मैं सही जगह बताने में मदद कर सकता/सकती हूँ।",
+    "keywords": [
+      "payment receipt",
+      "download bill",
+      "billing",
+      "receipt",
+      "download",
+      "transaction"
+    ]
   },
   {
     "id": "billing_arrears_meaning",
@@ -474,7 +762,11 @@
     "answer_en": "Arrears indicate unpaid dues from previous billing cycles. Please check detailed bill breakup on the portal for clarification.",
     "question_hi": "मेरे पानी के बिल में एरियर का क्या मतलब है?",
     "answer_hi": "एरियर का अर्थ पिछले बिलिंग चक्र के बकाया भुगतान से है। अधिक जानकारी के लिए पोर्टल पर बिल विवरण देखें।",
-    "keywords": ["arrears", "pending dues", "water bill"]
+    "keywords": [
+      "arrears",
+      "pending dues",
+      "water bill"
+    ]
   },
   {
     "id": "billing_average_bill",
@@ -483,7 +775,11 @@
     "answer_en": "An average bill may be issued if actual meter reading is unavailable. Please check your account details on the portal for updates.",
     "question_hi": "मुझे औसत पानी का बिल क्यों मिल रहा है?",
     "answer_hi": "यदि वास्तविक मीटर रीडिंग उपलब्ध न हो तो औसत बिल जारी किया जा सकता है। कृपया पोर्टल पर अपने खाते का विवरण जांचें।",
-    "keywords": ["average bill", "meter reading", "billing"]
+    "keywords": [
+      "average bill",
+      "meter reading",
+      "billing"
+    ]
   },
   {
     "id": "billing_bill_due_date",
@@ -492,7 +788,11 @@
     "answer_en": "The due date is mentioned on your bill and in your account dashboard on the official portal.",
     "question_hi": "मैं पानी के बिल की अंतिम तिथि कहाँ देख सकता हूं?",
     "answer_hi": "अंतिम तिथि आपके बिल और आधिकारिक पोर्टल के डैशबोर्ड पर दिखाई जाती है।",
-    "keywords": ["bill due date", "payment deadline", "billing"]
+    "keywords": [
+      "bill due date",
+      "payment deadline",
+      "billing"
+    ]
   },
   {
     "id": "billing_bill_dispute",
@@ -501,7 +801,11 @@
     "answer_en": "You can raise a billing dispute by registering a grievance through the official portal with relevant bill details.",
     "question_hi": "मैं अपने पानी के बिल से संबंधित विवाद कैसे दर्ज करूं?",
     "answer_hi": "आप संबंधित बिल विवरण के साथ आधिकारिक पोर्टल पर शिकायत दर्ज करके बिल विवाद उठा सकते हैं।",
-    "keywords": ["bill dispute", "complaint", "billing"]
+    "keywords": [
+      "bill dispute",
+      "complaint",
+      "billing"
+    ]
   },
   {
     "id": "billing_bill_sms_alert",
@@ -510,7 +814,11 @@
     "answer_en": "SMS alerts depend on correct mobile number registration. Please verify or update your mobile number on the official portal.",
     "question_hi": "मुझे पानी के बिल के लिए एसएमएस अलर्ट क्यों नहीं मिल रहा?",
     "answer_hi": "एसएमएस अलर्ट सही मोबाइल नंबर पंजीकरण पर निर्भर करता है। कृपया पोर्टल पर अपना मोबाइल नंबर जांचें या अपडेट करें।",
-    "keywords": ["sms alert", "bill notification", "billing"]
+    "keywords": [
+      "sms alert",
+      "bill notification",
+      "billing"
+    ]
   },
   {
     "id": "billing_bill_name_mismatch",
@@ -519,7 +827,11 @@
     "answer_en": "If the name is incorrect, please apply for mutation through the official portal to update ownership details.",
     "question_hi": "मेरे पानी के बिल पर नाम गलत है, क्या करूं?",
     "answer_hi": "यदि नाम गलत है, तो स्वामित्व विवरण अपडेट करने के लिए आधिकारिक पोर्टल पर म्यूटेशन के लिए आवेदन करें।",
-    "keywords": ["name mismatch", "mutation", "billing"]
+    "keywords": [
+      "name mismatch",
+      "mutation",
+      "billing"
+    ]
   },
   {
     "id": "billing_bill_address_error",
@@ -528,7 +840,11 @@
     "answer_en": "Address corrections can be requested through your portal account or by raising a grievance with correct details.",
     "question_hi": "यदि पानी के बिल पर पता गलत हो तो क्या करें?",
     "answer_hi": "पता सुधार के लिए आप पोर्टल खाते के माध्यम से अनुरोध कर सकते हैं या सही विवरण के साथ शिकायत दर्ज कर सकते हैं।",
-    "keywords": ["address error", "bill correction", "billing"]
+    "keywords": [
+      "address error",
+      "bill correction",
+      "billing"
+    ]
   },
   {
     "id": "billing_bill_after_disconnection",
@@ -537,7 +853,11 @@
     "answer_en": "Bills may be generated if disconnection is not completed or dues are pending. Please verify status on the portal or raise a grievance.",
     "question_hi": "डिस्कनेक्शन के बाद भी बिल क्यों आ रहा है?",
     "answer_hi": "यदि डिस्कनेक्शन पूर्ण नहीं हुआ है या बकाया है तो बिल आ सकता है। कृपया पोर्टल पर स्थिति जांचें या शिकायत दर्ज करें।",
-    "keywords": ["bill after disconnection", "billing issue", "water bill"]
+    "keywords": [
+      "bill after disconnection",
+      "billing issue",
+      "water bill"
+    ]
   },
   {
     "id": "billing_partial_payment",
@@ -546,7 +866,11 @@
     "answer_en": "Partial payment options, if available, are shown on the official portal. Please refer to the billing section for details.",
     "question_hi": "क्या मैं पानी के बिल का आंशिक भुगतान कर सकता हूं?",
     "answer_hi": "यदि आंशिक भुगतान की सुविधा उपलब्ध है, तो इसकी जानकारी आधिकारिक पोर्टल के बिलिंग सेक्शन में दी जाती है।",
-    "keywords": ["partial payment", "bill payment", "billing"]
+    "keywords": [
+      "partial payment",
+      "bill payment",
+      "billing"
+    ]
   },
   {
     "id": "billing_old_bill_view",
@@ -555,7 +879,11 @@
     "answer_en": "Old bills can be viewed by logging in to your account on the official portal and checking billing history.",
     "question_hi": "मैं पुराने पानी के बिल कैसे देख सकता हूं?",
     "answer_hi": "आप आधिकारिक पोर्टल पर अपने खाते में लॉगिन करके बिलिंग इतिहास में पुराने बिल देख सकते हैं।",
-    "keywords": ["old bills", "billing history", "water bill"]
+    "keywords": [
+      "old bills",
+      "billing history",
+      "water bill"
+    ]
   },
   {
     "id": "billing_bill_cycle",
@@ -564,7 +892,11 @@
     "answer_en": "Billing cycles are determined by Uttarajal and details are available on the official portal. Please refer to your bill for cycle information.",
     "question_hi": "पानी का बिल कितने समय में बनता है?",
     "answer_hi": "बिलिंग चक्र उत्तरजल द्वारा निर्धारित किए जाते हैं और विवरण आधिकारिक पोर्टल पर उपलब्ध होते हैं।",
-    "keywords": ["billing cycle", "bill frequency", "water bill"]
+    "keywords": [
+      "billing cycle",
+      "bill frequency",
+      "water bill"
+    ]
   },
   {
     "id": "billing_bill_without_usage",
@@ -573,7 +905,11 @@
     "answer_en": "Bills may include fixed charges or previous dues. Please check detailed bill information on the portal.",
     "question_hi": "पानी उपयोग न होने पर भी बिल क्यों आया?",
     "answer_hi": "बिल में निश्चित शुल्क या पिछले बकाया शामिल हो सकते हैं। कृपया पोर्टल पर बिल विवरण देखें।",
-    "keywords": ["no usage bill", "fixed charges", "billing"]
+    "keywords": [
+      "no usage bill",
+      "fixed charges",
+      "billing"
+    ]
   },
   {
     "id": "billing_bill_pdf_error",
@@ -582,7 +918,11 @@
     "answer_en": "If the bill PDF does not open, try using a different browser or device. If the issue continues, raise a grievance on the portal.",
     "question_hi": "यदि बिल पीडीएफ नहीं खुल रहा है तो क्या करें?",
     "answer_hi": "यदि बिल पीडीएफ नहीं खुलता है, तो अन्य ब्राउज़र या डिवाइस का उपयोग करें। समस्या बनी रहने पर पोर्टल पर शिकायत दर्ज करें।",
-    "keywords": ["bill pdf", "download issue", "billing"]
+    "keywords": [
+      "bill pdf",
+      "download issue",
+      "billing"
+    ]
   },
   {
     "id": "billing_wrong_meter_reading",
@@ -591,9 +931,12 @@
     "answer_en": "If meter reading appears incorrect, please compare it with the actual meter and raise a grievance with details on the portal.",
     "question_hi": "यदि बिल में मीटर रीडिंग गलत हो तो क्या करें?",
     "answer_hi": "यदि मीटर रीडिंग गलत लगती है, तो वास्तविक मीटर से मिलान करें और विवरण के साथ पोर्टल पर शिकायत दर्ज करें।",
-    "keywords": ["wrong meter reading", "billing issue", "water bill"]
+    "keywords": [
+      "wrong meter reading",
+      "billing issue",
+      "water bill"
+    ]
   },
-
   {
     "id": "water_supply_no_water",
     "category": "Water Supply",
@@ -601,7 +944,11 @@
     "answer_en": "Water supply may be affected due to maintenance work, power issues, or seasonal shortages. Please check local updates on the portal or register a grievance.",
     "question_hi": "मेरे क्षेत्र में पानी की आपूर्ति क्यों नहीं है?",
     "answer_hi": "रखरखाव कार्य, बिजली समस्या या मौसमी कमी के कारण पानी की आपूर्ति प्रभावित हो सकती है। कृपया पोर्टल पर अपडेट देखें या शिकायत दर्ज करें।",
-    "keywords": ["no water", "supply issue", "water problem"]
+    "keywords": [
+      "no water",
+      "supply issue",
+      "water problem"
+    ]
   },
   {
     "id": "water_supply_low_pressure",
@@ -610,7 +957,11 @@
     "answer_en": "Low water pressure can occur due to elevation differences, leakage, or high demand periods. You may register a grievance if the issue persists.",
     "question_hi": "पानी का दबाव बहुत कम क्यों है?",
     "answer_hi": "ऊंचाई अंतर, लीकेज या अधिक मांग के समय के कारण पानी का दबाव कम हो सकता है। समस्या बनी रहने पर शिकायत दर्ज करें।",
-    "keywords": ["low pressure", "water flow", "supply issue"]
+    "keywords": [
+      "low pressure",
+      "water flow",
+      "supply issue"
+    ]
   },
   {
     "id": "water_supply_irregular",
@@ -619,7 +970,11 @@
     "answer_en": "In hilly regions, water supply may be irregular due to terrain, seasonal source reduction, or power outages. Check portal notices for updates.",
     "question_hi": "पहाड़ी क्षेत्रों में पानी की आपूर्ति अनियमित क्यों होती है?",
     "answer_hi": "पहाड़ी क्षेत्रों में भौगोलिक स्थिति, मौसमी स्रोत कमी या बिजली कटौती के कारण आपूर्ति अनियमित हो सकती है।",
-    "keywords": ["irregular supply", "hilly area", "water issue"]
+    "keywords": [
+      "irregular supply",
+      "hilly area",
+      "water issue"
+    ]
   },
   {
     "id": "water_supply_monsoon_quality",
@@ -628,7 +983,11 @@
     "answer_en": "During monsoon, water quality may temporarily change due to increased turbidity. Please avoid use if quality is poor and raise a grievance.",
     "question_hi": "क्या मानसून में पानी की गुणवत्ता प्रभावित होती है?",
     "answer_hi": "मानसून के दौरान पानी की गुणवत्ता अस्थायी रूप से प्रभावित हो सकती है। यदि पानी खराब हो तो उपयोग न करें और शिकायत दर्ज करें।",
-    "keywords": ["monsoon water", "water quality", "supply"]
+    "keywords": [
+      "monsoon water",
+      "water quality",
+      "supply"
+    ]
   },
   {
     "id": "water_supply_winter_freezing",
@@ -637,7 +996,11 @@
     "answer_en": "In extreme winter, pipelines may freeze in some areas, affecting supply. Updates are usually shared locally or on the portal.",
     "question_hi": "अत्यधिक सर्दियों में पानी की आपूर्ति क्यों रुक जाती है?",
     "answer_hi": "अत्यधिक सर्दी में कुछ क्षेत्रों में पाइपलाइन जम सकती है, जिससे आपूर्ति प्रभावित होती है। अपडेट स्थानीय रूप से या पोर्टल पर दिए जाते हैं।",
-    "keywords": ["winter freezing", "pipeline freeze", "water supply"]
+    "keywords": [
+      "winter freezing",
+      "pipeline freeze",
+      "water supply"
+    ]
   },
   {
     "id": "water_supply_tanker_information",
@@ -646,7 +1009,11 @@
     "answer_en": "Tanker supply information, if arranged, is managed locally. Please check official notices or register a grievance for assistance.",
     "question_hi": "मेरे क्षेत्र में टैंकर जल आपूर्ति की जानकारी कैसे मिलेगी?",
     "answer_hi": "यदि टैंकर की व्यवस्था की गई है तो इसकी जानकारी स्थानीय स्तर पर दी जाती है। सहायता के लिए शिकायत दर्ज करें।",
-    "keywords": ["tanker supply", "water shortage", "water supply"]
+    "keywords": [
+      "tanker supply",
+      "water shortage",
+      "water supply"
+    ]
   },
   {
     "id": "water_supply_pipeline_leakage",
@@ -655,7 +1022,11 @@
     "answer_en": "Pipeline leakage can be reported immediately through the grievance section on the official portal.",
     "question_hi": "पाइपलाइन लीकेज की शिकायत कैसे करें?",
     "answer_hi": "पाइपलाइन लीकेज की शिकायत तुरंत आधिकारिक पोर्टल के शिकायत अनुभाग में दर्ज करें।",
-    "keywords": ["pipeline leakage", "water wastage", "complaint"]
+    "keywords": [
+      "pipeline leakage",
+      "water wastage",
+      "complaint"
+    ]
   },
   {
     "id": "water_supply_dirty_water",
@@ -664,7 +1035,11 @@
     "answer_en": "If supplied water is muddy or dirty, avoid consumption and register a grievance on the portal for corrective action.",
     "question_hi": "यदि गंदा या मटमैला पानी आ रहा हो तो क्या करें?",
     "answer_hi": "यदि पानी गंदा या मटमैला हो, तो उपयोग न करें और सुधार के लिए पोर्टल पर शिकायत दर्ज करें।",
-    "keywords": ["dirty water", "water quality", "complaint"]
+    "keywords": [
+      "dirty water",
+      "water quality",
+      "complaint"
+    ]
   },
   {
     "id": "water_supply_power_cut",
@@ -673,7 +1048,11 @@
     "answer_en": "Yes, in some areas water supply depends on pumping systems, which may be affected during power cuts.",
     "question_hi": "क्या बिजली कटौती से पानी की आपूर्ति प्रभावित होती है?",
     "answer_hi": "हाँ, कुछ क्षेत्रों में पानी की आपूर्ति पंपिंग सिस्टम पर निर्भर होती है, जो बिजली कटौती में प्रभावित हो सकती है।",
-    "keywords": ["power cut", "water supply", "pumping"]
+    "keywords": [
+      "power cut",
+      "water supply",
+      "pumping"
+    ]
   },
   {
     "id": "water_supply_area_wise_timing",
@@ -682,7 +1061,11 @@
     "answer_en": "Supply timing information, if available, is shared through local notices or official updates on the portal.",
     "question_hi": "मैं अपने क्षेत्र के लिए पानी की आपूर्ति का समय कहाँ देख सकता हूं?",
     "answer_hi": "यदि उपलब्ध हो, तो आपूर्ति समय की जानकारी स्थानीय सूचना या पोर्टल अपडेट के माध्यम से दी जाती है।",
-    "keywords": ["supply timing", "water schedule", "water supply"]
+    "keywords": [
+      "supply timing",
+      "water schedule",
+      "water supply"
+    ]
   },
   {
     "id": "water_supply_new_area_delay",
@@ -691,7 +1074,11 @@
     "answer_en": "In new areas, supply may be delayed due to infrastructure readiness or testing. Please check updates on the portal.",
     "question_hi": "नए जुड़े क्षेत्रों में पानी की आपूर्ति में देरी क्यों होती है?",
     "answer_hi": "नए क्षेत्रों में अवसंरचना या परीक्षण के कारण आपूर्ति में देरी हो सकती है। कृपया पोर्टल पर अपडेट देखें।",
-    "keywords": ["new area supply", "water delay", "water supply"]
+    "keywords": [
+      "new area supply",
+      "water delay",
+      "water supply"
+    ]
   },
   {
     "id": "water_supply_emergency_shutdown",
@@ -700,7 +1087,11 @@
     "answer_en": "Emergency shutdowns may occur due to major leakage or repairs. Information is usually shared through official channels.",
     "question_hi": "आपातकालीन जल आपूर्ति बंद क्या होता है?",
     "answer_hi": "बड़े लीकेज या मरम्मत के कारण आपातकालीन रूप से पानी की आपूर्ति बंद की जा सकती है। जानकारी आधिकारिक माध्यमों से दी जाती है।",
-    "keywords": ["emergency shutdown", "water repair", "water supply"]
+    "keywords": [
+      "emergency shutdown",
+      "water repair",
+      "water supply"
+    ]
   },
   {
     "id": "water_supply_contamination_report",
@@ -709,7 +1100,11 @@
     "answer_en": "If contamination is suspected, avoid use and immediately register a grievance with details on the portal.",
     "question_hi": "संदिग्ध जल प्रदूषण की सूचना कैसे दें?",
     "answer_hi": "यदि जल प्रदूषण का संदेह हो, तो उपयोग न करें और विवरण के साथ तुरंत पोर्टल पर शिकायत दर्ज करें।",
-    "keywords": ["water contamination", "water quality", "complaint"]
+    "keywords": [
+      "water contamination",
+      "water quality",
+      "complaint"
+    ]
   },
   {
     "id": "water_supply_seasonal_shortage",
@@ -718,7 +1113,11 @@
     "answer_en": "Yes, some areas may face seasonal shortages due to reduced sources, especially during summer.",
     "question_hi": "क्या उत्तराखंड में मौसमी पानी की कमी आम है?",
     "answer_hi": "हाँ, विशेषकर गर्मियों में स्रोत कम होने के कारण कुछ क्षेत्रों में मौसमी पानी की कमी हो सकती है।",
-    "keywords": ["seasonal shortage", "summer water", "water supply"]
+    "keywords": [
+      "seasonal shortage",
+      "summer water",
+      "water supply"
+    ]
   },
   {
     "id": "water_supply_service_restoration",
@@ -727,9 +1126,12 @@
     "answer_en": "Restoration updates are generally shared through local notices or the official portal.",
     "question_hi": "पानी की आपूर्ति बहाल होने की जानकारी कैसे मिलेगी?",
     "answer_hi": "आपूर्ति बहाल होने की जानकारी आमतौर पर स्थानीय सूचना या आधिकारिक पोर्टल के माध्यम से दी जाती है।",
-    "keywords": ["supply restoration", "water update", "water supply"]
+    "keywords": [
+      "supply restoration",
+      "water update",
+      "water supply"
+    ]
   },
-
   {
     "id": "meter_not_working",
     "category": "Meter",
@@ -737,7 +1139,11 @@
     "answer_en": "If your meter is not working, you can apply for meter replacement through the official portal.",
     "question_hi": "यदि मेरा पानी का मीटर काम नहीं कर रहा है तो क्या करें?",
     "answer_hi": "यदि आपका मीटर काम नहीं कर रहा है, तो आप आधिकारिक पोर्टल के माध्यम से मीटर बदलने के लिए आवेदन कर सकते हैं।",
-    "keywords": ["meter not working", "faulty meter", "meter replacement"]
+    "keywords": [
+      "meter not working",
+      "faulty meter",
+      "meter replacement"
+    ]
   },
   {
     "id": "meter_fast_reading",
@@ -746,7 +1152,11 @@
     "answer_en": "Fast readings may indicate leakage or meter issues. Please check for leaks and raise a grievance if required.",
     "question_hi": "मेरा पानी का मीटर तेज रीडिंग क्यों दिखा रहा है?",
     "answer_hi": "तेज रीडिंग लीकेज या मीटर की समस्या का संकेत हो सकती है। कृपया लीकेज जांचें और आवश्यकता होने पर शिकायत दर्ज करें।",
-    "keywords": ["fast meter", "meter issue", "water meter"]
+    "keywords": [
+      "fast meter",
+      "meter issue",
+      "water meter"
+    ]
   },
   {
     "id": "meter_slow_reading",
@@ -755,7 +1165,11 @@
     "answer_en": "Slow readings may be due to meter faults. You may apply for meter checking or replacement via the portal.",
     "question_hi": "यदि मेरा पानी का मीटर बहुत धीमी रीडिंग दिखा रहा है तो क्या करें?",
     "answer_hi": "धीमी रीडिंग मीटर खराबी के कारण हो सकती है। आप पोर्टल से मीटर जांच या बदलने के लिए आवेदन कर सकते हैं।",
-    "keywords": ["slow meter", "meter fault", "water meter"]
+    "keywords": [
+      "slow meter",
+      "meter fault",
+      "water meter"
+    ]
   },
   {
     "id": "meter_seal_broken",
@@ -764,7 +1178,11 @@
     "answer_en": "If the meter seal is broken, do not tamper further and report the issue through the grievance portal.",
     "question_hi": "यदि मीटर की सील टूटी हो तो क्या करें?",
     "answer_hi": "यदि मीटर की सील टूटी हो, तो और छेड़छाड़ न करें और पोर्टल पर शिकायत दर्ज करें।",
-    "keywords": ["meter seal", "meter issue", "complaint"]
+    "keywords": [
+      "meter seal",
+      "meter issue",
+      "complaint"
+    ]
   },
   {
     "id": "meter_replacement_status",
@@ -773,7 +1191,11 @@
     "answer_en": "You can track your meter replacement application using the tracking option on the official portal.",
     "question_hi": "मैं मीटर बदलने के अनुरोध की स्थिति कैसे देख सकता हूं?",
     "answer_hi": "आप आधिकारिक पोर्टल के ट्रैकिंग विकल्प का उपयोग करके मीटर बदलने के आवेदन की स्थिति देख सकते हैं।",
-    "keywords": ["meter replacement", "track application", "meter"]
+    "keywords": [
+      "meter replacement",
+      "track application",
+      "meter"
+    ]
   },
   {
     "id": "meter_reading_taken",
@@ -782,7 +1204,11 @@
     "answer_en": "Meter readings are recorded as per Uttarajal procedures. Details related to readings can be viewed on your bill or portal account.",
     "question_hi": "पानी के मीटर की रीडिंग कैसे ली जाती है?",
     "answer_hi": "मीटर रीडिंग उत्तरजल की प्रक्रिया के अनुसार ली जाती है। संबंधित विवरण बिल या पोर्टल खाते में देखा जा सकता है।",
-    "keywords": ["meter reading", "billing", "water meter"]
+    "keywords": [
+      "meter reading",
+      "billing",
+      "water meter"
+    ]
   },
   {
     "id": "meter_access_issue",
@@ -791,7 +1217,11 @@
     "answer_en": "If access was not possible, an average bill may be generated. Please ensure meter accessibility or update details on the portal.",
     "question_hi": "यदि मीटर रीडर को परिसर में प्रवेश न मिले तो क्या होता है?",
     "answer_hi": "यदि प्रवेश संभव न हो, तो औसत बिल बन सकता है। कृपया मीटर की पहुंच सुनिश्चित करें या पोर्टल पर विवरण अपडेट करें।",
-    "keywords": ["meter access", "average bill", "meter reading"]
+    "keywords": [
+      "meter access",
+      "average bill",
+      "meter reading"
+    ]
   },
   {
     "id": "meter_location_change",
@@ -800,7 +1230,11 @@
     "answer_en": "Requests related to meter location can be raised through the grievance section for official guidance.",
     "question_hi": "क्या मैं मीटर का स्थान बदलने का अनुरोध कर सकता हूं?",
     "answer_hi": "मीटर स्थान से संबंधित अनुरोध आधिकारिक मार्गदर्शन के लिए शिकायत अनुभाग में दर्ज किए जा सकते हैं।",
-    "keywords": ["meter location", "meter change", "complaint"]
+    "keywords": [
+      "meter location",
+      "meter change",
+      "complaint"
+    ]
   },
   {
     "id": "meter_new_connection_meter",
@@ -809,16 +1243,24 @@
     "answer_en": "Meter provision details for new connections are specified during the application process on the official portal.",
     "question_hi": "क्या नए जल कनेक्शन के साथ मीटर दिया जाता है?",
     "answer_hi": "नए कनेक्शन के लिए मीटर से संबंधित विवरण आवेदन प्रक्रिया के दौरान आधिकारिक पोर्टल पर दिए जाते हैं।",
-    "keywords": ["new connection meter", "water meter", "meter"]
+    "keywords": [
+      "new connection meter",
+      "water meter",
+      "meter"
+    ]
   },
-    {
+  {
     "id": "new_connection_apply_online",
     "category": "New Connection",
     "question_en": "How can I apply for a new water connection online?",
     "answer_en": "You can apply for a new water connection by visiting the official Uttarajal portal and submitting the online application form with required details.",
     "question_hi": "मैं नया जल कनेक्शन ऑनलाइन कैसे आवेदन कर सकता हूं?",
     "answer_hi": "आप आधिकारिक उत्तरजल पोर्टल पर जाकर आवश्यक विवरण के साथ ऑनलाइन आवेदन फॉर्म भरकर नया जल कनेक्शन आवेदन कर सकते हैं।",
-    "keywords": ["new connection", "apply online", "water connection"]
+    "keywords": [
+      "new connection",
+      "apply online",
+      "water connection"
+    ]
   },
   {
     "id": "new_connection_eligibility",
@@ -827,7 +1269,11 @@
     "answer_en": "Eligibility criteria for a new water connection are specified on the official portal. Please check the relevant service page for details.",
     "question_hi": "नए जल कनेक्शन के लिए कौन पात्र है?",
     "answer_hi": "नए जल कनेक्शन के लिए पात्रता मानदंड आधिकारिक पोर्टल पर दिए गए हैं। कृपया संबंधित सेवा पेज देखें।",
-    "keywords": ["eligibility", "new connection", "water service"]
+    "keywords": [
+      "eligibility",
+      "new connection",
+      "water service"
+    ]
   },
   {
     "id": "new_connection_documents_required",
@@ -836,7 +1282,11 @@
     "answer_en": "The list of required documents is available on the official portal under the new connection service section.",
     "question_hi": "नए जल कनेक्शन के लिए कौन से दस्तावेज़ आवश्यक हैं?",
     "answer_hi": "आवश्यक दस्तावेज़ों की सूची आधिकारिक पोर्टल के नए कनेक्शन सेवा अनुभाग में उपलब्ध है।",
-    "keywords": ["documents", "new connection", "requirements"]
+    "keywords": [
+      "documents",
+      "new connection",
+      "requirements"
+    ]
   },
   {
     "id": "new_connection_hilly_area",
@@ -845,7 +1295,11 @@
     "answer_en": "In hilly areas, feasibility depends on terrain and water availability. Please refer to portal guidelines or submit an application for assessment.",
     "question_hi": "क्या पहाड़ी क्षेत्रों में नए कनेक्शन के लिए विशेष शर्तें होती हैं?",
     "answer_hi": "पहाड़ी क्षेत्रों में कनेक्शन की व्यवहार्यता भू-भाग और जल उपलब्धता पर निर्भर करती है। कृपया पोर्टल दिशानिर्देश देखें या आवेदन करें।",
-    "keywords": ["hilly area", "new connection", "feasibility"]
+    "keywords": [
+      "hilly area",
+      "new connection",
+      "feasibility"
+    ]
   },
   {
     "id": "new_connection_application_status",
@@ -854,7 +1308,11 @@
     "answer_en": "You can track your application status using the tracking option available on the official portal.",
     "question_hi": "मैं अपने नए जल कनेक्शन आवेदन की स्थिति कैसे देख सकता हूं?",
     "answer_hi": "आप आधिकारिक पोर्टल पर उपलब्ध ट्रैकिंग विकल्प से अपने आवेदन की स्थिति देख सकते हैं।",
-    "keywords": ["track application", "new connection", "status"]
+    "keywords": [
+      "track application",
+      "new connection",
+      "status"
+    ]
   },
   {
     "id": "new_connection_rejected_reason",
@@ -863,7 +1321,11 @@
     "answer_en": "Applications may be rejected due to incomplete details or feasibility issues. Please check remarks on the portal or raise a grievance.",
     "question_hi": "मेरा नया जल कनेक्शन आवेदन क्यों अस्वीकृत हुआ?",
     "answer_hi": "अधूरी जानकारी या व्यवहार्यता समस्याओं के कारण आवेदन अस्वीकृत हो सकता है। कृपया पोर्टल पर टिप्पणी देखें या शिकायत दर्ज करें।",
-    "keywords": ["application rejected", "new connection", "reason"]
+    "keywords": [
+      "application rejected",
+      "new connection",
+      "reason"
+    ]
   },
   {
     "id": "new_connection_rental_property",
@@ -872,7 +1334,11 @@
     "answer_en": "Tenant eligibility and requirements are defined on the portal. Please refer to the new connection guidelines for details.",
     "question_hi": "क्या किरायेदार नया जल कनेक्शन आवेदन कर सकता है?",
     "answer_hi": "किरायेदार की पात्रता और आवश्यकताएं पोर्टल पर निर्धारित हैं। कृपया नए कनेक्शन दिशानिर्देश देखें।",
-    "keywords": ["tenant", "new connection", "eligibility"]
+    "keywords": [
+      "tenant",
+      "new connection",
+      "eligibility"
+    ]
   },
   {
     "id": "new_connection_multi_storey",
@@ -881,7 +1347,11 @@
     "answer_en": "For multi-storey buildings, application details and conditions are provided on the portal under the new connection section.",
     "question_hi": "बहुमंजिला भवन में नए कनेक्शन के लिए कैसे आवेदन करें?",
     "answer_hi": "बहुमंजिला भवनों के लिए आवेदन विवरण और शर्तें पोर्टल के नए कनेक्शन अनुभाग में दी गई हैं।",
-    "keywords": ["multi storey", "new connection", "building"]
+    "keywords": [
+      "multi storey",
+      "new connection",
+      "building"
+    ]
   },
   {
     "id": "new_connection_joint_property",
@@ -890,7 +1360,11 @@
     "answer_en": "Yes, jointly owned properties can apply as per guidelines mentioned on the portal, along with required ownership documents.",
     "question_hi": "क्या संयुक्त स्वामित्व वाली संपत्ति के लिए नया कनेक्शन लिया जा सकता है?",
     "answer_hi": "हाँ, पोर्टल पर दिए गए दिशानिर्देशों के अनुसार आवश्यक स्वामित्व दस्तावेज़ों के साथ आवेदन किया जा सकता है।",
-    "keywords": ["joint property", "new connection", "ownership"]
+    "keywords": [
+      "joint property",
+      "new connection",
+      "ownership"
+    ]
   },
   {
     "id": "new_connection_site_inspection",
@@ -899,9 +1373,12 @@
     "answer_en": "Site inspection may be required depending on location and feasibility. Updates are shared through the portal.",
     "question_hi": "क्या नए जल कनेक्शन के लिए साइट निरीक्षण आवश्यक है?",
     "answer_hi": "स्थान और व्यवहार्यता के आधार पर साइट निरीक्षण आवश्यक हो सकता है। जानकारी पोर्टल पर दी जाती है।",
-    "keywords": ["site inspection", "new connection", "process"]
+    "keywords": [
+      "site inspection",
+      "new connection",
+      "process"
+    ]
   },
-
   {
     "id": "sewer_connection_apply",
     "category": "Sewer Connection",
@@ -909,7 +1386,11 @@
     "answer_en": "You can apply for a sewer connection through the official portal by selecting the sewer connection service.",
     "question_hi": "नया सीवर कनेक्शन कैसे आवेदन करें?",
     "answer_hi": "आप आधिकारिक पोर्टल पर सीवर कनेक्शन सेवा चुनकर आवेदन कर सकते हैं।",
-    "keywords": ["sewer connection", "apply", "new connection"]
+    "keywords": [
+      "sewer connection",
+      "apply",
+      "new connection"
+    ]
   },
   {
     "id": "sewer_connection_availability",
@@ -918,7 +1399,11 @@
     "answer_en": "Sewer connection availability depends on infrastructure in your area. Please check details on the portal.",
     "question_hi": "क्या सभी क्षेत्रों में सीवर कनेक्शन उपलब्ध है?",
     "answer_hi": "सीवर कनेक्शन की उपलब्धता आपके क्षेत्र की अवसंरचना पर निर्भर करती है। कृपया पोर्टल पर जानकारी देखें।",
-    "keywords": ["sewer availability", "area service", "sewer"]
+    "keywords": [
+      "sewer availability",
+      "area service",
+      "sewer"
+    ]
   },
   {
     "id": "sewer_connection_documents",
@@ -927,7 +1412,11 @@
     "answer_en": "Required documents for sewer connection are listed on the official portal under the service details.",
     "question_hi": "सीवर कनेक्शन के लिए कौन से दस्तावेज़ आवश्यक हैं?",
     "answer_hi": "सीवर कनेक्शन के लिए आवश्यक दस्तावेज़ आधिकारिक पोर्टल पर सेवा विवरण में दिए गए हैं।",
-    "keywords": ["documents", "sewer connection", "requirements"]
+    "keywords": [
+      "documents",
+      "sewer connection",
+      "requirements"
+    ]
   },
   {
     "id": "sewer_connection_track",
@@ -936,7 +1425,11 @@
     "answer_en": "You can track your sewer connection application through the tracking option on the portal.",
     "question_hi": "मैं अपने सीवर कनेक्शन आवेदन की स्थिति कैसे देखूं?",
     "answer_hi": "आप पोर्टल पर उपलब्ध ट्रैकिंग विकल्प से सीवर कनेक्शन आवेदन की स्थिति देख सकते हैं।",
-    "keywords": ["track application", "sewer connection", "status"]
+    "keywords": [
+      "track application",
+      "sewer connection",
+      "status"
+    ]
   },
   {
     "id": "sewer_connection_delay",
@@ -945,9 +1438,12 @@
     "answer_en": "Delays may occur due to technical or infrastructure reasons. Please check application status or raise a grievance.",
     "question_hi": "मेरा सीवर कनेक्शन आवेदन देर से क्यों हो रहा है?",
     "answer_hi": "तकनीकी या अवसंरचना कारणों से देरी हो सकती है। कृपया स्थिति जांचें या शिकायत दर्ज करें।",
-    "keywords": ["sewer delay", "application status", "sewer"]
+    "keywords": [
+      "sewer delay",
+      "application status",
+      "sewer"
+    ]
   },
-
   {
     "id": "mutation_apply_online",
     "category": "Mutation",
@@ -955,7 +1451,11 @@
     "answer_en": "You can apply for mutation online through the official portal by selecting the mutation service.",
     "question_hi": "मैं जल कनेक्शन के म्यूटेशन के लिए कैसे आवेदन करूं?",
     "answer_hi": "आप आधिकारिक पोर्टल पर म्यूटेशन सेवा चुनकर ऑनलाइन आवेदन कर सकते हैं।",
-    "keywords": ["mutation", "apply online", "ownership change"]
+    "keywords": [
+      "mutation",
+      "apply online",
+      "ownership change"
+    ]
   },
   {
     "id": "mutation_required_documents",
@@ -964,7 +1464,11 @@
     "answer_en": "The list of required documents for mutation is available on the official portal.",
     "question_hi": "म्यूटेशन के लिए कौन से दस्तावेज़ आवश्यक हैं?",
     "answer_hi": "म्यूटेशन के लिए आवश्यक दस्तावेज़ों की सूची आधिकारिक पोर्टल पर उपलब्ध है।",
-    "keywords": ["mutation documents", "ownership", "water connection"]
+    "keywords": [
+      "mutation documents",
+      "ownership",
+      "water connection"
+    ]
   },
   {
     "id": "mutation_inheritance_case",
@@ -973,7 +1477,11 @@
     "answer_en": "Inheritance-related mutation requests can be submitted through the portal with relevant supporting documents.",
     "question_hi": "उत्तराधिकार के मामले में म्यूटेशन कैसे करें?",
     "answer_hi": "उत्तराधिकार से संबंधित म्यूटेशन अनुरोध आवश्यक दस्तावेज़ों के साथ पोर्टल पर जमा किए जा सकते हैं।",
-    "keywords": ["inheritance", "mutation", "ownership transfer"]
+    "keywords": [
+      "inheritance",
+      "mutation",
+      "ownership transfer"
+    ]
   },
   {
     "id": "mutation_status_check",
@@ -982,7 +1490,11 @@
     "answer_en": "Mutation application status can be checked using the tracking feature on the portal.",
     "question_hi": "मैं अपने म्यूटेशन आवेदन की स्थिति कैसे देख सकता हूं?",
     "answer_hi": "आप पोर्टल पर ट्रैकिंग सुविधा का उपयोग करके म्यूटेशन आवेदन की स्थिति देख सकते हैं।",
-    "keywords": ["mutation status", "track application", "mutation"]
+    "keywords": [
+      "mutation status",
+      "track application",
+      "mutation"
+    ]
   },
   {
     "id": "mutation_rejected",
@@ -991,7 +1503,11 @@
     "answer_en": "Mutation applications may be rejected due to incomplete documents or verification issues. Please check remarks on the portal.",
     "question_hi": "मेरा म्यूटेशन आवेदन क्यों अस्वीकृत हुआ?",
     "answer_hi": "अधूरे दस्तावेज़ या सत्यापन समस्या के कारण म्यूटेशन आवेदन अस्वीकृत हो सकता है। कृपया पोर्टल पर टिप्पणी देखें।",
-    "keywords": ["mutation rejected", "ownership", "application issue"]
+    "keywords": [
+      "mutation rejected",
+      "ownership",
+      "application issue"
+    ]
   },
   {
     "id": "reconnect_disconnect_apply_online",
@@ -1000,7 +1516,11 @@
     "answer_en": "You can apply for temporary disconnection through the relevant service option on the official Uttarajal portal.",
     "question_hi": "मैं जल कनेक्शन के अस्थायी डिस्कनेक्शन के लिए कैसे आवेदन करूं?",
     "answer_hi": "आप आधिकारिक उत्तरजल पोर्टल पर संबंधित सेवा विकल्प के माध्यम से अस्थायी डिस्कनेक्शन के लिए आवेदन कर सकते हैं।",
-    "keywords": ["temporary disconnection", "apply online", "water connection"]
+    "keywords": [
+      "temporary disconnection",
+      "apply online",
+      "water connection"
+    ]
   },
   {
     "id": "reconnect_disconnect_reconnection_apply",
@@ -1009,7 +1529,11 @@
     "answer_en": "Reconnection can be requested online through the Uttarajal portal after resolving pending issues, if any.",
     "question_hi": "डिस्कनेक्शन के बाद पुनः कनेक्शन के लिए कैसे आवेदन करें?",
     "answer_hi": "यदि कोई बकाया समस्या न हो, तो आप उत्तरजल पोर्टल के माध्यम से ऑनलाइन पुनः कनेक्शन का अनुरोध कर सकते हैं।",
-    "keywords": ["reconnection", "apply", "water service"]
+    "keywords": [
+      "reconnection",
+      "apply",
+      "water service"
+    ]
   },
   {
     "id": "reconnect_disconnect_due_to_non_payment",
@@ -1018,7 +1542,11 @@
     "answer_en": "Disconnection due to non-payment is governed by official rules. Please check your bill status and portal notices for details.",
     "question_hi": "क्या भुगतान न करने पर जल कनेक्शन काटा जा सकता है?",
     "answer_hi": "भुगतान न करने पर डिस्कनेक्शन आधिकारिक नियमों के अनुसार होता है। कृपया बिल स्थिति और पोर्टल सूचनाएं देखें।",
-    "keywords": ["non payment", "disconnection", "water bill"]
+    "keywords": [
+      "non payment",
+      "disconnection",
+      "water bill"
+    ]
   },
   {
     "id": "reconnect_disconnect_status_track",
@@ -1027,9 +1555,12 @@
     "answer_en": "You can track your request using the Track Application feature on the official portal.",
     "question_hi": "मैं अपने पुनः कनेक्शन या डिस्कनेक्शन अनुरोध की स्थिति कैसे देखूं?",
     "answer_hi": "आप आधिकारिक पोर्टल पर ट्रैक एप्लिकेशन सुविधा से अपने अनुरोध की स्थिति देख सकते हैं।",
-    "keywords": ["track request", "reconnection", "disconnection"]
+    "keywords": [
+      "track request",
+      "reconnection",
+      "disconnection"
+    ]
   },
-
   {
     "id": "track_application_no_status_update",
     "category": "Track Application",
@@ -1037,7 +1568,11 @@
     "answer_en": "If there is no status update, please check portal remarks or raise a grievance with your application number.",
     "question_hi": "मेरे आवेदन की स्थिति लंबे समय से नहीं बदली है। क्या करें?",
     "answer_hi": "यदि स्थिति अपडेट नहीं हो रही है, तो पोर्टल पर टिप्पणी देखें या आवेदन संख्या के साथ शिकायत दर्ज करें।",
-    "keywords": ["application delay", "status not updated", "track"]
+    "keywords": [
+      "application delay",
+      "status not updated",
+      "track"
+    ]
   },
   {
     "id": "track_application_wrong_details",
@@ -1046,9 +1581,12 @@
     "answer_en": "Please re-enter the correct application details as shown on the portal tracking page.",
     "question_hi": "यदि आवेदन ट्रैक करते समय गलत विवरण दर्ज हो गया हो तो क्या करें?",
     "answer_hi": "कृपया पोर्टल के ट्रैकिंग पेज पर बताए अनुसार सही आवेदन विवरण पुनः दर्ज करें।",
-    "keywords": ["wrong details", "track application", "error"]
+    "keywords": [
+      "wrong details",
+      "track application",
+      "error"
+    ]
   },
-
   {
     "id": "consumer_id_link_multiple",
     "category": "Consumer ID/KYC",
@@ -1056,7 +1594,11 @@
     "answer_en": "Linking options, if available, are shown on the portal. Please follow on-screen instructions after login.",
     "question_hi": "क्या एक खाते से एक से अधिक उपभोक्ता आईडी जोड़ी जा सकती हैं?",
     "answer_hi": "यदि यह सुविधा उपलब्ध हो, तो पोर्टल पर लॉगिन के बाद स्क्रीन निर्देशों का पालन करें।",
-    "keywords": ["consumer id", "multiple connections", "account"]
+    "keywords": [
+      "consumer id",
+      "multiple connections",
+      "account"
+    ]
   },
   {
     "id": "consumer_id_wrong_details",
@@ -1065,9 +1607,12 @@
     "answer_en": "Incorrect Consumer ID details can be reported through the grievance section on the portal.",
     "question_hi": "मेरी उपभोक्ता आईडी का विवरण गलत है। क्या करें?",
     "answer_hi": "गलत उपभोक्ता आईडी विवरण को पोर्टल के शिकायत अनुभाग में रिपोर्ट किया जा सकता है।",
-    "keywords": ["consumer id error", "kyc", "grievance"]
+    "keywords": [
+      "consumer id error",
+      "kyc",
+      "grievance"
+    ]
   },
-
   {
     "id": "phone_update_sms_not_received",
     "category": "Phone Update",
@@ -1075,7 +1620,11 @@
     "answer_en": "Ensure correct mobile number and network availability. Retry after some time or use portal support options.",
     "question_hi": "मोबाइल नंबर अपडेट करते समय ओटीपी नहीं मिला। क्या करें?",
     "answer_hi": "सही मोबाइल नंबर और नेटवर्क उपलब्धता सुनिश्चित करें। कुछ समय बाद पुनः प्रयास करें या पोर्टल सहायता विकल्प देखें।",
-    "keywords": ["otp issue", "mobile update", "phone number"]
+    "keywords": [
+      "otp issue",
+      "mobile update",
+      "phone number"
+    ]
   },
   {
     "id": "phone_update_change_request_status",
@@ -1084,9 +1633,12 @@
     "answer_en": "You can check the request status through your account dashboard on the official portal.",
     "question_hi": "मोबाइल नंबर अपडेट अनुरोध की स्थिति कैसे देखें?",
     "answer_hi": "आप आधिकारिक पोर्टल के अकाउंट डैशबोर्ड से अनुरोध की स्थिति देख सकते हैं।",
-    "keywords": ["phone update status", "mobile change", "track"]
+    "keywords": [
+      "phone update status",
+      "mobile change",
+      "track"
+    ]
   },
-
   {
     "id": "grievance_no_response",
     "category": "Grievance",
@@ -1094,7 +1646,11 @@
     "answer_en": "If unresolved, please check grievance status on the portal and follow available escalation options.",
     "question_hi": "यदि मेरी शिकायत का समाधान नहीं हुआ हो तो क्या करें?",
     "answer_hi": "यदि समाधान नहीं हुआ है, तो पोर्टल पर शिकायत की स्थिति देखें और उपलब्ध एस्केलेशन विकल्प अपनाएं।",
-    "keywords": ["grievance unresolved", "complaint", "escalation"]
+    "keywords": [
+      "grievance unresolved",
+      "complaint",
+      "escalation"
+    ]
   },
   {
     "id": "grievance_wrong_category",
@@ -1103,9 +1659,12 @@
     "answer_en": "You may submit a new grievance with the correct category and details through the portal.",
     "question_hi": "मैंने शिकायत की गलत श्रेणी चुन ली है। क्या करूं?",
     "answer_hi": "आप सही श्रेणी और विवरण के साथ पोर्टल पर नई शिकायत दर्ज कर सकते हैं।",
-    "keywords": ["wrong category", "grievance", "complaint"]
+    "keywords": [
+      "wrong category",
+      "grievance",
+      "complaint"
+    ]
   },
-
   {
     "id": "account_login_otp_issue",
     "category": "Account/Login",
@@ -1113,7 +1672,11 @@
     "answer_en": "Check mobile network availability and ensure your registered number is correct. Retry after some time.",
     "question_hi": "लॉगिन के समय ओटीपी नहीं मिल रहा। क्या करें?",
     "answer_hi": "मोबाइल नेटवर्क उपलब्धता और पंजीकृत नंबर सही होने की जांच करें। कुछ समय बाद पुनः प्रयास करें।",
-    "keywords": ["login otp", "account access", "issue"]
+    "keywords": [
+      "login otp",
+      "account access",
+      "issue"
+    ]
   },
   {
     "id": "account_login_multiple_attempts",
@@ -1122,9 +1685,12 @@
     "answer_en": "Please wait and retry after some time or use portal recovery options as available.",
     "question_hi": "कई बार लॉगिन प्रयास के कारण मेरा खाता अस्थायी रूप से लॉक हो गया है। क्या करें?",
     "answer_hi": "कुछ समय प्रतीक्षा करें और फिर पुनः प्रयास करें या पोर्टल रिकवरी विकल्प का उपयोग करें।",
-    "keywords": ["account locked", "login attempts", "recovery"]
+    "keywords": [
+      "account locked",
+      "login attempts",
+      "recovery"
+    ]
   },
-
   {
     "id": "general_portal_slow",
     "category": "General/Contact",
@@ -1132,7 +1698,11 @@
     "answer_en": "Slow loading may occur due to high traffic or low internet speed, especially in hilly areas. Please try again later.",
     "question_hi": "उत्तराजल पोर्टल धीमा क्यों चल रहा है?",
     "answer_hi": "अधिक ट्रैफिक या धीमे इंटरनेट के कारण, विशेषकर पहाड़ी क्षेत्रों में, पोर्टल धीमा हो सकता है। बाद में पुनः प्रयास करें।",
-    "keywords": ["portal slow", "internet issue", "access"]
+    "keywords": [
+      "portal slow",
+      "internet issue",
+      "access"
+    ]
   },
   {
     "id": "general_browser_compatibility",
@@ -1141,6 +1711,530 @@
     "answer_en": "For best performance, use an updated browser as recommended on the official portal.",
     "question_hi": "उत्तराजल पोर्टल के लिए कौन सा ब्राउज़र उपयोग करें?",
     "answer_hi": "बेहतर प्रदर्शन के लिए आधिकारिक पोर्टल पर सुझाए गए अपडेटेड ब्राउज़र का उपयोग करें।",
-    "keywords": ["browser", "portal access", "compatibility"]
+    "keywords": [
+      "browser",
+      "portal access",
+      "compatibility"
+    ]
+  },
+  {
+    "id": "general_bylaws_scope",
+    "category": "General/Contact",
+    "question_en": "What is the scope of the Uttarakhand Jal Sansthan Water Supply and Sewerage Bye-laws?",
+    "answer_en": "These bye-laws regulate water supply, sewerage services, connections, billing, meters, inspections, and penalties under Uttarakhand Jal Sansthan across the state, excluding cantonment areas.",
+    "question_hi": "उत्तराखंड जल संस्थान जल आपूर्ति एवं सीवरेज उपविधियों का दायरा क्या है?",
+    "answer_hi": "ये उपविधियां उत्तराखंड जल संस्थान के अंतर्गत जल आपूर्ति, सीवर सेवाएं, कनेक्शन, बिलिंग, मीटर, निरीक्षण और दंड को नियंत्रित करती हैं।",
+    "keywords": [
+      "bye laws",
+      "scope",
+      "water supply"
+    ]
+  },
+  {
+    "id": "general_definitions_usage",
+    "category": "General/Contact",
+    "question_en": "Why are definitions important in the water supply bye-laws?",
+    "answer_en": "Definitions clarify terms such as consumer, distribution main, rising main, and service pipe to ensure uniform interpretation and implementation of rules.",
+    "question_hi": "जल आपूर्ति उपविधियों में परिभाषाएं क्यों महत्वपूर्ण हैं?",
+    "answer_hi": "परिभाषाएं उपभोक्ता, वितरण पाइप, राइजिंग मेन और सेवा पाइप जैसे शब्दों की स्पष्टता प्रदान करती हैं।",
+    "keywords": [
+      "definitions",
+      "rules",
+      "interpretation"
+    ]
+  },
+  {
+    "id": "new_connection_authority_levels",
+    "category": "New Connection",
+    "question_en": "How is authority distributed for sanctioning new water connections?",
+    "answer_en": "Authority is distributed among designated officers based on pipe size, purpose of use, and area, as prescribed by Uttarakhand Jal Sansthan.",
+    "question_hi": "नए जल कनेक्शन स्वीकृत करने की अधिकार संरचना कैसी है?",
+    "answer_hi": "पाइप के आकार, उपयोग और क्षेत्र के अनुसार उत्तरजल के नामित अधिकारियों को अधिकार दिए गए हैं।",
+    "keywords": [
+      "authority",
+      "new connection",
+      "approval"
+    ]
+  },
+  {
+    "id": "billing_types_of_charges",
+    "category": "Billing/Payments",
+    "question_en": "What types of charges are covered under water billing rules?",
+    "answer_en": "Charges may include water tariff, sewer charges, meter rent, deposits, and other prescribed charges as per rules.",
+    "question_hi": "जल बिलिंग नियमों के अंतर्गत कौन-कौन से शुल्क आते हैं?",
+    "answer_hi": "इनमें जल शुल्क, सीवर शुल्क, मीटर किराया, जमा राशि और अन्य निर्धारित शुल्क शामिल हो सकते हैं।",
+    "keywords": [
+      "billing",
+      "charges",
+      "tariff"
+    ]
+  },
+  {
+    "id": "billing_domestic_non_domestic",
+    "category": "Billing/Payments",
+    "question_en": "How are domestic and non-domestic water charges differentiated?",
+    "answer_en": "Domestic and non-domestic water supplies are billed separately as per prescribed categories and usage conditions.",
+    "question_hi": "घरेलू और गैर-घरेलू जल शुल्क में अंतर कैसे किया जाता है?",
+    "answer_hi": "घरेलू और गैर-घरेलू जल आपूर्ति को उपयोग और श्रेणी के अनुसार अलग-अलग बिल किया जाता है।",
+    "keywords": [
+      "domestic",
+      "non domestic",
+      "billing"
+    ]
+  },
+  {
+    "id": "water_supply_domestic_priority",
+    "category": "Water Supply",
+    "question_en": "Is domestic water supply given priority?",
+    "answer_en": "Yes, domestic water supply is generally given priority, especially during scarcity or restricted supply situations.",
+    "question_hi": "क्या घरेलू जल आपूर्ति को प्राथमिकता दी जाती है?",
+    "answer_hi": "हाँ, विशेषकर कमी की स्थिति में घरेलू जल आपूर्ति को प्राथमिकता दी जाती है।",
+    "keywords": [
+      "domestic priority",
+      "water supply",
+      "scarcity"
+    ]
+  },
+  {
+    "id": "water_supply_interruptions",
+    "category": "Water Supply",
+    "question_en": "Under what conditions can water supply be interrupted?",
+    "answer_en": "Water supply may be interrupted due to repairs, power failure, leakage, scarcity, or emergency situations.",
+    "question_hi": "किन परिस्थितियों में जल आपूर्ति बाधित हो सकती है?",
+    "answer_hi": "मरम्मत, बिजली कटौती, लीकेज, कमी या आपात स्थिति में जल आपूर्ति बाधित हो सकती है।",
+    "keywords": [
+      "interruption",
+      "repairs",
+      "emergency"
+    ]
+  },
+  {
+    "id": "water_supply_construction_use",
+    "category": "Water Supply",
+    "question_en": "Is special permission required for using water for construction?",
+    "answer_en": "Yes, water for construction purposes requires specific permission and is governed by prescribed conditions.",
+    "question_hi": "निर्माण कार्य के लिए पानी उपयोग करने हेतु क्या अनुमति आवश्यक है?",
+    "answer_hi": "हाँ, निर्माण कार्य हेतु पानी के उपयोग के लिए विशेष अनुमति और शर्तें लागू होती हैं।",
+    "keywords": [
+      "construction water",
+      "permission",
+      "usage"
+    ]
+  },
+  {
+    "id": "meter_mandatory_installation",
+    "category": "Meter",
+    "question_en": "Is it mandatory to install a water meter?",
+    "answer_en": "Installation of an approved water meter is mandatory and remains the property of Uttarakhand Jal Sansthan.",
+    "question_hi": "क्या जल मीटर लगाना अनिवार्य है?",
+    "answer_hi": "हाँ, स्वीकृत जल मीटर लगाना अनिवार्य है और यह उत्तरजल की संपत्ति होता है।",
+    "keywords": [
+      "meter mandatory",
+      "installation",
+      "water meter"
+    ]
+  },
+  {
+    "id": "meter_testing_procedure",
+    "category": "Meter",
+    "question_en": "How is a water meter tested if found faulty?",
+    "answer_en": "A suspected faulty meter may be tested, repaired, or replaced, and billing adjustments are made as per rules.",
+    "question_hi": "यदि जल मीटर खराब हो तो उसकी जांच कैसे होती है?",
+    "answer_hi": "संदिग्ध मीटर की जांच, मरम्मत या प्रतिस्थापन किया जा सकता है और बिल समायोजन नियमों के अनुसार होता है।",
+    "keywords": [
+      "meter testing",
+      "faulty meter",
+      "adjustment"
+    ]
+  },
+  {
+    "id": "meter_seal_tampering",
+    "category": "Meter",
+    "question_en": "What happens if a water meter seal is tampered with?",
+    "answer_en": "Tampering with a meter seal is treated as an offence and may lead to penalties or disconnection.",
+    "question_hi": "यदि मीटर की सील से छेड़छाड़ की जाए तो क्या होता है?",
+    "answer_hi": "मीटर सील से छेड़छाड़ अपराध है और इस पर दंड या डिस्कनेक्शन हो सकता है।",
+    "keywords": [
+      "meter tampering",
+      "offence",
+      "penalty"
+    ]
+  },
+  {
+    "id": "sewer_connection_obligation",
+    "category": "Sewer Connection",
+    "question_en": "Is it compulsory to connect to sewer lines where available?",
+    "answer_en": "Yes, premises must connect to the sewer system where sewer infrastructure exists, as per rules.",
+    "question_hi": "जहां सीवर लाइन उपलब्ध है वहां सीवर कनेक्शन अनिवार्य है?",
+    "answer_hi": "हाँ, जहां सीवर व्यवस्था उपलब्ध है वहां नियमों के अनुसार कनेक्शन अनिवार्य है।",
+    "keywords": [
+      "sewer mandatory",
+      "connection",
+      "sanitation"
+    ]
+  },
+  {
+    "id": "sewer_prohibited_discharge",
+    "category": "Sewer Connection",
+    "question_en": "What kind of discharge is prohibited into sewers?",
+    "answer_en": "Discharge of harmful, solid, or unauthorized substances into sewers is prohibited.",
+    "question_hi": "सीवर में किस प्रकार का अपशिष्ट डालना प्रतिबंधित है?",
+    "answer_hi": "हानिकारक, ठोस या अनधिकृत पदार्थों का सीवर में प्रवाह प्रतिबंधित है।",
+    "keywords": [
+      "sewer misuse",
+      "prohibited discharge",
+      "rules"
+    ]
+  },
+  {
+    "id": "reconnect_disconnect_rule_violation",
+    "category": "Reconnect/Disconnect",
+    "question_en": "Can water supply be disconnected for rule violations?",
+    "answer_en": "Yes, violations such as illegal connections, non-payment, or misuse can result in disconnection.",
+    "question_hi": "क्या नियम उल्लंघन पर जल आपूर्ति काटी जा सकती है?",
+    "answer_hi": "हाँ, अवैध कनेक्शन, भुगतान न करना या दुरुपयोग पर डिस्कनेक्शन हो सकता है।",
+    "keywords": [
+      "disconnection",
+      "violation",
+      "rules"
+    ]
+  },
+  {
+    "id": "reconnect_disconnect_reconnection_rules",
+    "category": "Reconnect/Disconnect",
+    "question_en": "What conditions apply for reconnection after disconnection?",
+    "answer_en": "Reconnection is allowed after rectifying violations and fulfilling applicable conditions as prescribed.",
+    "question_hi": "डिस्कनेक्शन के बाद पुनः कनेक्शन की क्या शर्तें हैं?",
+    "answer_hi": "उल्लंघन सुधारने और निर्धारित शर्तें पूरी करने पर पुनः कनेक्शन दिया जाता है।",
+    "keywords": [
+      "reconnection",
+      "conditions",
+      "restoration"
+    ]
+  },
+  {
+    "id": "inspection_authorized_officers",
+    "category": "General/Contact",
+    "question_en": "Who can inspect premises under water supply rules?",
+    "answer_en": "Authorized officers of Uttarakhand Jal Sansthan may inspect premises, pipelines, meters, and fittings.",
+    "question_hi": "जल आपूर्ति नियमों के तहत निरीक्षण कौन कर सकता है?",
+    "answer_hi": "उत्तरजल के अधिकृत अधिकारी परिसर, पाइपलाइन, मीटर और फिटिंग का निरीक्षण कर सकते हैं।",
+    "keywords": [
+      "inspection",
+      "authorized officers",
+      "compliance"
+    ]
+  },
+  {
+    "id": "illegal_water_use_offence",
+    "category": "Water Supply",
+    "question_en": "Is illegal use of water treated as an offence?",
+    "answer_en": "Yes, illegal use, wastage, or diversion of water is treated as an offence under the rules.",
+    "question_hi": "क्या पानी का अवैध उपयोग अपराध है?",
+    "answer_hi": "हाँ, पानी का अवैध उपयोग, बर्बादी या मोड़ना अपराध माना जाता है।",
+    "keywords": [
+      "illegal use",
+      "offence",
+      "water misuse"
+    ]
+  },
+  {
+    "id": "grievance_penalty_applicable",
+    "category": "Grievance",
+    "question_en": "Are penalties applicable for offences under the bye-laws?",
+    "answer_en": "Yes, prescribed penalties may apply for offences such as illegal connections or misuse of water.",
+    "question_hi": "क्या उपविधियों के उल्लंघन पर दंड लागू होता है?",
+    "answer_hi": "हाँ, अवैध कनेक्शन या जल दुरुपयोग जैसे अपराधों पर निर्धारित दंड लगाया जा सकता है।",
+    "keywords": [
+      "penalty",
+      "offence",
+      "rules"
+    ]
+  },
+  {
+    "id": "general_rule_interpretation",
+    "category": "General/Contact",
+    "question_en": "Who has the final authority to interpret the water supply rules?",
+    "answer_en": "In case of ambiguity, the interpretation of the Government is final and binding.",
+    "question_hi": "जल आपूर्ति नियमों की व्याख्या का अंतिम अधिकार किसके पास है?",
+    "answer_hi": "किसी भी अस्पष्टता की स्थिति में सरकार की व्याख्या अंतिम और बाध्यकारी होती है।",
+    "keywords": [
+      "interpretation",
+      "authority",
+      "rules"
+    ]
+  },
+  {
+    "id": "general_act_short_title",
+    "category": "General/Contact",
+    "question_en": "What is the short title of the U.P. Water Supply and Sewerage Act, 1975?",
+    "answer_en": "The Act is called the Uttar Pradesh Water Supply and Sewerage Act, 1975 and governs water supply and sewerage services in the state.",
+    "question_hi": "यू.पी. जल आपूर्ति एवं सीवरेज अधिनियम, 1975 का संक्षिप्त नाम क्या है?",
+    "answer_hi": "इस अधिनियम को उत्तर प्रदेश जल आपूर्ति एवं सीवरेज अधिनियम, 1975 कहा जाता है और यह राज्य में जल एवं सीवर सेवाओं को नियंत्रित करता है।",
+    "keywords": [
+      "act name",
+      "water law",
+      "sewerage act"
+    ]
+  },
+  {
+    "id": "general_act_extent",
+    "category": "General/Contact",
+    "question_en": "To which areas does the U.P. Water Supply and Sewerage Act, 1975 apply?",
+    "answer_en": "The Act applies to the whole of Uttar Pradesh except cantonment areas.",
+    "question_hi": "यू.पी. जल आपूर्ति एवं सीवरेज अधिनियम, 1975 किन क्षेत्रों में लागू होता है?",
+    "answer_hi": "यह अधिनियम छावनी क्षेत्रों को छोड़कर पूरे उत्तर प्रदेश में लागू होता है।",
+    "keywords": [
+      "extent",
+      "applicability",
+      "act area"
+    ]
+  },
+  {
+    "id": "general_definition_consumer",
+    "category": "General/Contact",
+    "question_en": "Who is considered a consumer under the Act?",
+    "answer_en": "A consumer is any person who receives water supply or sewerage services from a local body, Jal Sansthan, or Jal Nigam.",
+    "question_hi": "अधिनियम के अंतर्गत उपभोक्ता किसे माना जाता है?",
+    "answer_hi": "जो व्यक्ति स्थानीय निकाय, जल संस्थान या जल निगम से जल या सीवर सेवा प्राप्त करता है, वह उपभोक्ता माना जाता है।",
+    "keywords": [
+      "consumer",
+      "definition",
+      "water service"
+    ]
+  },
+  {
+    "id": "general_definition_premises",
+    "category": "General/Contact",
+    "question_en": "What does the term premises mean under the Act?",
+    "answer_en": "Premises means any land or building to which water supply or sewerage services relate.",
+    "question_hi": "अधिनियम में 'परिसर' का क्या अर्थ है?",
+    "answer_hi": "परिसर से आशय किसी भी भूमि या भवन से है, जिससे जल या सीवर सेवा संबंधित हो।",
+    "keywords": [
+      "premises",
+      "definition",
+      "property"
+    ]
+  },
+  {
+    "id": "general_jal_nigam_establishment",
+    "category": "General/Contact",
+    "question_en": "What is the Uttar Pradesh Jal Nigam?",
+    "answer_en": "Uttar Pradesh Jal Nigam is a statutory corporation established to plan, execute, and regulate water supply and sewerage services.",
+    "question_hi": "उत्तर प्रदेश जल निगम क्या है?",
+    "answer_hi": "उत्तर प्रदेश जल निगम एक वैधानिक संस्था है जो जल आपूर्ति और सीवर सेवाओं की योजना, क्रियान्वयन और नियंत्रण करती है।",
+    "keywords": [
+      "jal nigam",
+      "establishment",
+      "authority"
+    ]
+  },
+  {
+    "id": "general_jal_nigam_functions",
+    "category": "General/Contact",
+    "question_en": "What are the main functions of the Jal Nigam?",
+    "answer_en": "The Jal Nigam plans, finances, executes, and reviews water supply and sewerage schemes and sets technical standards.",
+    "question_hi": "जल निगम के मुख्य कार्य क्या हैं?",
+    "answer_hi": "जल निगम जल और सीवर योजनाओं की योजना, वित्तपोषण, क्रियान्वयन, समीक्षा और तकनीकी मानक निर्धारित करता है।",
+    "keywords": [
+      "functions",
+      "jal nigam",
+      "water planning"
+    ]
+  },
+  {
+    "id": "general_jal_sansthan_establishment",
+    "category": "General/Contact",
+    "question_en": "What is a Jal Sansthan?",
+    "answer_en": "A Jal Sansthan is a local authority constituted to manage water supply and sewerage services in a specified area.",
+    "question_hi": "जल संस्थान क्या है?",
+    "answer_hi": "जल संस्थान एक स्थानीय प्राधिकरण है जो निर्धारित क्षेत्र में जल और सीवर सेवाओं का संचालन करता है।",
+    "keywords": [
+      "jal sansthan",
+      "local authority",
+      "services"
+    ]
+  },
+  {
+    "id": "general_jal_sansthan_functions",
+    "category": "General/Contact",
+    "question_en": "What are the functions of a Jal Sansthan?",
+    "answer_en": "A Jal Sansthan operates water supply systems, manages sewerage services, and ensures availability of safe water.",
+    "question_hi": "जल संस्थान के कार्य क्या हैं?",
+    "answer_hi": "जल संस्थान जल आपूर्ति प्रणाली संचालित करता है, सीवर सेवाएं संभालता है और सुरक्षित पानी की उपलब्धता सुनिश्चित करता है।",
+    "keywords": [
+      "functions",
+      "jal sansthan",
+      "water supply"
+    ]
+  },
+  {
+    "id": "billing_taxes_leviable",
+    "category": "Billing/Payments",
+    "question_en": "What taxes can be levied under the Act?",
+    "answer_en": "Taxes related to water supply and sewerage services may be levied as prescribed under the Act.",
+    "question_hi": "अधिनियम के तहत कौन-कौन से कर लगाए जा सकते हैं?",
+    "answer_hi": "जल आपूर्ति और सीवर सेवाओं से संबंधित कर अधिनियम के अनुसार लगाए जा सकते हैं।",
+    "keywords": [
+      "taxes",
+      "billing",
+      "water tax"
+    ]
+  },
+  {
+    "id": "billing_annual_value_assessment",
+    "category": "Billing/Payments",
+    "question_en": "What is assessment of annual value of premises?",
+    "answer_en": "Annual value assessment determines the value of premises for levy of water and sewerage taxes as per rules.",
+    "question_hi": "परिसर के वार्षिक मूल्य का निर्धारण क्या है?",
+    "answer_hi": "यह जल और सीवर कर लगाने हेतु परिसर के मूल्य का निर्धारण करने की प्रक्रिया है।",
+    "keywords": [
+      "annual value",
+      "assessment",
+      "tax"
+    ]
+  },
+  {
+    "id": "billing_appeal_against_assessment",
+    "category": "Billing/Payments",
+    "question_en": "Can a consumer appeal against tax assessment?",
+    "answer_en": "Yes, a consumer can file an appeal against assessment as per the procedure laid down in the Act.",
+    "question_hi": "क्या उपभोक्ता कर निर्धारण के विरुद्ध अपील कर सकता है?",
+    "answer_hi": "हाँ, अधिनियम में निर्धारित प्रक्रिया के अनुसार अपील की जा सकती है।",
+    "keywords": [
+      "appeal",
+      "assessment",
+      "billing"
+    ]
+  },
+  {
+    "id": "water_supply_domestic_definition",
+    "category": "Water Supply",
+    "question_en": "What is meant by domestic water supply?",
+    "answer_en": "Domestic water supply refers to water used for drinking, bathing, cooking, washing, and other household purposes.",
+    "question_hi": "घरेलू जल आपूर्ति से क्या अभिप्राय है?",
+    "answer_hi": "घरेलू जल आपूर्ति में पीने, नहाने, पकाने, धोने आदि घरेलू उपयोग शामिल हैं।",
+    "keywords": [
+      "domestic supply",
+      "water use",
+      "household"
+    ]
+  },
+  {
+    "id": "water_supply_non_domestic_restriction",
+    "category": "Water Supply",
+    "question_en": "Can domestic water be used for non-domestic purposes?",
+    "answer_en": "No, water supplied for domestic use must not be used for non-domestic or commercial purposes.",
+    "question_hi": "क्या घरेलू जल का उपयोग गैर-घरेलू कार्यों में किया जा सकता है?",
+    "answer_hi": "नहीं, घरेलू जल का उपयोग व्यावसायिक या गैर-घरेलू उद्देश्यों के लिए नहीं किया जा सकता।",
+    "keywords": [
+      "non domestic",
+      "restriction",
+      "water use"
+    ]
+  },
+  {
+    "id": "water_supply_cut_off_power",
+    "category": "Water Supply",
+    "question_en": "When can water supply be cut off?",
+    "answer_en": "Water supply may be cut off for non-payment, misuse, repairs, or emergencies as permitted by the Act.",
+    "question_hi": "पानी की आपूर्ति कब काटी जा सकती है?",
+    "answer_hi": "भुगतान न करने, दुरुपयोग, मरम्मत या आपात स्थिति में जल आपूर्ति रोकी जा सकती है।",
+    "keywords": [
+      "cut off",
+      "disconnection",
+      "water supply"
+    ]
+  },
+  {
+    "id": "meter_installation_power",
+    "category": "Meter",
+    "question_en": "Does the authority have power to install water meters?",
+    "answer_en": "Yes, the Jal Sansthan or Nigam has the power to provide and regulate water meters.",
+    "question_hi": "क्या प्राधिकरण को जल मीटर लगाने का अधिकार है?",
+    "answer_hi": "हाँ, जल संस्थान या जल निगम को जल मीटर लगाने और नियंत्रित करने का अधिकार है।",
+    "keywords": [
+      "meter",
+      "installation",
+      "authority"
+    ]
+  },
+  {
+    "id": "meter_rent_rule",
+    "category": "Meter",
+    "question_en": "What is meter rent?",
+    "answer_en": "Meter rent is a charge levied for the use of a water meter as prescribed under the Act.",
+    "question_hi": "मीटर किराया क्या होता है?",
+    "answer_hi": "मीटर किराया जल मीटर के उपयोग हेतु लगाया जाने वाला शुल्क है।",
+    "keywords": [
+      "meter rent",
+      "charges",
+      "billing"
+    ]
+  },
+  {
+    "id": "sewer_connection_right",
+    "category": "Sewer Connection",
+    "question_en": "Do owners have the right to obtain a sewer connection?",
+    "answer_en": "Yes, owners or occupiers have the right to obtain sewer connection where sewer infrastructure exists.",
+    "question_hi": "क्या मालिक को सीवर कनेक्शन प्राप्त करने का अधिकार है?",
+    "answer_hi": "हाँ, जहां सीवर व्यवस्था उपलब्ध है वहां मालिक या अधिभोगी को कनेक्शन का अधिकार है।",
+    "keywords": [
+      "sewer connection",
+      "right",
+      "sanitation"
+    ]
+  },
+  {
+    "id": "sewer_prohibited_acts",
+    "category": "Sewer Connection",
+    "question_en": "What acts are prohibited in relation to sewers?",
+    "answer_en": "Damaging sewers, illegal connections, or discharging harmful substances is prohibited.",
+    "question_hi": "सीवर से संबंधित कौन से कार्य प्रतिबंधित हैं?",
+    "answer_hi": "सीवर को नुकसान पहुंचाना, अवैध कनेक्शन या हानिकारक पदार्थ डालना प्रतिबंधित है।",
+    "keywords": [
+      "prohibited acts",
+      "sewer misuse",
+      "offence"
+    ]
+  },
+  {
+    "id": "penalty_general",
+    "category": "Grievance",
+    "question_en": "Are penalties prescribed for offences under the Act?",
+    "answer_en": "Yes, general penalties apply for offences related to water supply and sewerage as per the Act.",
+    "question_hi": "क्या अधिनियम के तहत अपराधों पर दंड का प्रावधान है?",
+    "answer_hi": "हाँ, जल और सीवर से संबंधित अपराधों पर सामान्य दंड का प्रावधान है।",
+    "keywords": [
+      "penalty",
+      "offence",
+      "law"
+    ]
+  },
+  {
+    "id": "external_control_policy_directions",
+    "category": "General/Contact",
+    "question_en": "Can the State Government issue policy directions to Jal Nigam or Jal Sansthan?",
+    "answer_en": "Yes, the State Government may issue policy directions which are binding on Jal Nigam and Jal Sansthans.",
+    "question_hi": "क्या राज्य सरकार जल निगम या जल संस्थान को नीति संबंधी निर्देश दे सकती है?",
+    "answer_hi": "हाँ, राज्य सरकार द्वारा जारी नीति निर्देश जल निगम और जल संस्थानों पर बाध्यकारी होते हैं।",
+    "keywords": [
+      "policy directions",
+      "state control",
+      "governance"
+    ]
+  },
+  {
+    "id": "misc_rules_bylaws_power",
+    "category": "General/Contact",
+    "question_en": "Who has the power to make rules and bye-laws under the Act?",
+    "answer_en": "The State Government and competent authorities have the power to frame rules, regulations, and bye-laws.",
+    "question_hi": "अधिनियम के तहत नियम और उपविधि बनाने का अधिकार किसे है?",
+    "answer_hi": "राज्य सरकार और सक्षम प्राधिकरणों को नियम, विनियम और उपविधियां बनाने का अधिकार है।",
+    "keywords": [
+      "rules",
+      "bylaws",
+      "authority"
+    ]
   }
 ]

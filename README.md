@@ -2,6 +2,11 @@
 
 Fastify chatbot API with MySQL-backed sessions/messages and optional RAG via Qdrant, using the `ai` SDK.
 
+## Used By This Project
+This service is part of the `f:/ITDA/Water` workspace (UWBS). It provides the chatbot API under the base prefix `/chatbot/api`.
+
+Repo link: `https://github.com/itsachalsingh/ai-chatboat`
+
 ## Local Dev
 1. Install deps:
 ```bash
@@ -43,4 +48,5 @@ docker exec -i ai-chatboat-mysql mysql -uroot -p"$MYSQL_ROOT_PASSWORD" "$MYSQL_D
 ## Notes
 - TypeScript output goes to `dist/` (`npm run build`).
 - Providers are selected via `LLM_PROVIDER` and `EMBEDDING_PROVIDER` (`google` or `openai`).
-
+- Project FAQs/flows (e.g., bill payment steps, new connection steps) live in `src/data/faq_dataset.json`.
+- Quick Payment bill lookup (last-7 consumer code) requires `UTTARAJAL_PUBLIC_API_SECRET` in `.env`.

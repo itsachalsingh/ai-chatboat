@@ -11,6 +11,13 @@ const envSchema = z.object({
   DATABASE_PASSWORD: z.string(),
   DATABASE_NAME: z.string(),
   UTTARAJAL_API_BASE_URL: z.string(),
+  // Used for public billing (quick payment) endpoints.
+  // This must match the portal's public API secret to sign requests.
+  UTTARAJAL_PUBLIC_API_SECRET: z.string().optional(),
+  // Optional override if billing APIs are hosted on a different base than UTTARAJAL_API_BASE_URL.
+  UTTARAJAL_PORTAL_BASE_URL: z.string().optional(),
+  // Optional client id header used by the portal to correlate/rate limit requests.
+  UTTARAJAL_PUBLIC_CLIENT_ID: z.string().optional(),
   QDRANT_URL: z.string(),
   QDRANT_API_KEY: z.string(),
   QDRANT_COLLECTION_NAME: z.string(),
