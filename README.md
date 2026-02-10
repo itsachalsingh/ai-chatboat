@@ -37,6 +37,31 @@ All routes are under `/chatbot/api`.
 
 The API uses a cookie named `public-chat-session-id` to persist a public chat session.
 
+## Frontend (Web UI)
+The repo includes a simple web UI that talks to the existing API.
+
+Dev:
+1. Run the API:
+```bash
+npm run dev
+```
+
+2. In another terminal, run the frontend:
+```bash
+npm run dev:frontend
+```
+
+Open `http://localhost:5173/chatbot/`.
+
+Production build:
+```bash
+npm run build:frontend
+npm run build
+npm start
+```
+
+Then open `http://localhost:${PORT}/chatbot/` (default `http://localhost:3000/chatbot/`).
+
 ## Database
 The schema lives in `src/db/migrations/001_init.sql`.
 
