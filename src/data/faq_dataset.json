@@ -2236,5 +2236,185 @@
       "bylaws",
       "authority"
     ]
+  },
+  {
+    "id": "mutation_order_applicability",
+    "category": "Mutation",
+    "question_en": "What is this office order issued by Uttarakhand Jal Sansthan about?",
+    "answer_en": "This office order relates to approval of ownership transfer (mutation) of water connections within Uttarakhand Jal Sansthan jurisdiction and prescribes the applicable charges. :contentReference[oaicite:0]{index=0}",
+    "question_hi": "उत्तराखंड जल संस्थान द्वारा जारी यह कार्यालय आदेश किस विषय से संबंधित है?",
+    "answer_hi": "यह कार्यालय आदेश उत्तराखंड जल संस्थान के क्षेत्राधिकार में जल कनेक्शन के स्वामित्व अंतरण (म्यूटेशन) की स्वीकृति और उस पर लागू शुल्क से संबंधित है। :contentReference[oaicite:1]{index=1}",
+    "keywords": ["mutation", "ownership transfer", "office order"]
+  },
+  {
+    "id": "mutation_fee_amount",
+    "category": "Mutation",
+    "question_en": "What is the prescribed fee for ownership transfer of a water connection?",
+    "answer_en": "A fee of Rs. 750 has been prescribed for ownership transfer (mutation) of a water connection under this order. :contentReference[oaicite:2]{index=2}",
+    "question_hi": "जल कनेक्शन के स्वामित्व अंतरण (म्यूटेशन) के लिए निर्धारित शुल्क क्या है?",
+    "answer_hi": "इस आदेश के अंतर्गत जल कनेक्शन के स्वामित्व अंतरण (म्यूटेशन) के लिए 750 रुपये शुल्क निर्धारित किया गया है। :contentReference[oaicite:3]{index=3}",
+    "keywords": ["mutation fee", "ownership transfer", "charges"]
+  },
+  {
+    "id": "mutation_spouse_exemption",
+    "category": "Mutation",
+    "question_en": "Is mutation fee applicable when ownership is transferred to a spouse?",
+    "answer_en": "No, when ownership is transferred in the name of spouse, no mutation fee is charged as per the order. :contentReference[oaicite:4]{index=4}",
+    "question_hi": "क्या पति या पत्नी के नाम स्वामित्व अंतरण पर म्यूटेशन शुल्क लिया जाएगा?",
+    "answer_hi": "नहीं, पति या पत्नी के नाम स्वामित्व अंतरण की स्थिति में म्यूटेशन शुल्क नहीं लिया जाएगा। :contentReference[oaicite:5]{index=5}",
+    "keywords": ["spouse exemption", "mutation", "fee waiver"]
+  },
+  {
+    "id": "mutation_definition_transfer",
+    "category": "Mutation",
+    "question_en": "What is meant by ownership transfer in this order?",
+    "answer_en": "Ownership transfer refers to transferring the water connection from the name of one person to another person. :contentReference[oaicite:6]{index=6}",
+    "question_hi": "इस आदेश में स्वामित्व अंतरण से क्या अभिप्राय है?",
+    "answer_hi": "स्वामित्व अंतरण का अर्थ जल कनेक्शन को एक व्यक्ति के नाम से किसी अन्य व्यक्ति के नाम स्थानांतरित करना है। :contentReference[oaicite:7]{index=7}",
+    "keywords": ["ownership transfer", "definition", "mutation"]
+  },
+  {
+    "id": "mutation_order_effective_date",
+    "category": "Mutation",
+    "question_en": "From when is this mutation-related order effective?",
+    "answer_en": "This order is effective immediately from the date of issue as stated in the document. :contentReference[oaicite:8]{index=8}",
+    "question_hi": "यह म्यूटेशन संबंधी आदेश कब से प्रभावी है?",
+    "answer_hi": "यह आदेश जारी किए जाने की तिथि से तत्काल प्रभावी है। :contentReference[oaicite:9]{index=9}",
+    "keywords": ["effective date", "mutation order", "implementation"]
+  },
+  {
+    "id": "mutation_board_approval",
+    "category": "Mutation",
+    "question_en": "Was this mutation fee approved by the competent authority?",
+    "answer_en": "Yes, the mutation fee was approved by the Chairman of Uttarakhand Jal Sansthan in the meeting dated 01 August 2022. :contentReference[oaicite:10]{index=10}",
+    "question_hi": "क्या इस म्यूटेशन शुल्क को सक्षम प्राधिकारी द्वारा स्वीकृति दी गई है?",
+    "answer_hi": "हाँ, इस म्यूटेशन शुल्क को 01 अगस्त 2022 की बैठक में उत्तराखंड जल संस्थान के अध्यक्ष द्वारा स्वीकृति दी गई थी। :contentReference[oaicite:11]{index=11}",
+    "keywords": ["approval", "chairman", "mutation fee"]
+  },
+  {
+    "id": "mutation_applicable_area",
+    "category": "Mutation",
+    "question_en": "In which areas is this mutation order applicable?",
+    "answer_en": "This order is applicable to all consumers falling under the jurisdiction of Uttarakhand Jal Sansthan. :contentReference[oaicite:12]{index=12}",
+    "question_hi": "यह म्यूटेशन आदेश किन क्षेत्रों में लागू होता है?",
+    "answer_hi": "यह आदेश उत्तराखंड जल संस्थान के क्षेत्राधिकार में आने वाले सभी उपभोक्ताओं पर लागू होता है। :contentReference[oaicite:13]{index=13}",
+    "keywords": ["applicability", "jurisdiction", "uttarakhand"]
+  },
+   {
+    "id": "billing_tariff_notification_year",
+    "category": "Billing/Payments",
+    "question_en": "What is this tariff notification issued by Uttarakhand Jal Sansthan about?",
+    "answer_en": "This notification specifies the revised water supply and sewerage tariffs applicable for the financial year 2025–26 under Uttarakhand Jal Sansthan. :contentReference[oaicite:0]{index=0}",
+    "question_hi": "उत्तराखंड जल संस्थान द्वारा जारी यह टैरिफ अधिसूचना किस विषय से संबंधित है?",
+    "answer_hi": "यह अधिसूचना उत्तराखंड जल संस्थान के अंतर्गत वित्तीय वर्ष 2025–26 के लिए लागू जल आपूर्ति एवं सीवर शुल्क की दरें निर्धारित करती है। :contentReference[oaicite:1]{index=1}",
+    "keywords": ["tariff", "notification", "billing"]
+  },
+  {
+    "id": "billing_effective_date_tariff",
+    "category": "Billing/Payments",
+    "question_en": "From which date are the revised water charges applicable?",
+    "answer_en": "The revised water and sewerage charges are applicable from 01 April 2025, as mentioned in the notification. :contentReference[oaicite:2]{index=2}",
+    "question_hi": "संशोधित जल शुल्क किस तिथि से लागू होंगे?",
+    "answer_hi": "अधिसूचना के अनुसार संशोधित जल एवं सीवर शुल्क 01 अप्रैल 2025 से लागू होंगे। :contentReference[oaicite:3]{index=3}",
+    "keywords": ["effective date", "water charges", "tariff"]
+  },
+  {
+    "id": "billing_domestic_minimum_charge",
+    "category": "Billing/Payments",
+    "question_en": "What is the basis for minimum domestic water charges?",
+    "answer_en": "Minimum domestic water charges are determined based on the annual valuation of the building and applicable slab rates. :contentReference[oaicite:4]{index=4}",
+    "question_hi": "घरेलू जल आपूर्ति के न्यूनतम शुल्क किस आधार पर तय किए जाते हैं?",
+    "answer_hi": "घरेलू जल आपूर्ति के न्यूनतम शुल्क भवन के वार्षिक मूल्यांकन और लागू स्लैब दरों के आधार पर निर्धारित किए जाते हैं। :contentReference[oaicite:5]{index=5}",
+    "keywords": ["domestic charges", "minimum bill", "valuation"]
+  },
+  {
+    "id": "billing_meter_size_domestic",
+    "category": "Billing/Payments",
+    "question_en": "How are minimum charges defined for metered domestic connections?",
+    "answer_en": "For metered domestic connections, minimum monthly charges vary based on meter size and area category as prescribed. :contentReference[oaicite:6]{index=6}",
+    "question_hi": "मीटरयुक्त घरेलू कनेक्शन के लिए न्यूनतम शुल्क कैसे निर्धारित हैं?",
+    "answer_hi": "मीटर के आकार और क्षेत्र श्रेणी के अनुसार मीटरयुक्त घरेलू कनेक्शन के न्यूनतम मासिक शुल्क निर्धारित किए गए हैं। :contentReference[oaicite:7]{index=7}",
+    "keywords": ["metered supply", "domestic", "minimum charge"]
+  },
+  {
+    "id": "billing_unmetered_domestic",
+    "category": "Billing/Payments",
+    "question_en": "How are charges decided for unmetered domestic water supply?",
+    "answer_en": "For unmetered domestic supply, minimum charges are applied based on the number of taps and prescribed slabs. :contentReference[oaicite:8]{index=8}",
+    "question_hi": "अमीटरित घरेलू जल आपूर्ति के लिए शुल्क कैसे तय होते हैं?",
+    "answer_hi": "अमीटरित घरेलू जल आपूर्ति के लिए नलों की संख्या और निर्धारित स्लैब के आधार पर न्यूनतम शुल्क लगाया जाता है। :contentReference[oaicite:9]{index=9}",
+    "keywords": ["unmetered supply", "domestic water", "billing"]
+  },
+  {
+    "id": "billing_bulk_supply_rates",
+    "category": "Billing/Payments",
+    "question_en": "Are there different rates for bulk or special category water supply?",
+    "answer_en": "Yes, separate tariff rates are prescribed for special categories, commercial establishments, and bulk water supply. :contentReference[oaicite:10]{index=10}",
+    "question_hi": "क्या थोक या विशेष श्रेणी की जल आपूर्ति के लिए अलग दरें हैं?",
+    "answer_hi": "हाँ, विशेष श्रेणी, व्यावसायिक प्रतिष्ठानों और थोक जल आपूर्ति के लिए अलग-अलग टैरिफ दरें निर्धारित हैं। :contentReference[oaicite:11]{index=11}",
+    "keywords": ["bulk supply", "commercial", "tariff"]
+  },
+  {
+    "id": "billing_metered_usage_per_kl",
+    "category": "Billing/Payments",
+    "question_en": "How are metered water usage charges calculated?",
+    "answer_en": "Metered water usage charges are calculated on a per kilolitre basis, with different rates for urban and rural areas. :contentReference[oaicite:12]{index=12}",
+    "question_hi": "मीटरयुक्त जल उपयोग शुल्क की गणना कैसे होती है?",
+    "answer_hi": "मीटरयुक्त जल उपयोग शुल्क प्रति किलोलीटर के आधार पर, शहरी और ग्रामीण क्षेत्रों के लिए अलग-अलग दरों से लगाया जाता है। :contentReference[oaicite:13]{index=13}",
+    "keywords": ["metered billing", "per kilolitre", "water usage"]
+  },
+  {
+    "id": "billing_sewer_connection_charge",
+    "category": "Billing/Payments",
+    "question_en": "Are sewerage charges included in this tariff notification?",
+    "answer_en": "Yes, the notification also specifies sewerage charges, including fixed and usage-based components where applicable. :contentReference[oaicite:14]{index=14}",
+    "question_hi": "क्या इस टैरिफ अधिसूचना में सीवर शुल्क भी शामिल हैं?",
+    "answer_hi": "हाँ, इस अधिसूचना में सीवर शुल्क भी निर्धारित किए गए हैं, जिनमें स्थिर और उपयोग आधारित घटक शामिल हैं। :contentReference[oaicite:15]{index=15}",
+    "keywords": ["sewer charges", "billing", "tariff"]
+  },
+  {
+    "id": "billing_sewer_minimum_charge",
+    "category": "Billing/Payments",
+    "question_en": "What is the minimum sewerage charge mentioned in the notification?",
+    "answer_en": "A fixed minimum sewerage charge is prescribed as per the category of connection and area. :contentReference[oaicite:16]{index=16}",
+    "question_hi": "अधिसूचना में न्यूनतम सीवर शुल्क क्या निर्धारित है?",
+    "answer_hi": "कनेक्शन की श्रेणी और क्षेत्र के अनुसार न्यूनतम सीवर शुल्क निर्धारित किया गया है। :contentReference[oaicite:17]{index=17}",
+    "keywords": ["sewer minimum", "charges", "billing"]
+  },
+  {
+    "id": "billing_meter_rent_rate",
+    "category": "Billing/Payments",
+    "question_en": "Does the notification specify meter rent rates?",
+    "answer_en": "Yes, monthly meter rent rates are specified based on the size of the water meter. :contentReference[oaicite:18]{index=18}",
+    "question_hi": "क्या अधिसूचना में मीटर किराया दरें दी गई हैं?",
+    "answer_hi": "हाँ, जल मीटर के आकार के अनुसार मासिक मीटर किराया दरें निर्धारित की गई हैं। :contentReference[oaicite:19]{index=19}",
+    "keywords": ["meter rent", "water meter", "billing"]
+  },
+  {
+    "id": "billing_development_charges",
+    "category": "Billing/Payments",
+    "question_en": "Are development charges included in this notification?",
+    "answer_en": "Yes, development charges for water supply and sewerage arrangements are detailed separately in the notification. :contentReference[oaicite:20]{index=20}",
+    "question_hi": "क्या इस अधिसूचना में विकास शुल्क शामिल हैं?",
+    "answer_hi": "हाँ, जल आपूर्ति एवं सीवर व्यवस्था से संबंधित विकास शुल्क इस अधिसूचना में पृथक रूप से दिए गए हैं। :contentReference[oaicite:21]{index=21}",
+    "keywords": ["development charges", "infrastructure", "billing"]
+  },
+  {
+    "id": "billing_water_testing_charge",
+    "category": "Billing/Payments",
+    "question_en": "Is there any water testing or related service charge mentioned?",
+    "answer_en": "The notification specifies applicable service-related charges such as water testing fees where relevant. :contentReference[oaicite:22]{index=22}",
+    "question_hi": "क्या जल परीक्षण या संबंधित सेवा शुल्क का उल्लेख है?",
+    "answer_hi": "जहां लागू हो, जल परीक्षण जैसे सेवा संबंधी शुल्क इस अधिसूचना में निर्धारित किए गए हैं। :contentReference[oaicite:23]{index=23}",
+    "keywords": ["water testing", "service charges", "billing"]
+  },
+  {
+    "id": "billing_tariff_applicability",
+    "category": "Billing/Payments",
+    "question_en": "To whom are these revised tariffs applicable?",
+    "answer_en": "These tariffs are applicable to all consumers under the jurisdiction of Uttarakhand Jal Sansthan as per the defined categories. :contentReference[oaicite:24]{index=24}",
+    "question_hi": "ये संशोधित टैरिफ किन उपभोक्ताओं पर लागू होते हैं?",
+    "answer_hi": "ये टैरिफ उत्तराखंड जल संस्थान के क्षेत्राधिकार में आने वाले सभी उपभोक्ताओं पर निर्धारित श्रेणियों के अनुसार लागू होते हैं। :contentReference[oaicite:25]{index=25}",
+    "keywords": ["tariff applicability", "consumers", "uttarajal"]
   }
 ]
